@@ -1,0 +1,1628 @@
+"This leaderboard is the average results of 40 runs done between 1,433 competitors. (After many handshake, kingmaker, minion, and random.seed manipulators had been removed.)",,,,,,,,,,,,,,
+"More improvements: For these runs, the order in which the 1v1s were conducted was also randomized, just in case there were any lingering effects between game-to-game (there shouldn't be, but I just wanted to be safe)",,,,,,,,,,,,,,
+THIS LEADERBOARD IS NOT FINALIZED!,,,,,,,,,,,,,,
+ID,Rank,Author,Strategy name,Passed sanity check? (no crash),Trial count,Average of (SCORE*100),95% margin of error of (SCORE*100),Stdev of (SCORE*100),% turns cooperated (equal weight to each game regardless of game length),% coop rate stdev across diff opponents,Days after announcement submitted,Non-empty lines of code,"Runtime against 9 defaults (in ms) (~2,250 runs)",A/B branch
+userStrats.s868,#1,Simon,RandomFinder.py,TRUE,300,288.184,±0.029,45.667,89.137,26.481,5.42139,36,94.145,1
+userStrats.s1325,#2,Vanderlism,just_clever_enough.py,TRUE,300,288.003,±0.025,47.322,88.942,27.138,6.88757,41,100.483,1
+userStrats.s704,#3,Sami,friendlyLookup.py,TRUE,300,286.983,±0.033,54.637,84.668,30.795,4.08069,136,7410.178,2
+userStrats.s1382,#4,Chiberty and Silivek (two people),burntBrass.py,TRUE,300,286.606,±0.029,48.732,89.277,26.758,6.95295,44,216.727,1
+userStrats.s1205,#5,usedToBeTomas,n3ptune.py,TRUE,300,286.304,±0.038,52.027,87.778,29.055,6.67175,87,105.486,1
+userStrats.s648,#6,da Finnci,daFinnciAgent.py,TRUE,300,286.286,±0.031,50.082,88.53,28.229,3.69971,79,201.459,1
+userStrats.s1569,#7,Angel-IG,PacificAntiRandomTFT.G.py,TRUE,300,286.108,±0.034,51.053,87.871,28.815,7.74818,64,101.483,2
+userStrats.s126,#8,Caenbe,UwU..py,TRUE,300,285.513,±0.037,41.33,89.636,24.559,0.23447,12,108.919,0
+userStrats.s1334,#9,Albus,circuitBreaker.py,TRUE,300,285.353,±0.020,39.677,91.845,20.767,6.89461,32,106.16,2
+userStrats.s1589,#10,Jun Wong,tittat_detection.py,TRUE,300,285.344,±0.020,39.353,91.576,21.101,8.01096,146,133.86,1
+userStrats.s682,#11,CowSoCool37,forgivingGrimTrigger.py,TRUE,40,285.256,±0.067,55.421,86.368,31.952,3.91498,20,98.922,1
+userStrats.s1239,#12,DillwynKnox,peaceoffer.py,TRUE,40,285.192,±0.068,39.662,91.3,21.59,6.74854,20,92.901,2
+userStrats.s122,#13,duskcheetah,duskbot.py,TRUE,40,285.054,±0.096,41.833,89.947,24.487,0.21851,63,94.388,0
+userStrats.s1264,#14,Jonathan,randomly_forgiving_tit_for_tat.py,TRUE,40,284.946,±0.079,40.029,91.401,20.989,6.80451,26,98.928,3
+userStrats.s1269,#15,Visual-mov,charlie..py,TRUE,40,284.94,±0.096,46.054,88.742,26.738,6.8102,27,107.982,3
+userStrats.s1393,#16,Critonic (Crits for short),BitBot.py,TRUE,40,284.938,±0.088,54.179,87.721,28.358,6.96647,157,170.384,0
+userStrats.s291,#17,meta,MinecraftVillager.py,TRUE,40,284.929,±0.068,40.181,91.655,20.478,0.85956,19,98.203,2
+userStrats.s1249,#18,CamelCaseCam,Niceish.py,TRUE,40,284.909,±0.067,41.864,90.311,24.063,6.76296,76,94.884,3
+userStrats.s878,#19,Patj,procrastinated_tft.py,TRUE,40,284.891,±0.108,42.533,88.698,24.929,5.51671,29,97.275,2
+userStrats.s398,#20,Hannnper,hannnpers_strategy.py,TRUE,40,284.862,±0.074,40.009,90.633,22.481,1.54094,30,98.216,2
+userStrats.s52,#21,John Love,jlove.py,TRUE,40,284.849,±0.087,40.25,91.098,21.825,0.09866,30,91.487,3
+userStrats.s806,#22,The Fumino Team,FUMINO..py,TRUE,40,284.814,±0.141,56.853,86.149,31.714,4.97288,130,139.52,1
+userStrats.s1263,#23,Max,randomTitForTat.py,TRUE,40,284.801,±0.085,40.354,91.466,20.833,6.80203,13,100.051,3
+userStrats.s1053,#24,MathIsFun_,Ultimate TFT.py,TRUE,40,284.801,±0.142,53.044,87.341,29.516,6.11782,106,128.594,3
+userStrats.s1274,#25,Jake,JakesWinningStrat.py,TRUE,40,284.795,±0.106,40.293,91.452,20.84,6.81463,6,99.991,0
+userStrats.s1586,#26,I entered my strat from another account. This form is no longer relevant,quartzer.py,TRUE,40,284.791,±0.068,52.278,87.59,29.714,7.98843,70,91.498,-1
+userStrats.s859,#27,Eucaryote,titForTat edit permadefect deathwobble chances.py,TRUE,40,284.787,±0.080,45.188,88.801,27.284,5.34274,62,91.355,1
+userStrats.s628,#28,404 program not found,ftft++.py,TRUE,40,284.777,±0.058,39.793,90.871,21.091,3.53706,12,92.872,3
+userStrats.s1381,#29,coral,titfortat_but_epic.py,TRUE,40,284.774,±0.087,40.349,91.447,20.846,6.95154,8,94.663,0
+userStrats.s955,#30,MarkTheHopeful,ssoj.py,TRUE,40,284.767,±0.089,40.386,91.452,20.854,5.84832,9,97.139,0
+userStrats.s969,#31,Osterzone,beatrice.py,TRUE,40,284.754,±0.217,55.059,84.793,30.358,5.88006,110,748.404,2
+userStrats.s1171,#32,MiniGlome,titForTat_withRandomness.py,TRUE,40,284.754,±0.072,40.42,91.436,20.883,6.54536,9,100.024,3
+userStrats.s956,#33,SimGus,peacefulTitForTat.py,TRUE,40,284.74,±0.104,40.37,91.405,20.853,5.85103,55,104.541,3
+userStrats.s465,#34,Chris Prendergast,forgivingTitForTat.py,TRUE,40,284.738,±0.102,40.455,91.57,20.586,1.94491,9,88.127,2
+userStrats.s1428,#35,Wibke,CarefullyOptimisticTitForTat..py,TRUE,40,284.693,±0.058,40.132,90.902,21.25,6.99081,26,95.428,0
+userStrats.s128,#36,Brendon,moveOn.py,TRUE,40,284.682,±0.100,40.509,91.556,20.584,0.24777,14,85.577,3
+userStrats.s517,#37,Noel,yeet.py,TRUE,40,284.68,±0.083,40.565,91.552,20.613,2.4423,10,96.117,2
+userStrats.s1563,#38,Rodmod,grugde.py,TRUE,40,284.651,±0.099,40.603,91.385,20.967,7.66912,23,92.675,3
+userStrats.s380,#39,Fynmorph,nothingBeatsTFT.py,TRUE,40,284.629,±0.093,48.247,88.127,28,1.33258,33,87.285,0
+userStrats.s270,#40,Bonny,titForgiveAD9.py,TRUE,40,284.582,±0.059,40.452,91.636,20.93,0.79087,55,94.44,2
+userStrats.s1566,#41,Stephen Mwangi,Absolution3679.py,TRUE,40,284.575,±0.077,43.23,89.999,24.534,7.73453,27,135.257,3
+userStrats.s713,#42,Xirzag,titForTroll.py,TRUE,40,284.556,±0.092,54.475,86.595,30.951,4.15499,29,90.464,1
+userStrats.s728,#43,Toron Beldevar,Toron_strat.py,TRUE,40,284.54,±0.104,40.811,91.635,20.394,4.30836,10,91.047,1
+userStrats.s413,#44,almostsams,slightlyForgivingTitForTat.py,TRUE,40,284.536,±0.064,41.106,92.017,19.625,1.6992,13,90.251,3
+userStrats.s1450,#45,"Drip, or just Lucas",HEARTBREAKER.py,TRUE,40,284.498,±0.113,53.561,86.53,30.296,7.00176,135,111.116,2
+userStrats.s1411,#46,DorkKnight,SuperCoop.py,TRUE,40,284.498,±0.065,41.066,91.827,20.629,6.97987,88,135.769,2
+userStrats.s616,#47,GerbilM,acyclic titForTat 3.py,TRUE,40,284.488,±0.073,41.666,90.889,22.626,3.3386,30,97.293,1
+userStrats.s167,#48,Justin Auger,elephantsNeverForget.py,TRUE,40,284.449,±0.099,54.873,86.556,31.109,0.43454,23,89.973,0
+userStrats.s1575,#49,someone12469; submitting again because my first submission still wasn't removed and it's almost 1am here (the old submission was using someone12469@gmail.com),ftf.py,TRUE,40,284.431,±0.068,43.459,89.64,25.219,7.85146,73,242.351,2
+userStrats.s1602,#50,someone12469,ftf.py,TRUE,40,284.428,±0.089,43.456,89.639,25.221,8.49453,73,227.221,2
+userStrats.s825,#51,franco,franco4.py,TRUE,40,284.384,±0.070,40.984,90.316,23.007,5.06184,43,93.788,3
+userStrats.s1158,#52,SSirus,Sirius.py,TRUE,40,284.382,±0.092,48.45,88.376,27.057,6.48551,64,101.852,3
+userStrats.s1333,#53,Reuben,theDailyTat.py,TRUE,40,284.382,±0.060,41.694,91.351,21.45,6.89428,31,135.057,3
+userStrats.s975,#54,CrazyCraftix,superAwesomeStrategy.py,TRUE,40,284.378,±0.076,41.806,89.745,23.755,5.89971,18,104.317,3
+userStrats.s1003,#55,Ben Wilop and Joshua Sieben,unanim.py,TRUE,40,284.36,±0.094,56.307,86.519,31.208,5.96699,70,126.092,2
+userStrats.s816,#56,Shefeto,niceDetective.py,TRUE,40,284.321,±0.085,56.775,88.578,29.15,5.02801,139,100.698,3
+userStrats.s1037,#57,Cool_Zeb,forgivingPunisher.py,TRUE,40,284.284,±0.107,41.563,91.855,19.668,6.07888,45,98.104,2
+userStrats.s26,#58,Pat,titForTat.py,TRUE,40,284.278,±0.069,41.392,90.286,23.159,0.04674,5,86.362,1
+userStrats.s1511,#59,Pacoyo,If this program gets in the top 100 i will literally drink water.py,TRUE,40,284.267,±0.058,41.693,91.603,21.04,7.02691,9,90.907,2
+userStrats.s53,#60,Alligator Joe,tftButAWESOME.py,TRUE,40,284.257,±0.074,41.45,90.282,23.181,0.0992,7,92.785,3
+userStrats.s1513,#61,Quantum,quantumCopycatNetwork.py,TRUE,40,284.234,±0.059,41.485,90.271,23.195,7.02973,71,122.838,3
+userStrats.s1160,#62,GladiatorTurtlez,You activated my trap card.py,TRUE,40,284.233,±0.053,41.515,90.278,23.198,6.50469,20,95.498,3
+userStrats.s1275,#63,AxBaEn,titForTatForCharity.py,TRUE,40,284.233,±0.081,41.529,90.27,23.21,6.81802,6,100.353,0
+userStrats.s384,#64,"Online name: Smile.  I don't know why google forms added my real name next to the uploaded file name, please edit the file name if possible :(",smileTitForTat.py,TRUE,40,284.231,±0.070,41.485,90.269,23.198,1.37222,7,87.208,3
+userStrats.s1571,#65,VpgMackan,mycode.py,TRUE,40,284.225,±0.065,41.5,90.267,23.199,7.76782,5,99.193,-1
+userStrats.s121,#66,Spud,karma.py,TRUE,40,284.224,±0.056,41.479,90.259,23.196,0.21286,17,86.696,2
+exampleStrats.titForTat,#67,None,titForTat,TRUE,40,284.221,±0.062,41.477,90.26,23.193,0,5,0,-1
+userStrats.s848,#68,xHyperElectric,MyStrat.py,TRUE,40,284.22,±0.071,41.52,90.267,23.197,5.25132,6,90.183,3
+userStrats.s983,#69,Xik,MELOL.py,TRUE,40,284.218,±0.071,41.471,90.257,23.198,5.92126,26,250.614,3
+userStrats.s192,#70,Kartarva,titForTatForCharity.py,TRUE,40,284.218,±0.069,41.521,90.261,23.213,0.518,5,90.115,0
+userStrats.s1352,#71,D'Angelo,DangelosSuperCoolStrategy.py,TRUE,40,284.215,±0.060,41.487,90.253,23.204,6.92572,21,104.189,0
+userStrats.s1211,#72,flat blanket,just_playing_my_part.py,TRUE,40,284.215,±0.075,41.466,90.257,23.192,6.67913,5,99.092,1
+userStrats.s1353,#73,Ferfun,bibichu_v3.py,TRUE,40,284.214,±0.072,41.475,90.257,23.193,6.92757,81,3157.877,2
+userStrats.s30,#74,Taka,reigningchampion.py,TRUE,40,284.212,±0.075,41.536,90.257,23.219,0.05926,5,94.265,3
+userStrats.s42,#75,frib,titForTat2.py,TRUE,40,284.211,±0.059,41.5,90.256,23.204,0.08256,16,94.304,-1
+userStrats.s184,#76,HarrisL2 (Harris),titForTatForCharityOriginal.py,TRUE,40,284.211,±0.078,41.59,90.264,23.23,0.50186,20,83.14,2
+userStrats.s461,#77,Boogin,GoblinSmasher.py,TRUE,40,284.211,±0.061,41.469,90.251,23.194,1.92116,5,86.937,2
+userStrats.s309,#78,Viktor,titForTatForCharity.py,TRUE,40,284.207,±0.065,41.493,90.256,23.199,0.90874,5,90.857,3
+userStrats.s617,#79,Woodmouth,titForTat clone nr 38426.py,TRUE,40,284.205,±0.068,41.524,90.252,23.216,3.41404,9,86.699,0
+userStrats.s16,#80,DoublespoonCo,TitForTut.py,TRUE,40,284.205,±0.083,41.512,90.256,23.204,0.03068,5,85.591,3
+userStrats.s773,#81,The Boi,beanboiii.py,TRUE,40,284.2,±0.076,41.526,90.247,23.217,4.78601,14,102.066,1
+userStrats.s927,#82,CoderJosh,trustBuildingTats.py,TRUE,40,284.2,±0.076,41.539,90.253,23.223,5.77241,35,95.516,2
+userStrats.s641,#83,Tantusar,catchup.py,TRUE,40,284.199,±0.092,41.459,90.248,23.188,3.63448,9,108.231,2
+userStrats.s1117,#84,MartinPlusPlus,foolMeOnceFoolMeTenTimes.py,TRUE,40,284.196,±0.056,41.567,90.25,23.229,6.35046,14,92.048,0
+userStrats.s1340,#85,lauti-silber,astor_v4.py,TRUE,40,284.195,±0.059,41.568,90.256,23.223,6.91056,117,4104.191,2
+userStrats.s98,#86,jamster02,oliveTitForTat.py,TRUE,40,284.195,±0.072,41.552,90.25,23.217,0.18186,8,89.147,3
+userStrats.s1092,#87,Delaney,literallyJustTitForTat.py,TRUE,40,284.194,±0.062,41.576,90.252,23.228,6.25277,12,95.731,0
+userStrats.s201,#88,Sillen,titForTatForCharity.py,TRUE,40,284.193,±0.064,41.6,90.251,23.244,0.57953,5,93.062,1
+userStrats.s246,#89,aryan02420,copyCat.py,TRUE,40,284.192,±0.060,41.536,90.246,23.219,0.7094,9,88.335,3
+userStrats.s1489,#90,Tammon,just_in_case.py,TRUE,40,284.192,±0.072,41.564,90.247,23.225,7.01721,5,94.657,3
+userStrats.s536,#91,ooga,titForTat.py,TRUE,40,284.192,±0.076,41.525,90.244,23.218,2.58318,5,95.168,3
+userStrats.s233,#92,Xam,newStrategy.py,TRUE,40,284.19,±0.079,41.558,90.249,23.224,0.66153,71,98.521,0
+userStrats.s900,#93,Louis Gan,Louis Bogget Khode.py,TRUE,40,284.189,±0.075,41.583,90.255,23.229,5.67417,32,93.259,2
+userStrats.s1469,#94,TK,super_clever_detective.py,TRUE,40,284.189,±0.065,56.293,88.324,29.163,7.01063,109,96.807,2
+userStrats.s612,#95,octo is fine!,resentfult4t.py,TRUE,40,284.189,±0.065,41.557,90.249,23.223,3.25416,13,89.256,3
+userStrats.s1523,#96,Roman,titForTat.py,TRUE,40,284.188,±0.064,41.554,90.248,23.226,7.0772,5,87.681,1
+userStrats.s189,#97,JammerAlert,TitforTatJam.py,TRUE,40,284.187,±0.072,41.552,90.248,23.228,0.5152,5,90.509,2
+userStrats.s1342,#98,fearlessTobi,titForTat_cooperateFirst.py,TRUE,40,284.185,±0.078,41.588,90.249,23.236,6.91133,9,100.693,1
+userStrats.s564,#99,Roie,pht.py,TRUE,40,284.185,±0.063,41.556,90.247,23.221,2.80041,25,96.731,0
+userStrats.s1285,#100,Jon,mathematicallybest.py,TRUE,40,284.184,±0.081,41.549,90.244,23.223,6.83278,6,106.223,0
+userStrats.s362,#101,noel (no-el),Beneficial cooperation.py,TRUE,40,284.183,±0.069,41.558,90.246,23.224,1.20985,17,89.05,0
+userStrats.s483,#102,juan,raymondReddington.py,TRUE,40,284.182,±0.064,41.514,90.235,23.214,2.03986,20,94.682,2
+userStrats.s663,#103,marcin,myStrategy.py,TRUE,40,284.182,±0.062,41.564,90.242,23.229,3.81164,39,99.382,2
+userStrats.s623,#104,Jallaba,patternDetective.py,TRUE,40,284.181,±0.065,41.557,90.249,23.219,3.48609,56,458.256,3
+userStrats.s153,#105,Schpudt / I think I just messed up lol lemme rejoin,grimVariant.py,TRUE,40,284.179,±0.067,41.534,90.231,23.222,0.36759,17,102.243,2
+userStrats.s1403,#106,Speakers,bigMoney.py,TRUE,40,284.177,±0.081,41.594,90.247,23.231,6.97554,29,100.399,1
+userStrats.s1373,#107,Tourtle,defMyStrategy.py,TRUE,40,284.177,±0.077,41.562,90.244,23.225,6.94078,6,103.631,2
+userStrats.s1404,#108,square,square_15_mercy_jossfix2_rd.py,TRUE,40,284.176,±0.111,58.754,85.734,32.344,6.97575,62,111.527,3
+userStrats.s757,#109,john,titForTat.py,TRUE,40,284.175,±0.062,41.579,90.242,23.233,4.66192,6,90.527,2
+userStrats.s1526,#110,moses,modifiedTFT.py,TRUE,40,284.175,±0.056,41.631,90.249,23.248,7.09494,8,90.943,0
+userStrats.s614,#111,Gaming with Charlie (Because that's my YouTube channel name),Charlie_Strat.py,TRUE,40,284.173,±0.070,41.541,90.236,23.213,3.291,44,90.962,1
+userStrats.s935,#112,akriegman,primeForgivenessTitForTat.py,TRUE,40,284.173,±0.066,42.095,91.838,20.409,5.80575,11,107.231,1
+userStrats.s254,#113,Lucibus,tatfortit.py,TRUE,40,284.17,±0.075,41.548,90.236,23.224,0.73889,29,149.842,2
+userStrats.s1104,#114,CyberPixel,twilightSporkle.py,TRUE,40,284.169,±0.071,41.607,90.239,23.245,6.29792,18,96.91,1
+userStrats.s431,#115,Mitch,stopWinningOrIWill.py,TRUE,40,284.169,±0.073,41.613,90.246,23.236,1.76052,23,96.679,3
+userStrats.s1363,#116,Jim,msu.py,TRUE,40,284.167,±0.079,41.616,90.235,23.257,6.93587,6,88.211,-1
+userStrats.s709,#117,Endozen,totallyNotTitForTat.py,TRUE,40,284.167,±0.067,41.569,90.237,23.232,4.14565,8,93.076,0
+userStrats.s46,#118,Wasser17,evilTitForTat.py,TRUE,40,284.166,±0.082,41.591,90.231,23.244,0.08394,7,88.128,1
+userStrats.s236,#119,f3rn0s,dumbythickstrat.py,TRUE,40,284.165,±0.066,41.606,90.238,23.243,0.66586,12,107.119,1
+userStrats.s643,#120,Oreztov,orezStrat.py,TRUE,40,284.165,±0.072,41.597,90.243,23.233,3.65153,10,92.192,0
+userStrats.s627,#121,Adam,RecursiveNeuralNetwork.py,TRUE,40,284.163,±0.059,41.632,90.244,23.246,3.53368,24,133.248,-1
+userStrats.s379,#122,Brady,bradyStrat.py,TRUE,40,284.162,±0.071,41.63,90.241,23.248,1.33178,28,89.377,2
+userStrats.s237,#123,Prétauhi,The law of Talion.py,TRUE,40,284.161,±0.060,41.595,90.232,23.245,0.66902,16,110.228,3
+userStrats.s432,#124,Euler,bestStrat.py,TRUE,40,284.157,±0.065,41.598,90.232,23.241,1.7726,14,91.666,1
+userStrats.s181,#125,Rainlicker,titForTatForCharitycool13100.py,TRUE,40,284.156,±0.083,41.631,90.23,23.262,0.49509,5,92.329,2
+userStrats.s1301,#126,Physi (Fizzy),titfortat_startwithdefect.py,TRUE,40,284.155,±0.060,41.581,90.231,23.232,6.85731,7,97.696,3
+userStrats.s296,#127,Dkay7,titForTatForCharity.py,TRUE,40,284.154,±0.062,41.624,90.229,23.258,0.87448,5,105.473,1
+userStrats.s647,#128,Yeicor,titForTat.py,TRUE,40,284.154,±0.085,41.631,90.227,23.263,3.69444,6,98.981,1
+userStrats.s293,#129,Jonas,johnnyJohnson.py,TRUE,40,284.152,±0.082,41.669,90.235,23.267,0.86603,19,108.686,3
+userStrats.s860,#130,nullcomputer,!                                                                                         !!!!!!!(superdupergreatlycrapstratagyalgorithmforcarykhhimselfthatiwilllose).py,TRUE,40,284.15,±0.081,41.588,90.227,23.245,5.35395,5,91.062,3
+userStrats.s548,#131,Jack Carreira,titForTat.py,TRUE,40,284.15,±0.067,41.621,90.226,23.257,2.71491,5,96.12,2
+userStrats.s735,#132,UnicodeTreason,EqualOpponentCOOP.py,TRUE,40,284.148,±0.075,41.548,90.218,23.231,4.44127,11,99.43,2
+userStrats.s1380,#133,direk,simpletonsTitForTat.py,TRUE,40,284.148,±0.063,41.631,90.226,23.258,6.94813,25,93.781,3
+userStrats.s490,#134,Ritit,bettertit.py,TRUE,40,284.148,±0.069,41.648,90.229,23.26,2.08466,8,90.091,1
+userStrats.s1591,#135,Kai,titForTat.py,TRUE,40,284.147,±0.065,41.649,90.221,23.266,8.01604,5,93.801,2
+userStrats.s311,#136,Diriector_Doc,doc'sStrategy.py,TRUE,40,284.143,±0.056,41.663,90.225,23.272,0.91139,24,95.093,1
+userStrats.s1154,#137,DoubleThought,tftWithForgiveness.py,TRUE,40,284.14,±0.113,41.624,91.893,19.75,6.48156,10,87.055,3
+userStrats.s1565,#138,yasirroni,nprttStudent-halflife.py,TRUE,40,284.138,±0.097,55.381,86.982,30.612,7.71255,297,178.402,3
+userStrats.s179,#139,Fastwind,conform.py,TRUE,40,284.138,±0.070,41.623,90.224,23.247,0.49168,13,105.005,2
+userStrats.s230,#140,Cosimo,titForTatForCharity_Cosimonta.py,TRUE,40,284.135,±0.075,41.652,90.222,23.262,0.65508,5,103.9,3
+userStrats.s1185,#141,ChaoticNeutralCzech,CNC_T4T.py,TRUE,40,284.135,±0.062,41.647,90.217,23.27,6.61898,12,97.586,1
+userStrats.s994,#142,Hensage,ForgiveAndForget.py,TRUE,40,284.135,±0.068,41.688,90.224,23.278,5.94505,9,95.417,3
+userStrats.s99,#143,"Joe Z. (or Joe Zeng, whichever you prefer)",delayedDetective..py,TRUE,40,284.134,±0.092,41.675,90.225,23.271,0.18208,50,88.64,2
+userStrats.s906,#144,donno2048,main157.py,TRUE,40,284.129,±0.061,41.22,90.219,23.09,5.69689,11,105.441,1
+userStrats.s423,#145,Zhivko,titfortata++1.py,TRUE,40,284.129,±0.068,41.197,90.217,23.079,1.74228,8,92.818,3
+userStrats.s186,#146,hamben,titForTatForCharity.py,TRUE,40,284.127,±0.065,41.646,90.216,23.266,0.50398,5,104.249,0
+userStrats.s1128,#147,Arjun Yadav,elephant.py,TRUE,40,284.124,±0.079,41.698,90.225,23.28,6.39839,19,97.936,3
+userStrats.s1606,#148,TheSacredRatty,novatft.py,TRUE,40,284.123,±0.101,58.194,85.796,32.859,8.91983,46,98.978,1
+userStrats.s73,#149,adrien,titForTatFailsafe.py,TRUE,40,284.122,±0.078,42.112,91.126,22.317,0.1461,15,91.981,1
+userStrats.s820,#150,Lamaun,NoisyTitForTat.py,TRUE,40,284.122,±0.069,41.685,90.22,23.273,5.04243,19,87.952,2
+userStrats.s168,#151,Charles,titForTatForCharityCharles.py,TRUE,40,284.114,±0.072,41.268,90.217,23.1,0.44404,6,92.441,3
+userStrats.s988,#152,​,pr.py,TRUE,40,284.113,±0.076,41.243,90.208,23.097,5.93304,10,118.049,3
+userStrats.s1165,#153,Szab,sebsstrat.py,TRUE,40,284.11,±0.057,41.265,90.209,23.103,6.52039,10,168.945,3
+userStrats.s549,#154,allesman,1delayedTitForTat.py,TRUE,40,284.11,±0.052,41.241,90.212,23.094,2.71625,8,90.793,3
+userStrats.s173,#155,ArchaDust,titForTat.py,TRUE,40,284.105,±0.061,41.248,90.202,23.105,0.4667,5,92.498,0
+userStrats.s176,#156,Autissima,titForTatForCharity.py,TRUE,40,284.1,±0.076,41.292,90.211,23.111,0.47435,5,97.394,2
+userStrats.s1317,#157,lmkawakami,bonzinho.py,TRUE,40,284.098,±0.069,41.63,90.238,23.249,6.87757,19,94.969,2
+userStrats.s174,#158,Brotcrunsher,BrotStrats.py,TRUE,40,284.088,±0.057,41.31,90.196,23.119,0.46682,32,91.936,0
+userStrats.s516,#159,8Eight,a vote of confidence.py,TRUE,40,284.086,±0.110,41.732,91.862,19.807,2.43189,10,102.08,1
+userStrats.s1508,#160,CactusToaster,bad_player.py,TRUE,40,284.078,±0.066,41.749,90.196,23.307,7.02058,15,93.264,-1
+userStrats.s1300,#161,Vladimir,mya.py,TRUE,40,284.075,±0.055,41.4,91.101,21.599,6.85516,149,101.915,2
+userStrats.s838,#162,Harry,CouncilOfFates.py,TRUE,40,284.071,±0.069,41.993,90.307,23.301,5.17241,136,161.447,3
+userStrats.s88,#163,ptaszor3 or birdo3,treatcherousBirdo.py,TRUE,40,284.063,±0.116,41.8,91.871,19.81,0.16823,9,89.786,2
+userStrats.s55,#164,Gacrucis,reverse_joss.py,TRUE,40,284.057,±0.101,41.711,91.858,19.785,0.10218,11,86.88,1
+userStrats.s619,#165,tea,t8j.py,TRUE,40,284.053,±0.091,41.799,91.86,19.801,3.43839,8,101.472,0
+userStrats.s478,#166,baptmont,maybeTitForTat.py,TRUE,40,284.053,±0.098,41.696,91.859,19.78,2.02127,8,94.196,1
+userStrats.s218,#167,"Stranded Deity, or just Stranded if you want",GTAT.py,TRUE,40,284.042,±0.119,41.789,91.858,19.803,0.62119,18,106.62,3
+userStrats.s1509,#168,Jor,reverse joss.py,TRUE,40,284.039,±0.093,41.837,91.858,19.822,7.02169,11,93.796,0
+userStrats.s656,#169,Fallli,fallli.py,TRUE,40,284.032,±0.116,45.531,83.724,22.548,3.75292,51,93.352,-1
+userStrats.s297,#170,cttet,cary.py,TRUE,40,284.026,±0.108,41.841,91.844,19.84,0.87535,6,105.216,1
+userStrats.s1307,#171,Dr. Dan,coolcats2.py,TRUE,40,284.025,±0.143,41.704,91.844,19.786,6.86854,6,90.317,0
+userStrats.s1559,#172,mc163,ANPRTT.py,TRUE,40,284.011,±0.066,41.41,90.663,22.795,7.55052,47,153.714,1
+userStrats.s38,#173,wad67,tit4tit.py,TRUE,40,283.99,±0.101,41.921,91.837,19.854,0.0797,18,93.187,2
+userStrats.s1107,#174,amaturecoder,"TFTresponddefectrandom(0p5,25).py",TRUE,40,283.971,±0.071,42.563,89.592,24.778,6.30815,29,210.819,3
+userStrats.s149,#175,manawan,titForTatZ.py,TRUE,40,283.965,±0.104,41.908,91.815,19.85,0.31796,9,92.462,0
+userStrats.s580,#176,quojova,quojova3final.py,TRUE,40,283.95,±0.095,57.99,85.846,32.643,2.88978,47,92.675,1
+userStrats.s1556,#177,Jor,short_term_memory_loss.py,TRUE,40,283.944,±0.088,41.984,91.816,19.869,7.45929,12,93.363,0
+userStrats.s1357,#178,minato13,perdoador.py,TRUE,40,283.931,±0.072,41.875,90.562,22.89,6.93117,16,97.53,2
+userStrats.s1496,#179,Beerfazz,Beerfazz.py,TRUE,40,283.898,±0.070,41.803,90.028,23.361,7.01931,6,91.08,2
+userStrats.s593,#180,sspustan,Trust levels.py,TRUE,40,283.876,±0.075,42.186,92.129,18.975,2.97329,29,97.329,3
+userStrats.s511,#181,JackToaster,MassiveConglomerate.py,TRUE,40,283.862,±0.064,42.399,90.05,23.702,2.37031,837,2618.612,3
+userStrats.s1182,#182,Yannick,doofus.py,TRUE,40,283.826,±0.094,58.736,84.85,32.71,6.60458,14,485.629,0
+userStrats.s1093,#183,Chris,titTatTie.py,TRUE,40,283.815,±0.066,47.19,90.391,24.866,6.25605,81,212.225,2
+userStrats.s1510,#184,Jorge,jorge.py,TRUE,40,283.791,±0.092,42.315,91.595,20.614,7.0263,18,101.515,0
+userStrats.s31,#185,trangium,reversejoss116.py,TRUE,40,283.791,±0.085,42.248,91.983,19.47,0.06192,7,92.267,0
+userStrats.s1071,#186,Zilto,titForTail.py,TRUE,40,283.766,±0.083,42.199,90.474,22.772,6.18221,23,94.701,1
+userStrats.s1497,#187,Dustin,Combo.py,TRUE,40,283.752,±0.086,41.742,89.529,23.25,7.01931,44,99.442,0
+userStrats.s1457,#188,Junbun,tittatsecondchance2.py,TRUE,40,283.714,±0.044,42.332,90.367,23.198,7.00674,28,90.482,1
+userStrats.s1030,#189,trk20,smarterDogs.py,TRUE,40,283.691,±0.107,45.768,91.087,22.183,6.05773,94,95.151,1
+userStrats.s1546,#190,BlueSheep,bluesheep.py,TRUE,40,283.662,±0.074,41.486,91.471,21.422,7.20771,27,141.146,3
+userStrats.s675,#191,Joseph,simplyPredict.py,TRUE,40,283.643,±0.096,47.37,87.501,28.797,3.90006,30,95.726,2
+userStrats.s1429,#192,Eiri,titForTatRand.py,TRUE,40,283.617,±0.090,54.549,85.467,32.17,6.9916,18,95.505,1
+userStrats.s285,#193,Zasserr,binaryStrat.py,TRUE,40,283.609,±0.133,42.615,91.967,19.457,0.84575,43,106.376,2
+userStrats.s178,#194,dengasan,biggusBrainus.py,TRUE,40,283.548,±0.115,43.994,86.344,22.483,0.4814,28,92.21,3
+userStrats.s1609,#195,Edward,EdwardHaas.py,TRUE,40,283.535,±0.128,60.698,84.748,32.419,9.01164,222,544.914,0
+userStrats.s1415,#196,Nerogante,fakePriest.py,TRUE,40,283.527,±0.089,42.737,86.244,22.776,6.98262,26,92.301,3
+userStrats.s1491,#197,katom,DinorKatom_v1.py,TRUE,40,283.513,±0.081,57.532,85.114,32.785,7.018,70,478.451,0
+userStrats.s1418,#198,Xapakas,diplomat.py,TRUE,40,283.481,±0.109,59.542,86.355,31.725,6.98372,77,96.589,1
+userStrats.s1433,#199,Keelan,ZDGTFTprober.py,TRUE,40,283.48,±0.076,47.575,91.493,20.899,6.99407,17,122.559,3
+userStrats.s929,#200,"pyko (realised that google forms appended my name to the file...prefer that to stay private please, thanks!)",guarded-tft.py,TRUE,40,283.477,±0.094,54.035,85.926,32.019,5.78241,50,165.717,0
+userStrats.s572,#201,Strichcoder,titForTat_upgrade_against_random.py,TRUE,40,283.395,±0.082,45.341,88.553,26.98,2.83912,27,232.526,0
+userStrats.s363,#202,David Bieber,dbieber001.py,TRUE,40,283.391,±0.066,41.45,89.638,22.8,1.22119,31,91.759,1
+userStrats.s190,#203,BMDragon,PossiblyCleverTFT.py,TRUE,40,283.366,±0.082,44.085,91.39,21.968,0.51603,17,113.528,2
+userStrats.s1371,#204,nullwyrm,nullwyrm_threestrikes.py,TRUE,40,283.365,±0.084,58.849,84.378,33.433,6.9399,67,104.301,1
+userStrats.s961,#205,Paul,TFTactics.py,TRUE,40,283.345,±0.079,60.484,84.932,33.965,5.86499,38,102.524,1
+userStrats.s1466,#206,PrisonBreaker,try_to_be_smart.py,TRUE,40,283.291,±0.116,48.215,88.518,27.14,7.00988,114,123.899,2
+userStrats.s730,#207,Kwipp,smartTitForTat.py,TRUE,40,283.289,±0.100,60.296,90.261,26.172,4.33826,56,157.903,3
+userStrats.s1422,#208,Dreamer,vengefulNegotiater.py,TRUE,40,283.271,±0.142,57.761,84.813,33.284,6.98682,44,105.756,1
+userStrats.s1081,#209,Kyu,MultiAgentGrimTit6.py,TRUE,40,283.264,±0.118,43.306,92.09,19.116,6.21124,25,104.792,0
+userStrats.s993,#210,Basis_Orthonormal,ZDGTFT-2modifyskintedenegpg.py,TRUE,40,283.259,±0.101,42.913,91.698,20.643,5.94213,24,106.749,3
+userStrats.s409,#211,Richard,prefer_to_trust.py,TRUE,40,283.25,±0.087,58.672,84.757,33.668,1.67465,14,118.09,3
+userStrats.s1596,#212,"Maildropfolder (This is my second response because I messed up a < on my first submission and I'm sorry this is technically late but I was out of town until 8 hours ago so hey, fingers crossed. Thanks!)",statsWhale.py,TRUE,40,283.246,±0.076,46.47,89.259,26.351,8.04538,75,91.156,0
+userStrats.s1119,#213,connor,otft.py,TRUE,40,283.232,±0.100,60.671,84.864,34.023,6.35228,41,89.441,2
+userStrats.s1339,#214,Kenny,kh2.py,TRUE,40,283.187,±0.078,63.438,83.665,35.014,6.91012,65,101.367,0
+userStrats.s495,#215,Jyong,ZDGTFT-Jyong.py,TRUE,40,283.154,±0.140,43.892,92.172,18.683,2.15368,17,89.847,3
+userStrats.s124,#216,PersonMon,TitForTatForgive.py,TRUE,40,283.145,±0.125,43.444,92.085,19.085,0.23117,10,92.887,2
+userStrats.s1299,#217,Italo Nicola,mineX.py,TRUE,40,283.061,±0.096,63.919,89.755,23.543,6.84878,37,204.041,3
+userStrats.s979,#218,Spu7Nix (pronounced sputnix),mindreader.py,TRUE,40,283.047,±0.067,43.642,88.032,26.354,5.90769,41,154.888,3
+userStrats.s354,#219,Canatron,unpredictable ftft.py,TRUE,40,283.043,±0.133,43.622,92.156,18.902,1.13412,8,88.093,3
+userStrats.s1358,#220,kjh,kjhDetectRandom2.py,TRUE,40,283.024,±0.087,49.646,87.597,28.702,6.9325,45,130.89,1
+userStrats.s1157,#221,Nicola,detectiveTitForTat.py,TRUE,40,283.002,±0.085,54.203,83.552,29.211,6.48391,52,104.146,0
+userStrats.s966,#222,Leorias,Kingslayer.py,TRUE,40,282.929,±0.097,65.41,83.602,33.097,5.87594,273,157.814,3
+userStrats.s396,#223,Anivial,anivial_strategy.py,TRUE,40,282.927,±0.083,56.534,84.509,33.165,1.51126,22,99.783,3
+userStrats.s72,#224,Emilbee,emilStrat_2.py,TRUE,40,282.873,±0.072,43.857,92.236,18.558,0.14315,20,87.844,0
+userStrats.s1281,#225,The Smiling General,NPRNNTT-HL.py,TRUE,40,282.867,±0.059,43.131,92.015,20.873,6.82992,54,193.806,2
+userStrats.s803,#226,TheMusZero,bestFriend.py,TRUE,40,282.86,±0.093,46.38,88.616,27.372,4.94293,68,1018.016,1
+userStrats.s810,#227,Captain Storm,guiltyTitForTat.py,TRUE,40,282.85,±0.072,43.023,91.017,22.18,4.99091,49,169.302,1
+userStrats.s953,#228,CathGorm,DRIFT_20.py,TRUE,40,282.817,±0.092,51.852,87.998,27.908,5.84499,28,182.875,1
+userStrats.s1480,#229,André (good enough :) ),psychologist.py,TRUE,40,282.809,±0.087,50.305,87.058,28.791,7.01495,29,106.919,3
+userStrats.s550,#230,loopytop,loopytop.py,TRUE,40,282.804,±0.058,43.409,91.859,20.874,2.72535,45,101.578,3
+userStrats.s847,#231,BobbyMcBoy,BobbyMcBoy_titForTat.py,TRUE,40,282.781,±0.106,44.576,92.728,17.695,5.24669,10,95.48,0
+userStrats.s926,#232,AJ,newStrat.py,TRUE,40,282.776,±0.136,44.245,92.175,18.842,5.7674,6,94.423,2
+userStrats.s1108,#233,caddr,cad_minimax.py,TRUE,40,282.738,±0.103,73.095,81.127,31.781,6.31181,112,388.185,3
+userStrats.s615,#234,Unsightedmetal6,titForTat.py,TRUE,40,282.656,±0.133,44.371,92.146,18.861,3.30189,10,90.249,1
+userStrats.s1082,#235,Plazma or PlazmaDolphin,stratDetector.py,TRUE,40,282.634,±0.136,59.34,85.901,32.545,6.21174,59,103.686,3
+userStrats.s1072,#236,LegitSi,idontknowwhatimdoingbutitsfun.py,TRUE,40,282.623,±0.089,41.526,88.829,22.491,6.18284,247,93.961,1
+userStrats.s1176,#237,Seb,COOPERATE.py,TRUE,40,282.566,±0.058,43.617,91.436,20.661,6.55204,22,101.96,3
+userStrats.s1320,#238,AhBoi,cautiousPlayer.py,TRUE,40,282.521,±0.101,52.195,93.992,15.374,6.8802,31,103.162,0
+userStrats.s1572,#239,Siegfried,Simplebutsweet.py,TRUE,40,282.494,±0.127,44.759,92.182,18.753,7.82865,9,89.362,1
+userStrats.s1112,#240,FALSE,IAO.py,TRUE,40,282.486,±0.077,52.714,86.381,27.125,6.33617,76,92.389,1
+userStrats.s1449,#241,Periapsis,Periapsis.py,TRUE,40,282.475,±0.075,46.837,90.79,23.507,7.00157,103,115.97,2
+userStrats.s1297,#242,Emma,tftPlus.py,TRUE,40,282.404,±0.068,45.975,89.727,25.238,6.84431,107,169.36,2
+userStrats.s445,#243,Aaron Neu,SlightAdvantage-AaronNeu.py,TRUE,40,282.402,±0.108,44.738,87.682,22.76,1.85479,29,101.104,1
+userStrats.s14,#244,arnaudsm,CleverHans.py,TRUE,40,282.385,±0.146,44.939,92.249,18.575,0.02189,6,87.368,1
+userStrats.s968,#245,CrispyBun,POTTwShield.py,TRUE,40,282.368,±0.069,45.425,92.473,18.935,5.87942,33,100.274,1
+userStrats.s225,#246,slapusillydawg,zdgtft2.py,TRUE,40,282.355,±0.134,45.564,92.37,18.082,0.64333,14,105.212,2
+userStrats.s332,#247,Goldy,titForTat_forgive.py,TRUE,40,282.317,±0.116,45.057,92.298,18.462,1.01008,7,104.485,2
+userStrats.s995,#248,G_glop,opusNotMagnum.py,TRUE,40,282.306,±0.069,46.735,92.841,16.91,5.94846,30,151.391,0
+userStrats.s819,#249,bowlerman,zdgtft-2.py,TRUE,40,282.303,±0.144,45.614,92.342,18.115,5.03706,12,96.576,0
+userStrats.s849,#250,TheFrozenFire,TitForTatAntiLooper.py,TRUE,40,282.297,±0.054,44.343,92.419,19.564,5.26451,18,92.968,0
+userStrats.s579,#251,Howard,winner.py,TRUE,40,282.279,±0.076,47.271,88.16,27.858,2.88313,15,131.591,0
+userStrats.s1456,#252,HyperSphere,omegga.py,TRUE,40,282.249,±0.071,55.314,86.949,30.36,7.00638,35,95.936,2
+userStrats.s1445,#253,tugton,anti_detective.py,TRUE,40,282.248,±0.082,56.887,88.218,23.648,7.00041,116,92.259,3
+userStrats.s425,#254,Baos,TfT_but_better_maybe.py,TRUE,40,282.236,±0.096,50.593,93.063,17.787,1.75307,65,138.022,0
+userStrats.s107,#255,crustyselenium,everyFifthSmart.py,TRUE,40,282.23,±0.067,45.618,92.857,17.492,0.19453,8,86.191,0
+userStrats.s1605,#256,"Tisajokt / just ""Tisa""",lambda.py,TRUE,40,282.23,±0.093,60.878,85.606,32.363,8.78951,206,125.986,0
+userStrats.s117,#257,raytonlin1,raytonlin1.py,TRUE,40,282.197,±0.072,45.386,91.517,22.32,0.20788,26,87.245,2
+userStrats.s813,#258,poof,onebutnomore.py,TRUE,40,282.16,±0.053,43.039,88.988,24.157,5.00007,8,93.157,1
+userStrats.s232,#259,Emirhan D,MyBetterTFT.py,TRUE,40,282.151,±0.158,44.986,92.208,18.715,0.66109,16,87.426,0
+userStrats.s1475,#260,duck,kindDuck.py,TRUE,40,282.138,±0.117,59.05,84.248,31.573,7.01337,74,331.683,3
+userStrats.s684,#261,Cukee8 (pronounced koo-kee eight),lastDayOnTheForce.py,TRUE,40,282.089,±0.148,57.546,83.592,27.943,3.92451,104,126.629,1
+userStrats.s485,#262,cpwg01,titForThat.py,TRUE,40,282.086,±0.075,43.116,88.951,24.19,2.05773,10,85.236,3
+userStrats.s111,#263,ecpi (eck-pee),forgiveandforget.py,TRUE,40,282.07,±0.065,44.44,90.832,21.211,0.19771,22,91.578,3
+userStrats.s1400,#264,Brian Liu,lenientTitForTat.py,TRUE,40,282.065,±0.059,43.219,88.943,24.236,6.97358,15,98.403,3
+userStrats.s998,#265,PseudoRubio,Jungle.py,TRUE,40,281.994,±0.064,44.049,90.638,22.572,5.9558,25,295.902,0
+userStrats.s1395,#266,Jules,sneaky.py,TRUE,40,281.978,±0.072,43.806,90.957,21.893,6.9689,29,92.669,2
+userStrats.s1583,#267,Hogne,omega_killer.py,TRUE,40,281.956,±0.114,53.628,86.588,29.299,7.9253,81,95.229,3
+userStrats.s1366,#268,helphelp11,gauntletsAreCool.py,TRUE,40,281.954,±0.069,44.547,92.202,20.091,6.93736,44,135.027,3
+userStrats.s1094,#269,JT,TitForTatLastChanceGrim.py,TRUE,40,281.917,±0.074,52.267,86.973,30.836,6.25875,24,127.084,3
+userStrats.s1610,#270,nepko,presto.py,TRUE,40,281.896,±0.090,64.993,83.029,34.8,9.013,73,110.861,3
+userStrats.s987,#271,Dylan,WasteOfTime.py,TRUE,40,281.854,±0.101,62.498,84.164,34.801,5.93123,36,94.538,1
+userStrats.s676,#272,omegaEvolved,omegaEvolved.py,TRUE,40,281.838,±0.085,58.673,85.634,32.68,3.90468,52,100.873,1
+userStrats.s776,#273,Human,Hybrid.py,TRUE,40,281.822,±0.118,53.688,87.064,28.802,4.79969,44,105.95,3
+userStrats.s1086,#274,Sammysignal,revengeIsSweet.py,TRUE,40,281.796,±0.081,44.959,85.996,25.942,6.23412,40,99.685,3
+userStrats.s864,#275,atrophy,zoe.py,TRUE,40,281.792,±0.151,46.028,92.382,18.155,5.37862,7,93.406,0
+userStrats.s1588,#276,ETS1331 (or ETS),figurealgorithmnice.py,TRUE,40,281.777,±0.113,63.838,84.675,32.859,8.01005,38,193.19,2
+userStrats.s1031,#277,Maximo,omegaTitForTat.py,TRUE,40,281.761,±0.094,62.359,84.164,34.808,6.05935,84,97.229,0
+userStrats.s1402,#278,David,grim_tat.py,TRUE,40,281.723,±0.086,57.594,83.546,33.635,6.97498,29,96.206,0
+userStrats.s274,#279,Fox,foolDetector.py,TRUE,40,281.706,±0.067,47.45,88.5,26.75,0.79816,14,100.233,2
+userStrats.s749,#280,Noah,bestAgent.py,TRUE,40,281.694,±0.177,46.4,92.242,18.554,4.62282,22,89.242,3
+userStrats.s357,#281,Tripp Lyons,tripplyons.py,TRUE,40,281.694,±0.160,46.236,92.35,18.225,1.1587,18,98.064,3
+userStrats.s989,#282,ellipticalcurves,titforlasttat.py,TRUE,40,281.674,±0.150,43.241,86.425,23.461,5.93443,23,96.611,1
+userStrats.s504,#283,TheBayesian,Omega_TFT.py,TRUE,40,281.649,±0.075,63.205,83.832,35.123,2.2331,59,104.254,3
+userStrats.s1332,#284,Ethan,OTFT.py,TRUE,40,281.637,±0.088,63.224,83.823,35.129,6.89197,39,113.874,1
+userStrats.s909,#285,Frosty_Fire,tft_with_random_detection.py,TRUE,40,281.627,±0.146,47.626,88.072,26.485,5.70919,16,104.134,3
+userStrats.s1495,#286,Alb11747,OmegaTFT.py,TRUE,40,281.627,±0.089,63.212,83.808,35.139,7.01925,53,111.609,1
+userStrats.s1240,#287,colonelwatch,enforcer.py,TRUE,40,281.614,±0.055,42.489,91.463,21.237,6.753,39,101.648,3
+userStrats.s1019,#288,Coin,otft.py,TRUE,40,281.588,±0.090,61.913,84.376,34.595,5.99925,49,94.48,1
+userStrats.s1270,#289,Devon,NameError.py,TRUE,40,281.574,±0.168,45.308,83.125,21.846,6.81079,67,104.342,0
+userStrats.s1103,#290,brian,igotbored.py,TRUE,40,281.56,±0.054,50.137,87.732,26.982,6.29176,50,543.099,1
+userStrats.s706,#291,Athar,TitForThatWithNaiveDeadlockBreakByAthar.py,TRUE,40,281.55,±0.070,45.924,91.739,21.147,4.08987,10,93.05,2
+userStrats.s160,#292,Removed Submission,niceDetective.py,TRUE,40,281.527,±0.058,45.92,91.732,21.141,0.40247,18,91.555,-1
+userStrats.s695,#293,luigisopa,search_destroy2.py,TRUE,40,281.482,±0.114,65.38,82.811,35.986,3.97534,43,106.021,3
+userStrats.s1604,#294,aaaa-trsh,trshbag90.py,TRUE,40,281.456,±0.126,66.625,82.727,35.471,8.67846,77,189.405,3
+userStrats.s605,#295,nickbrick,expectedDefector.py,TRUE,40,281.438,±0.145,43.284,86.176,23.584,3.11343,11,95.277,3
+userStrats.s1478,#296,chrysp,waitAndCounterImproved.py,TRUE,40,281.385,±0.069,53.598,83.099,29.289,7.01457,41,96.836,1
+userStrats.s737,#297,PyBlend,wildcard.py,TRUE,40,281.372,±0.173,45.351,91.249,19.492,4.44885,9,93.494,1
+userStrats.s382,#298,Massimog,pdStrat.py,TRUE,40,281.326,±0.150,43.355,85.984,23.556,1.34991,11,93.893,3
+userStrats.s305,#299,Peeter,zdfg.py,TRUE,40,281.313,±0.111,59.81,83.247,34.401,0.89546,23,100.692,0
+userStrats.s1174,#300,nimalu,fastGuy.py,TRUE,40,281.299,±0.158,46.437,89.242,24.611,6.55094,120,284.016,3
+userStrats.s970,#301,Suso,SUSO.py,TRUE,40,281.295,±0.081,60.232,85.078,32.723,5.88501,44,101.159,0
+userStrats.s766,#302,ezfreez,tftSimpletonCombo.py,TRUE,40,281.275,±0.106,72.646,73.27,30.769,4.74413,36,160.244,0
+userStrats.s721,#303,Cfozzi,KOStheT.py,TRUE,40,281.271,±0.134,43.417,85.895,23.557,4.2098,17,97.778,2
+userStrats.s896,#304,Filip,My_Final_Strategy.py,TRUE,40,281.261,±0.160,43.303,85.942,23.524,5.65436,10,91.579,2
+userStrats.s811,#305,Luiz Zaima,random_FTFT.py,TRUE,40,281.172,±0.126,46.255,90.383,21.03,4.99123,15,92.205,3
+userStrats.s32,#306,Maxime,m_dolr..py,TRUE,40,281.143,±0.084,50.768,87.172,30.149,0.06328,34,108.153,3
+userStrats.s1288,#307,Daniel Costa,fairyCharm.py,TRUE,40,281.142,±0.080,48.729,88.021,26.895,6.83397,65,109.668,0
+userStrats.s502,#308,BaronOfClubs,GraciousTrust.py,TRUE,40,281.103,±0.080,48.049,92.923,18.687,2.22602,67,91.596,3
+userStrats.s733,#309,Augustvc,niceGuyFinishFirst.py,TRUE,40,280.997,±0.106,47.345,91.257,22.93,4.4386,27,96.044,3
+userStrats.s1054,#310,Sentexi,Avg7extended.py,TRUE,40,280.965,±0.070,46.351,89.395,25.245,6.12104,26,98.088,1
+userStrats.s1303,#311,Tesseract,tess_OTFT.py,TRUE,40,280.959,±0.059,60.38,85.002,33.688,6.85979,35,110.039,2
+userStrats.s307,#312,mushroom123,tft_random11_kill_random.py,TRUE,40,280.934,±0.177,62.325,82.506,33.693,0.90541,19,109.441,1
+userStrats.s1492,#313,dinor,DinorKatom_v2.py,TRUE,40,280.812,±0.062,63.81,82.738,35.762,7.01807,70,490.869,0
+userStrats.s1612,#314,NuppeNoo,NuppeNoo.py,TRUE,40,280.812,±0.088,63.492,83.872,34.907,9.01671,118,111.068,3
+userStrats.s914,#315,Tom XTRTN,gentlequeen.py,TRUE,40,280.805,±0.056,44.576,89.222,23.749,5.73341,24,95.006,2
+userStrats.s582,#316,Slav,titForTat69420UniqueNamehqa.py,TRUE,40,280.745,±0.088,41.931,87.157,22.953,2.91589,8,93.771,3
+userStrats.s421,#317,Corona,Birdy.py,TRUE,40,280.712,±0.058,46.57,92.562,18.375,1.72602,37,98.635,1
+userStrats.s555,#318,Buddyboy105,blackjackPlayer.py,TRUE,40,280.671,±0.123,46.368,88.822,24.908,2.76171,196,190.881,0
+userStrats.s438,#319,cstallar,fallingBack.py,TRUE,40,280.665,±0.078,46.001,91.287,22.518,1.82684,24,88.285,1
+userStrats.s844,#320,Gibby,wGibby.py,TRUE,40,280.646,±0.099,55.005,87.794,29.526,5.21144,12,99.533,0
+userStrats.s642,#321,ramgos,historian.py,TRUE,40,280.623,±0.073,45.384,89.287,24.857,3.6449,41,1924.262,2
+userStrats.s1338,#322,square2xD,square_15.py,TRUE,40,280.564,±0.083,51.747,86.851,29.743,6.90762,30,102.68,3
+userStrats.s1337,#323,square,square_15rd25w.py,TRUE,40,280.548,±0.095,61.839,83.287,35.027,6.90541,41,114.521,3
+userStrats.s1298,#324,Dalton Worsnup,alan.py,TRUE,40,280.538,±0.071,61.908,85.615,31.116,6.84692,57,104.081,2
+userStrats.s130,#325,Levi Kline,apologies.py,TRUE,40,280.534,±0.138,50.341,92.673,16.792,0.25302,24,91.475,3
+userStrats.s789,#326,Alfie,alfieAlgorithm.py,TRUE,40,280.445,±0.104,56.707,80.839,32.46,4.8798,17,93.585,3
+userStrats.s65,#327,Reis,shiftingMindset.py,TRUE,40,280.436,±0.118,49.987,87.372,28.754,0.12552,13,88.911,2
+userStrats.s601,#328,Tropfi,DefensiveBoT_13428.py,TRUE,40,280.424,±0.083,63.55,84.062,33.787,3.05392,26,92.609,1
+userStrats.s1555,#329,Maze38,onevone.py,TRUE,40,280.363,±0.097,57.414,85.42,30.305,7.42773,38,95.476,0
+userStrats.s1074,#330,Brian Butchart,TIMBERWOLF.py,TRUE,40,280.349,±0.101,64.415,82.813,35.086,6.18936,73,107.353,0
+userStrats.s720,#331,benchislett,smartypants.py,TRUE,40,280.347,±0.095,49.835,86.439,29.468,4.20441,57,487.835,1
+userStrats.s943,#332,Begu Pig,AngryPriestVarient.py,TRUE,40,280.345,±0.123,66.982,89.442,28.213,5.82005,73,121.975,2
+userStrats.s1083,#333,Jawbone,jawbone.py,TRUE,40,280.344,±0.107,42.547,86.413,23.136,6.21541,17,94.036,3
+userStrats.s1416,#334,Kawi,kawi_model.py,TRUE,40,280.332,±0.087,55.961,84.945,33.274,6.98294,26,110.38,1
+userStrats.s897,#335,pm390,lateBetrayer.py,TRUE,40,280.3,±0.114,52.38,78.434,23.345,5.6576,78,99.323,1
+userStrats.s467,#336,krzys_h,randomHaterTFT_MoreForgiving_Final_MoreFinal_FinalVersion_ReallyLastOneNow.py,TRUE,40,280.299,±0.067,60.815,85.536,32.679,1.97302,40,97.625,2
+userStrats.s1076,#337,yoyoyonono,aacombined.py,TRUE,40,280.294,±0.077,49.937,87.31,28.903,6.19486,95,150.255,1
+userStrats.s899,#338,Shonspenter and Polymero,smartest_boi.py,TRUE,40,280.288,±0.075,57.526,85.589,31.559,5.66635,59,114.888,0
+userStrats.s105,#339,John Tapsell,johnflux_lowrisk_lowerreward.py,TRUE,40,280.272,±0.169,48.86,92.575,17.474,0.19015,19,86.132,1
+userStrats.s1593,#340,LydianLights,lydianlights-correlation-detective.py,TRUE,40,280.198,±0.098,62.322,83.423,34.538,8.03081,93,131.04,2
+userStrats.s1153,#341,Jeb,WOPR.py,TRUE,40,280.173,±0.068,56.926,86.728,28.97,6.47855,61,96.189,0
+userStrats.s108,#342,LasagnaCake,lipsum.py,TRUE,40,280.167,±0.081,47.715,87.741,26.04,0.19603,41,90.578,2
+userStrats.s1111,#343,Flatan,strat.py,TRUE,40,280.141,±0.073,56.394,87.145,28.042,6.33462,22,97.816,2
+userStrats.s1195,#344,Samunstein,moralButUltimatelyUnforgivingTitForTat.py,TRUE,40,280.124,±0.079,64.602,82.429,36.074,6.63963,23,100.659,3
+userStrats.s1007,#345,JetStream,titForTatMOD.py,TRUE,40,280.121,±0.133,42.382,86.783,23.084,5.97152,31,98.178,0
+userStrats.s854,#346,BuffFlygon2,glhf.py,TRUE,40,280.107,±0.113,68.115,80.784,35.307,5.30343,33,253.636,3
+userStrats.s626,#347,Linus,gradual..py,TRUE,40,280.107,±0.065,56.463,87.13,28.058,3.53332,15,98.271,3
+userStrats.s1095,#348,Bob,blahIguess.py,TRUE,40,280.1,±0.089,50.564,87.241,28.899,6.26663,17,106.372,3
+userStrats.s1064,#349,Willie,stolenStrategy3000.py,TRUE,40,280.083,±0.062,56.447,87.128,28.05,6.16819,42,101.516,1
+userStrats.s931,#350,RedRem,the_super_adaptiv_reaktiv_strategy_of_reakting.py,TRUE,40,280.069,±0.094,56.492,87.115,28.082,5.79698,20,96.117,1
+userStrats.s1203,#351,Pascal,penguin.py,TRUE,40,280.051,±0.079,65.761,82.167,35.852,6.65917,22,103.554,1
+userStrats.s640,#352,Blacknole,Blacknole.py,TRUE,40,280.028,±0.054,45.906,91.444,21.062,3.6325,33,285.744,3
+userStrats.s677,#353,Yash Patel,gradual-yash.py,TRUE,40,280.023,±0.069,56.579,87.092,28.106,3.90508,16,94.36,2
+userStrats.s454,#354,Nick,40limitApologizing.py,TRUE,40,279.955,±0.068,55.908,86.001,30.111,1.88838,25,87.594,2
+userStrats.s350,#355,gignaWedi,EMA.py,TRUE,40,279.906,±0.070,46.907,88.45,26.01,1.1228,12,114.553,2
+userStrats.s1390,#356,ACCELOTRON,paranoiac.py,TRUE,40,279.856,±0.092,64.11,83.812,35.204,6.96007,51,96.217,2
+userStrats.s1282,#357,Hankathan,semiforgivingtft.py,TRUE,40,279.826,±0.061,46.167,89.516,23.352,6.83008,17,97.378,2
+userStrats.s221,#358,Liol,Liol's Gradual.py,TRUE,40,279.819,±0.087,57.364,85.839,30.416,0.62345,34,95.532,1
+userStrats.s639,#359,Shade,strategySwitcher.py,TRUE,40,279.814,±0.067,53.809,92.655,16.43,3.60596,31,89.493,1
+userStrats.s491,#360,WYE,fibForFab.py,TRUE,40,279.784,±0.069,47.757,88.516,26.279,2.08859,27,299.305,0
+userStrats.s542,#361,Sum1,titForTatSavage.py,TRUE,40,279.779,±0.136,44.251,83.889,23.543,2.6244,7,97.446,0
+userStrats.s367,#362,William,superTitForTat.py,TRUE,40,279.765,±0.102,58.671,79.116,29.499,1.24238,75,87.554,2
+userStrats.s373,#363,sammy56lt,myStrategy.py,TRUE,40,279.726,±0.197,49.019,88.896,23.767,1.2878,22,101.73,1
+userStrats.s912,#364,G-99,HybridTFT.py,TRUE,40,279.675,±0.053,47.459,93.075,18.335,5.71867,15,99.364,0
+userStrats.s393,#365,Benw8888 (pronounced ben-wait-eight-eight-eight),complexForgiving.py,TRUE,40,279.664,±0.096,63.995,83.61,34.508,1.48435,63,98.716,2
+userStrats.s568,#366,Thyastyria,thyastyria_strat.py,TRUE,40,279.653,±0.187,46.069,89.25,21.396,2.82363,20,93.596,1
+userStrats.s620,#367,row666,row666.py,TRUE,40,279.615,±0.078,59.001,84.556,32.858,3.44563,20,168.562,1
+userStrats.s244,#368,Convects,atft.py,TRUE,40,279.614,±0.106,53.225,86.548,30.597,0.69995,19,91.724,0
+userStrats.s1063,#369,Jonny,gradualStrat.py,TRUE,40,279.587,±0.071,59.028,84.543,32.877,6.15694,45,100.158,2
+userStrats.s855,#370,Wenyunity,WenyunityTitForTat.py,TRUE,40,279.585,±0.162,56.1,84.701,31.786,5.31405,81,125.492,0
+userStrats.s1414,#371,Spagoot,shameless_steal.py,TRUE,40,279.547,±0.071,64.207,83.54,35.369,6.98156,35,99.78,0
+userStrats.s1328,#372,Leafy0519 on discord and Leafy Leaf on YT,!omegaplusplus.py,TRUE,40,279.521,±0.095,64.131,83.561,35.349,6.89051,61,149.555,0
+userStrats.s1259,#373,nev,1.py,TRUE,40,279.502,±0.072,64.088,83.546,35.356,6.78942,37,96.594,0
+userStrats.s1189,#374,Tiago,tiago-adaptive.py,TRUE,40,279.491,±0.118,64.823,84.326,33.482,6.62506,89,112.015,0
+userStrats.s963,#375,daanolav,pleaseJustCooperate.py,TRUE,40,279.475,±0.176,51.177,91.88,19.934,5.87263,114,116.535,2
+userStrats.s368,#376,Couch Astronaut,detectiveLaplace.py,TRUE,40,279.459,±0.081,51.608,86.618,29.727,1.24706,15,94.959,2
+userStrats.s1476,#377,Colin Page,gammaSniff_CP+DK.py,TRUE,40,279.447,±0.085,64.277,83.432,35.51,7.01368,79,111.843,3
+userStrats.s460,#378,Jan,beefjerky.py,TRUE,40,279.431,±0.094,53.287,89.764,25.754,1.92105,31,92.405,0
+userStrats.s479,#379,Scrublord,Sleevesic.py,TRUE,40,279.401,±0.085,69.232,81.74,33.849,2.02266,42,135.708,2
+userStrats.s1279,#380,Bram,Bram_1.py,TRUE,40,279.399,±0.173,55.305,87.733,23.822,6.8262,38,433.292,3
+userStrats.s345,#381,Maulwurf11,tft_grudge4_redemption2.py,TRUE,40,279.319,±0.085,54.7,84.702,32.365,1.08462,36,114.083,1
+userStrats.s1486,#382,benpm,slickPredict.py,TRUE,40,279.313,±0.094,55.912,85.739,31.265,7.01662,41,1228.976,1
+userStrats.s91,#383,Cheeseman,Cheeseman'sStrat.py,TRUE,40,279.301,±0.159,44.451,83.289,23.502,0.1712,9,85.645,1
+userStrats.s420,#384,cwhy,herdSelection.py,TRUE,40,279.297,±0.093,54.051,87.523,27.355,1.71802,33,110.311,1
+userStrats.s687,#385,eichhoernchen,eichhoernchen.py,TRUE,40,279.256,±0.068,58.959,85.905,30.017,3.93927,41,96.573,0
+userStrats.s1199,#386,Tony,conradTFT.py,TRUE,40,279.222,±0.068,49.939,92.588,18.855,6.64757,31,117.489,1
+userStrats.s928,#387,Kevinxiehk,0_ap_improved.py,TRUE,40,279.21,±0.071,63.964,83.594,34.372,5.78176,97,130.38,2
+userStrats.s486,#388,Mondto,AI_Trains.py,TRUE,40,279.2,±0.112,65.998,82.57,36.366,2.061,29,103.387,1
+userStrats.s1462,#389,CubeZero,coolerAngryPriest.py,TRUE,40,279.169,±0.087,67.958,82.359,36.733,7.00852,87,135.836,1
+userStrats.s1043,#390,dratini0,forgivingStatistician.py,TRUE,40,279.148,±0.201,66.702,83.478,31.906,6.09392,30,164.6,2
+userStrats.s67,#391,Flame442,flame442.py,TRUE,40,279.142,±0.083,48.283,88.553,26.5,0.13062,49,89.424,1
+userStrats.s736,#392,StolenCheese,judgemental_stratagist.py,TRUE,40,279.14,±0.095,66.584,82.539,36.081,4.44282,129,166.51,0
+userStrats.s451,#393,1randomguy,niceOverlordStrat.py,TRUE,40,279.116,±0.155,66.049,85.455,30.205,1.87885,83,93.228,2
+userStrats.s1607,#394,l4vr0v,npnntt.py,TRUE,40,279.102,±0.060,53.308,93.508,16.177,8.97799,38,108.045,3
+userStrats.s375,#395,Kajus,sneakySnitch.py,TRUE,40,279.078,±0.105,48.361,93.22,19.876,1.30532,33,87.759,0
+userStrats.s1187,#396,untir_l,transcendence.py,TRUE,40,279.017,±0.084,70.504,87.353,27.21,6.62186,105,244.23,2
+userStrats.s1241,#397,Julia,hawksbill.py,TRUE,40,278.957,±0.097,68.243,81.014,36.966,6.75308,35,341.88,2
+userStrats.s729,#398,Han,ctft.py,TRUE,40,278.938,±0.086,52.879,86.109,30.476,4.31958,59,154.373,2
+userStrats.s658,#399,JohnnyCodes,between.py,TRUE,40,278.908,±0.074,49.395,92.773,20.658,3.77792,25,93.072,3
+userStrats.s338,#400,Jakob,WANNACOOP.py,TRUE,40,278.894,±0.063,59.546,85.351,30.622,1.028,21,233.661,3
+userStrats.s334,#401,MagicTurtle,tft_getting_crazier.py,TRUE,40,278.88,±0.127,43.637,83.934,23.168,1.01132,8,96.242,3
+userStrats.s1198,#402,Hansolo,Evo.py,TRUE,40,278.87,±0.207,51.065,90.828,20.785,6.64222,18,100.183,3
+userStrats.s807,#403,I usually use SRG as online name,tfttd.py,TRUE,40,278.843,±0.081,69.253,80.648,37.854,4.98159,18,96.024,0
+userStrats.s127,#404,sporewoh,foolMe5.py,TRUE,40,278.795,±0.097,69.323,80.591,37.879,0.24626,16,91.53,1
+userStrats.s78,#405,dubrils,getWhatYouGiveMostly.py,TRUE,40,278.789,±0.084,55.437,91.325,17.885,0.15645,10,131.213,0
+userStrats.s1587,#406,Edward Xu,goat.py,TRUE,40,278.789,±0.207,51.562,92.828,16.651,8.01003,18,92.051,0
+userStrats.s80,#407,UKM,toady1.py,TRUE,40,278.781,±0.087,41.752,85.072,21.683,0.15978,25,86.901,1
+userStrats.s1193,#408,Han,Han.py,TRUE,40,278.743,±0.154,51.182,90.771,20.859,6.63771,21,102.976,0
+userStrats.s264,#409,Arch3r,TitForTat With a little spice.py,TRUE,40,278.737,±0.195,51.584,92.8,16.689,0.76616,9,110.099,3
+userStrats.s665,#410,patricknaughton01,gradual.py,TRUE,40,278.655,±0.084,60.008,84.382,32.63,3.83306,17,90.049,0
+userStrats.s1426,#411,Flynn,CBT4T-4R80.py,TRUE,40,278.614,±0.144,51.31,90.719,20.905,6.9889,31,99.263,3
+userStrats.s273,#412,Fluctuz,TitForTatWithRuns.py,TRUE,40,278.577,±0.083,54.519,84.785,31.834,0.79697,32,172.46,1
+userStrats.s161,#413,johns45,friendlyTFT.py,TRUE,40,278.575,±0.077,50.406,93.089,20.103,0.40455,23,89.07,2
+userStrats.s1196,#414,Harry,Harry.py,TRUE,40,278.568,±0.168,51.328,90.703,20.888,6.63991,19,106.467,1
+userStrats.s784,#415,Crellas,punishing_TfT.py,TRUE,40,278.521,±0.085,58.401,86.32,28.802,4.85086,37,94.234,3
+userStrats.s945,#416,SarinaCFG,sari s usami.py,TRUE,40,278.47,±0.166,44.944,81.807,23.023,5.82318,28,100.256,3
+userStrats.s879,#417,Joakim,forgivingTitForTat.py,TRUE,40,278.468,±0.065,48.215,91.476,21.064,5.52171,140,115.627,1
+userStrats.s537,#418,1936,FogivnessCat.py,TRUE,40,278.404,±0.083,58.155,86.402,30.118,2.58664,31,102.426,0
+userStrats.s1184,#419,Savlik,memPlayer.py,TRUE,40,278.401,±0.092,68.877,76.356,35.53,6.61594,45,111.268,2
+userStrats.s1485,#420,Haydn,Prior_608.py,TRUE,40,278.392,±0.083,51.136,87.657,27.011,7.01662,30,209.586,3
+userStrats.s1503,#421,zealody,buggyTester.py,TRUE,40,278.369,±0.060,51.815,87.012,27.991,7.02025,56,176.64,1
+userStrats.s1177,#422,CoffeeBlend,favourable.py,TRUE,40,278.328,±0.086,57.686,83.814,33.614,6.57968,77,142.877,3
+userStrats.s1472,#423,lakerail,masheenLernt.py,TRUE,40,278.323,±0.077,54.379,88.793,24.877,7.01234,31,106.028,2
+userStrats.s269,#424,Bip,elephant.py,TRUE,40,278.267,±0.100,49.394,88.65,26.797,0.78997,16,681.093,3
+userStrats.s1574,#425,Onolix,stratFour.py,TRUE,40,278.261,±0.082,58.006,80.803,31.413,7.8458,25,94.278,2
+userStrats.s1488,#426,Cadberry,_TftForRand.py,TRUE,40,278.168,±0.148,61.829,89.882,24.615,7.01667,30,98.711,1
+userStrats.s1010,#427,hoziCh,hoziCh.py,TRUE,40,278.158,±0.062,51.675,92.458,19.995,5.97681,9,105.866,3
+userStrats.s638,#428,Pablo D.,disguise142857.py,TRUE,40,278.1,±0.105,56.829,85.863,31.707,3.60575,35,135.825,0
+userStrats.s1361,#429,Ritorukkkoku,ThePunisherV2.py,TRUE,40,278.097,±0.085,60.036,84.865,31.816,6.93471,34,99.536,2
+userStrats.s690,#430,astralsky,probe6-tftt4+.py,TRUE,40,278.054,±0.111,69.018,83.169,35.681,3.94575,41,104.303,1
+userStrats.s349,#431,GuyHori,guihori.py,TRUE,40,278.019,±0.125,44.425,83.66,22.529,1.11693,27,94.146,0
+userStrats.s1354,#432,BobBobs,Test_Strat_2_2.py,TRUE,40,277.999,±0.099,72.088,78.823,38.323,6.92851,18,335.984,2
+userStrats.s646,#433,C4inan,belito.py,TRUE,40,277.992,±0.078,47.797,90.002,24.013,3.68603,18,165.178,-1
+userStrats.s950,#434,Vedal,vedalNeuralNetwork.py,TRUE,40,277.975,±0.098,63.181,84.552,34.111,5.83837,74,104.925,0
+userStrats.s376,#435,Ryan,tftPlusStrategyDetector.py,TRUE,40,277.966,±0.068,57.236,89.688,22.77,1.30914,183,397.181,1
+userStrats.s569,#436,Dragon,safeTruth.py,TRUE,40,277.953,±0.070,51.301,92.193,20.752,2.82683,24,346.674,1
+userStrats.s1386,#437,Cole,statSimulator.py,TRUE,40,277.934,±0.154,71.429,83.773,29.276,6.95385,219,149.951,3
+userStrats.s539,#438,myapple,GradualTFT_improved_myapplestory.py,TRUE,40,277.913,±0.076,62.391,83.256,34.658,2.58997,31,101.148,0
+userStrats.s326,#439,Janik,gradual.py,TRUE,40,277.873,±0.098,57.354,85.032,30.85,0.9677,23,103.797,3
+userStrats.s1471,#440,Will(iam|ow),cary_is_cool.py,TRUE,40,277.871,±0.070,66.787,82.485,35.935,7.01192,16,352.665,0
+userStrats.s1126,#441,beofhelp,thisWontWin.py,TRUE,40,277.823,±0.104,66.005,82.803,34.825,6.39712,20,90.363,3
+userStrats.s1179,#442,muneeb,muneeb.py,TRUE,40,277.765,±0.112,66.045,82.83,34.792,6.59174,21,101.473,2
+userStrats.s1451,#443,Nobelio,ForgivenRandishTitForTats.py,TRUE,40,277.761,±0.199,53.465,92.992,16.149,7.00236,8,95.559,0
+userStrats.s1369,#444,adamthedog (Adam),sisiiisisisiisijadiwjd.py,TRUE,40,277.743,±0.090,67.253,80.659,34.688,6.93935,157,101.916,2
+userStrats.s440,#445,HaydnG,HaydnG_V2.py,TRUE,40,277.679,±0.082,60.111,85.609,29.759,1.83438,25,103.637,1
+userStrats.s142,#446,Dimitri,gracefulGradualTFT.py,TRUE,40,277.668,±0.103,59.667,86.642,28.066,0.29797,39,97.999,0
+userStrats.s29,#447,Atominer,gradual.py,TRUE,40,277.641,±0.085,60.255,85.681,29.586,0.05877,31,93.845,3
+userStrats.s1362,#448,Aqua,Observer.py,TRUE,40,277.418,±0.095,55.83,85.513,32.203,6.93513,218,212.017,1
+userStrats.s1580,#449,Hallucigenia,entanglement.py,TRUE,40,277.369,±0.117,69.124,81.438,37.48,7.89681,34,96.802,2
+userStrats.s456,#450,Mankeman,The_Abbot.py,TRUE,40,277.325,±0.079,51.764,92.554,20.022,1.90457,118,96.4,3
+userStrats.s1041,#451,Luca,haha_yes.py,TRUE,40,277.287,±0.105,67.62,82.816,36.045,6.08895,20,95.061,1
+userStrats.s1562,#452,Sorting,PsiTitForTat.py,TRUE,40,277.191,±0.069,68.08,81.172,37.599,7.66329,34,94.514,1
+userStrats.s1237,#453,Vawlpe  /vɔlpi/,test.py,TRUE,40,277.148,±0.160,68.449,78.021,33.886,6.74722,159,98.605,0
+userStrats.s1432,#454,Quant1um,uwu.py,TRUE,40,277.145,±0.059,66.771,83.676,33.213,6.99333,50,99.659,3
+userStrats.s815,#455,oligophagy,strikeOut.py,TRUE,40,277.099,±0.084,68.956,80.407,38.012,5.02343,12,99.827,0
+userStrats.s152,#456,JT,BetterDetective.py,TRUE,40,277.041,±0.099,59.468,83.733,34.738,0.36723,8,126.018,3
+userStrats.s831,#457,none (submitting for my mum),Angel.py,TRUE,40,277.018,±0.082,72.361,77.763,37.364,5.08312,469,165.009,3
+userStrats.s1611,#458,Javalim,mangle.py,TRUE,40,276.986,±0.089,72.448,78.585,37.511,9.0138,105,445.678,3
+userStrats.s1020,#459,Alexander Haupt,alex_detective.py,TRUE,40,276.941,±0.086,72.071,77.821,37.233,6.00639,107,117.501,0
+userStrats.s1186,#460,Tommy,tommy's ultimate tft variant.py,TRUE,40,276.871,±0.098,58.118,83.532,34.455,6.62088,38,173.777,2
+userStrats.s1502,#461,FractalCycle,FRAC_optimisedPriest.py,TRUE,40,276.863,±0.083,60.55,84.258,32.738,7.02006,248,109.61,0
+userStrats.s933,#462,Tomas Gaming,detectiveTom.py,TRUE,40,276.799,±0.070,54.103,86.109,29.285,5.80124,38,97.716,1
+userStrats.s547,#463,Ninja Nolan,new tft.py,TRUE,40,276.795,±0.081,67.045,80.987,36.376,2.70502,21,313.825,1
+userStrats.s1188,#464,EnderShadow8,omega 3-1.py,TRUE,40,276.741,±0.110,69.636,81.137,37.725,6.62207,37,101.449,1
+userStrats.s948,#465,Chii,guarded-pavlov.py,TRUE,40,276.717,±0.086,66.779,80.739,36.121,5.83328,61,175.874,2
+userStrats.s609,#466,Nick (Nick_Whitestreak),sectionNinetyEight.py,TRUE,40,276.698,±0.077,56.515,84.591,32.811,3.23106,38,92.674,0
+userStrats.s921,#467,Texashokies,AlGoreRythm.py,TRUE,40,276.684,±0.112,66.845,83.479,34.561,5.75802,116,1229.387,0
+userStrats.s1524,#468,SwordFish121,lazyDetectiveTitForTatFixer.py,TRUE,40,276.667,±0.065,53.491,90.631,23.397,7.08322,48,93.468,3
+userStrats.s1419,#469,Hercik(eric for easy spelling),vendettaNewForm.py,TRUE,40,276.654,±0.096,60.447,83.501,33.084,6.98399,40,93.895,2
+userStrats.s500,#470,Jaime,jaromp.py,TRUE,40,276.588,±0.154,44.807,81.769,22.453,2.21013,28,91.339,2
+userStrats.s102,#471,Levy,entry.py,TRUE,40,276.579,±0.081,60.493,83.474,33.104,0.18528,37,85.402,1
+userStrats.s430,#472,Julian,julian_h_strat.py,TRUE,40,276.572,±0.081,55.208,87.455,28.366,1.75909,39,148.859,1
+userStrats.s131,#473,Sogolumbo,Sogolumbo.py,TRUE,40,276.511,±0.059,54.002,91.974,20.15,0.26219,30,88.195,2
+userStrats.s214,#474,silvester210,titForTat+RandomDestroyer.py,TRUE,40,276.505,±0.109,69.311,81.769,36.601,0.60932,13,158.642,1
+userStrats.s310,#475,Julian H,smart_tft.py,TRUE,40,276.41,±0.099,52.861,87.03,28.619,0.90955,25,101.282,0
+userStrats.s932,#476,"vlco_o (but you can say ""vic"")",counterTitForTat.py,TRUE,40,276.339,±0.081,50.777,90.034,24.35,5.79752,26,171.591,1
+userStrats.s1290,#477,Second-120,smartidot.py,TRUE,40,276.299,±0.097,65.012,78.796,30.953,6.83738,46,276.15,3
+userStrats.s794,#478,KBOPYM,KBOptimisedPriest.py,TRUE,40,276.289,±0.128,60.616,83.633,33.012,4.90411,223,103.996,2
+userStrats.s661,#479,Olaf,voidfish.py,TRUE,40,276.283,±0.094,55.569,86.246,30.507,3.79299,105,116.161,1
+userStrats.s337,#480,Julien,tittat_bail_20_10.py,TRUE,40,276.273,±0.093,62.2,81.89,35.914,1.02154,16,113.642,1
+userStrats.s763,#481,Víctor Canesin,revJossFGT6.py,TRUE,40,276.208,±0.092,59.657,85.832,31.127,4.73083,48,92.287,0
+userStrats.s762,#482,celeron55,celeron55.py,TRUE,40,276.196,±0.089,56.066,84.578,31.335,4.71411,16,98.746,0
+userStrats.s738,#483,Tim,myStrat53494680.py,TRUE,40,276.175,±0.109,67.483,81.393,34.908,4.46903,45,100.19,2
+userStrats.s1608,#484,nekiwo,mango..py,TRUE,40,276.158,±0.086,71.674,81.396,35.778,8.99625,100,139.907,0
+userStrats.s671,#485,Willem,yourKindaSus.py,TRUE,40,276.147,±0.212,63.181,85.169,31.339,3.87164,55,134.094,-1
+userStrats.s1341,#486,Lisa,gradual_pour_la_science.py,TRUE,40,276.136,±0.068,66.521,81.452,36.495,6.9108,25,96.346,3
+userStrats.s171,#487,RushSecond,friendlyAndClever.py,TRUE,40,276.08,±0.215,64.772,86.158,31.502,0.45145,52,98.817,0
+userStrats.s876,#488,DiGatsby,digatsby.py,TRUE,40,275.939,±0.099,56.248,90.07,22.184,5.4863,24,91.61,0
+userStrats.s1024,#489,Elias W. aka Eli,CyberDragon.py,TRUE,40,275.931,±0.200,57.786,89.85,20.258,6.03242,195,139.12,3
+userStrats.s1527,#490,Aachen,3s3tft.py,TRUE,40,275.888,±0.101,55.196,87.007,27.685,7.09831,27,87.594,0
+userStrats.s543,#491,Markcreator,pessimismIsOptimal.py,TRUE,40,275.855,±0.122,65.013,81.698,35.999,2.62698,37,100.701,2
+userStrats.s972,#492,Blacky,MEDIA.py,TRUE,40,275.844,±0.076,52.265,90.192,24.413,5.89256,21,203.885,2
+userStrats.s263,#493,Isaac,coolTitForTat.py,TRUE,40,275.808,±0.085,72.147,79.62,38.972,0.76411,18,96.756,3
+userStrats.s1017,#494,Azimuth,Activated_Differentiator.py,TRUE,40,275.734,±0.064,71.439,78.64,38.224,5.99531,91,102.799,2
+userStrats.s939,#495,SpookySkelly222,suuuuuuperftft.txt,TRUE,40,275.728,±0.120,72.697,79.261,38.624,5.81223,128,391.38,3
+userStrats.s723,#496,Badel2,badel2.py,TRUE,40,275.702,±0.090,60.933,83.409,34.621,4.23204,77,107.278,1
+userStrats.s405,#497,Ray,enlightened.py,TRUE,40,275.682,±0.070,53.228,93.168,19.939,1.64441,13,89.808,0
+userStrats.s1133,#498,Dust,frickley1.py,TRUE,40,275.617,±0.207,69.687,82.411,34.945,6.41928,38,107.677,1
+userStrats.s1116,#499,Leah,SwanStorm. Swanstrom.py,TRUE,40,275.609,±0.123,51.496,74.358,19.444,6.34721,22,91.961,3
+userStrats.s449,#500,the Foxe (the 'e' is silent),markov_by_TITF.py,TRUE,40,275.592,±0.120,51.679,86.273,27.471,1.87373,20,352.882,0
+userStrats.s1360,#501,littlegws,I_Actually_Don't_Know_What_This_Strategy_Is.py,TRUE,40,275.577,±0.075,55.998,84.263,30.419,6.93455,18,106.941,2
+userStrats.s219,#502,lysergia,myStrat.py,TRUE,40,275.537,±0.109,56.729,91.361,17.459,0.6213,18,99.756,3
+userStrats.s1321,#503,Fishman97,Fishman97.py,TRUE,40,275.529,±0.095,56.763,86.025,29.757,6.88068,31,175.204,2
+userStrats.s877,#504,Hubert,PavlovianDetective.py,TRUE,40,275.462,±0.092,60.695,91.437,17.836,5.51148,53,99.163,1
+userStrats.s439,#505,Brown496,twotitsperincreasingtatsaggro.py,TRUE,40,275.428,±0.083,63.961,81.528,36.672,1.8302,11,124.619,2
+userStrats.s79,#506,FemboyMoki,toady0.py,TRUE,40,275.409,±0.115,42.824,83.831,22.066,0.15791,25,87.857,2
+userStrats.s1049,#507,matthiaslamp,mlml.py,TRUE,40,275.397,±0.054,57.131,92.96,19.173,6.11132,37,191.835,0
+userStrats.s1173,#508,ozakbas,gemCollector.py,TRUE,40,275.315,±0.194,46.84,77.663,22.592,6.54902,10,151.603,3
+userStrats.s711,#509,d,tit4.py,TRUE,40,275.303,±0.084,73.401,78.853,39.35,4.14778,30,90.154,2
+userStrats.s1284,#510,Greg,AAAAntiRandDAntiJossAntiDetecFTF2.py,TRUE,40,275.246,±0.114,68.135,82.719,36.173,6.83163,131,1193.383,2
+userStrats.s1254,#511,Valadaptive,responsivenessDetector.py,TRUE,40,275.198,±0.070,70.381,81.973,32.499,6.76962,55,111.213,2
+userStrats.s1291,#512,Iain,ARADJAD.py,TRUE,40,275.171,±0.111,68.352,82.636,36.271,6.83752,131,1305.621,2
+userStrats.s197,#513,Baron Unread,randBetrayal.py,TRUE,40,275.098,±0.253,56.757,84.438,31.242,0.55031,16,87.35,3
+userStrats.s644,#514,felp,titForTatBetrayal.py,TRUE,40,275.045,±0.135,47.237,77.166,22.516,3.65873,7,87.879,3
+userStrats.s1459,#515,maxkl,weightedMonotonic.py,TRUE,40,274.891,±0.077,54.1,84.021,27.792,7.00781,23,139.047,1
+userStrats.s911,#516,balloon hat,alexanderPavlov.py,TRUE,40,274.89,±0.087,53.763,90.955,22.274,5.71215,60,101.061,2
+userStrats.s915,#517,jdefgh,jdefgh.py,TRUE,40,274.827,±0.091,54.955,87.884,28.704,5.74012,13,235.077,2
+userStrats.s1058,#518,Yourself,tftDetection.py,TRUE,40,274.74,±0.081,57.883,83.928,32.618,6.1331,27,348.389,2
+userStrats.s1467,#519,Infinity Divided,PsiTFT.py,TRUE,40,274.694,±0.100,76.416,77.238,39.508,7.01047,154,111.315,1
+userStrats.s525,#520,Dylan Hillier,opponent-approx.py,TRUE,40,274.675,±0.152,57.297,91.816,19.204,2.5205,36,125.643,-1
+userStrats.s1498,#521,Andrew C,coolGoodAgent.py,TRUE,40,274.649,±0.090,74.223,77.014,38.947,7.01947,21,94.349,0
+userStrats.s1089,#522,CommunistMountain (or CMountain),tftGrudgeCM.py,TRUE,40,274.501,±0.089,68.363,80.406,37.654,6.23645,19,99.461,3
+userStrats.s364,#523,komaeda77,apolEye4Eye.py,TRUE,40,274.493,±0.063,62.02,92.779,15.516,1.22681,14,82.814,2
+userStrats.s949,#524,Nightmarius,gradual.py,TRUE,40,274.454,±0.091,70.987,84.747,30.394,5.83753,17,91.981,3
+userStrats.s493,#525,kiro,kiroStrat.py,TRUE,40,274.45,±0.069,62.256,92.704,15.635,2.10888,17,97.11,1
+userStrats.s1268,#526,Carlos M.,FrankensteinsStrategy.py,TRUE,40,274.424,±0.096,70.984,78.604,37.138,6.80947,339,112.726,2
+userStrats.s513,#527,Calaverd,reflexiveGuy.py,TRUE,40,274.416,±0.077,62.326,92.694,15.65,2.39537,28,101.272,0
+userStrats.s613,#528,Dan k Memes,pavlov.py,TRUE,40,274.359,±0.077,62.41,92.69,15.651,3.29038,10,92.168,2
+userStrats.s1150,#529,Opabinia,anomalocaris.py,TRUE,40,274.341,±0.126,62.475,82.701,35.915,6.46949,25,94.527,2
+userStrats.s498,#530,Jsbwalker,oracle.py,TRUE,40,274.231,±0.058,55.18,86.785,26.237,2.17896,294,175.95,0
+userStrats.s134,#531,Pierre,Promise_I_Wont_Defect_Kappa.py,TRUE,40,274.189,±0.163,62.756,93.504,14.217,0.26678,31,92.308,3
+userStrats.s902,#532,Dezl,DezlsFishermen.py,TRUE,40,274.175,±0.215,47.695,76.069,22.173,5.6862,23,95.57,2
+userStrats.s1541,#533,Alex,randomDetect.py,TRUE,40,274.118,±0.095,66.273,81.857,35.947,7.16502,40,114.82,0
+userStrats.s936,#534,DJKAMELEON,trustMeter.py,TRUE,40,274.109,±0.217,58.528,83.932,31.762,5.8083,43,103.835,2
+userStrats.s1326,#535,@ronym,html-entities-1F1F3-1F1F4-27F3-52.py,TRUE,40,273.888,±0.089,60.033,84.145,33.204,6.88797,73,109.177,0
+userStrats.s1392,#536,Wadu436,warreStrategy.py,TRUE,40,273.829,±0.141,56.301,89.55,27.096,6.96475,10,281.188,3
+userStrats.s1227,#537,julian,cooperativetft.py,TRUE,40,273.783,±0.078,56.935,86.26,28.613,6.73062,12,99.694,3
+userStrats.s1603,#538,Ascpixel (asc for short),tem.py,TRUE,40,273.735,±0.124,81.397,68.639,36.867,8.63602,241,268.811,2
+userStrats.s655,#539,Sock,hoopdedoopdewoop.py,TRUE,40,273.729,±0.053,57.497,88.39,27.149,3.74986,21,112.115,0
+userStrats.s1536,#540,Tort,dpg3-mlc.py,TRUE,40,273.724,±0.099,70.833,79.48,38.387,7.15191,48,91.782,3
+userStrats.s591,#541,Juan Meleiro,titForTat.py,TRUE,40,273.718,±0.160,54.878,91.969,20.668,2.96919,7,85.87,0
+userStrats.s256,#542,GC,gambler.py,TRUE,40,273.605,±0.138,59.917,83.804,33.619,0.74573,38,121.45,2
+userStrats.s783,#543,PinkPandaPresident,EAPAV.py,TRUE,40,273.521,±0.097,63.111,84.665,30.16,4.84956,102,104.779,1
+userStrats.s1267,#544,ASourMango,asourmango.py,TRUE,40,273.515,±0.101,68.192,80.936,37.002,6.80927,69,107.436,0
+userStrats.s249,#545,WJR,wjr_karma.py,TRUE,40,273.491,±0.095,60.48,81.887,34.767,0.71881,12,86.764,0
+userStrats.s352,#546,Kathryn,myStrat-linear.py,TRUE,40,273.433,±0.093,56.191,86.954,29.712,1.12712,20,192.773,1
+userStrats.s1206,#547,Christan,Dates.py,TRUE,40,273.379,±0.144,48.316,82.282,22.526,6.67249,21,223.444,0
+userStrats.s234,#548,Mathias,iAlwaysWin.py,TRUE,40,273.366,±0.076,56.278,86.946,29.728,0.66324,13,174.879,3
+userStrats.s1570,#549,Chris,foolmetwice.py,TRUE,40,273.329,±0.080,76.544,77.009,40.632,7.76318,16,98.169,3
+userStrats.s50,#550,romain22222,titForLoot.py,TRUE,40,273.294,±0.092,65.109,83.874,33.506,0.09664,31,97.611,1
+userStrats.s1242,#551,kim,modifiedtft.py,TRUE,40,273.222,±0.051,57.461,86.315,28.477,6.75537,12,93.679,-1
+userStrats.s583,#552,SaveTheMarsh (Or just Marsh),Mimic.py,TRUE,40,273.21,±0.079,71.049,79.806,38.141,2.92962,44,91.929,0
+userStrats.s767,#553,akriegman,nMoveExpectation. Kriegman.py,TRUE,40,273.152,±0.114,73.123,79.181,37.251,4.74755,35,403.226,0
+userStrats.s1084,#554,poop legend,tft_target_alternating.py.py - Glue Donkey.txt,TRUE,40,272.954,±0.105,61.831,83.244,33.504,6.2156,55,120.147,1
+userStrats.s1220,#555,redtachyon,GrumpyTitforTat.py,TRUE,40,272.898,±0.086,61.271,83.078,34.434,6.71543,11,227.359,1
+userStrats.s836,#556,Nilrem,sequential_predictor_with_failsafes.py,TRUE,40,272.896,±0.118,69.531,83.009,34.856,5.11289,132,263.269,3
+userStrats.s385,#557,J0R1AN,respond.py,TRUE,40,272.872,±0.090,68.568,76.409,35.912,1.41374,31,93.893,0
+userStrats.s907,#558,Eater of Sheep,respectful.py,TRUE,40,272.865,±0.082,60.969,90.494,20.476,5.70051,24,88.268,2
+userStrats.s546,#559,Mashpoe,heck.py,TRUE,40,272.848,±0.133,57.508,86.784,25.839,2.69991,13,99.125,1
+userStrats.s894,#560,Rod,patternTester.py,TRUE,40,272.825,±0.082,74.957,78.382,34.793,5.6445,22,100.752,3
+userStrats.s1481,#561,Elian,elian.py,TRUE,40,272.799,±0.093,63.407,81.464,32.758,7.01536,15,124.854,2
+userStrats.s320,#562,Harrison,armedpacifist.py,TRUE,40,272.782,±0.131,77.078,86.541,33.358,0.95306,34,94.92,3
+userStrats.s908,#563,Clemens,sol_clemens.py,TRUE,40,272.648,±0.088,58.739,85.471,31.335,5.70359,41,103.094,3
+userStrats.s636,#564,Grollser,tacticalTitForTat.py,TRUE,40,272.571,±0.107,50.599,88.097,20.314,3.60144,20,91.321,2
+userStrats.s1221,#565,Quintium,deceivingCooperation.py,TRUE,40,272.553,±0.058,64.489,95.92,9.814,6.71744,26,97.435,1
+userStrats.s863,#566,ZarthaxX,ZarthaxX.py,TRUE,40,272.547,±0.073,64.3,80.32,36.343,5.37265,38,175.555,1
+userStrats.s298,#567,Ben Turley,cave.py,TRUE,40,272.517,±0.242,66.124,80.609,37.022,0.87876,17,143.777,0
+userStrats.s985,#568,Nlim,cooperativeProfiler.py,TRUE,40,272.507,±0.111,78.4,76.967,39.589,5.92264,109,96.409,1
+userStrats.s1306,#569,Ida,losingstratnr497.py,TRUE,40,272.454,±0.133,62.604,66.137,26.136,6.8678,28,95.505,2
+userStrats.s1248,#570,enduk (maybe? idk),END11K.py,TRUE,40,272.42,±0.099,74.767,75.717,37.915,6.7625,47,106.431,-1
+userStrats.s1099,#571,PC,KitchenSink.py,TRUE,40,272.416,±0.101,70.103,79.49,37.481,6.2758,339,422.892,1
+userStrats.s1425,#572,Tobias,correlationTFT.py,TRUE,40,272.411,±0.119,69.201,84.374,33.393,6.98804,74,205.349,0
+userStrats.s410,#573,Fen Mammoth,lastIteration.py,TRUE,40,272.312,±0.110,58.756,86.298,30.48,1.68338,56,107.998,3
+userStrats.s822,#574,michael_DN,michael-n0813-v2.py,TRUE,40,272.303,±0.086,65.385,86.232,28.896,5.05292,50,165.908,2
+userStrats.s428,#575,coga,GnkrSplitPersonality.py,TRUE,40,272.282,±0.263,62.197,88.201,23.037,1.75589,23,101.78,1
+userStrats.s982,#576,Harry,meanieDetective.py,TRUE,40,272.234,±0.098,60.528,86.214,32.176,5.92102,17,138.129,2
+userStrats.s1470,#577,brododragon,playNicer.py,TRUE,40,272.155,±0.081,78.873,75.314,40.977,7.01093,27,98.596,3
+userStrats.s528,#578,Alpha,BIG BOI.py,TRUE,40,272.064,±0.093,71.618,83.668,34.886,2.54712,23,99.876,2
+userStrats.s404,#579,Infinity,ForgivingIsDifficult.py,TRUE,40,272.041,±0.110,62.429,82.874,34.462,1.63872,21,90.505,2
+userStrats.s325,#580,CrayRT,thecrayrtstrategy.py,TRUE,40,271.954,±0.078,67.164,83.791,32.223,0.96443,38,97.911,1
+userStrats.s336,#581,Nathan,evol.py,TRUE,40,271.811,±0.066,58.256,88.578,24.884,1.0159,21,122.198,0
+userStrats.s792,#582,Grant,gradualPavlov.py,TRUE,40,271.753,±0.182,63.903,81.778,35.681,4.90061,18,102.109,3
+userStrats.s272,#583,Hiren,incorrectlyManupilatedTitForTat.py,TRUE,40,271.676,±0.209,59.659,86.496,26.56,0.79634,26,103.342,0
+userStrats.s339,#584,Sophie,tft_3strikes.py,TRUE,40,271.643,±0.105,77.91,76.594,41.039,1.02832,17,84.059,1
+userStrats.s1522,#585,GoonyKnightMan,baseballTatGKM.py,TRUE,40,271.617,±0.111,77.872,76.554,41.041,7.06693,12,89.44,2
+userStrats.s473,#586,xjcl (Jan),threeStrikes.py,TRUE,40,271.588,±0.104,77.827,76.573,41.018,1.98503,19,100.388,0
+userStrats.s870,#587,Ian,grudgingTit4Tat.py,TRUE,40,271.575,±0.117,77.934,76.518,41.058,5.44375,9,91.358,2
+userStrats.s905,#588,Valentin,sol_valentin.py,TRUE,40,271.573,±0.090,65.605,80.306,37.28,5.69456,41,107.404,3
+userStrats.s278,#589,Wwazam,wwazam_weighted_titForTat.py,TRUE,40,271.567,±0.076,72.428,81.627,37.212,0.82289,27,164.448,2
+userStrats.s116,#590,Rene,CountingGrim.py,TRUE,40,271.561,±0.121,77.918,76.515,41.049,0.20701,12,96.225,1
+userStrats.s786,#591,ollfkaih,titRandom.py,TRUE,40,271.561,±0.267,50.876,82.119,25.981,4.85687,9,101.393,0
+userStrats.s660,#592,FerrousOxide,andyPersonality.py,TRUE,40,271.55,±0.168,61.556,86.48,23.234,3.79007,96,115.671,3
+userStrats.s662,#593,BaconShrimpEyes,rtft.py,TRUE,40,271.507,±0.217,63.862,93.962,13.181,3.81103,8,93.563,3
+userStrats.s520,#594,Fred Gamer,amongUsYoutuber.py,TRUE,40,271.479,±0.086,59.496,83.916,31.503,2.47804,32,97.64,0
+userStrats.s1302,#595,Banbadle,exploitSmartDetectives.py,TRUE,40,271.466,±0.099,72.109,74.353,34.81,6.85785,73,98.837,1
+userStrats.s138,#596,Pyrope Leijon,modifiedGrim.py,TRUE,40,271.448,±0.098,74.956,78.255,39.568,0.28353,56,90.126,1
+userStrats.s193,#597,yomi,biasedrandom.py,TRUE,40,271.441,±0.288,61.06,84.482,31.484,0.53072,19,151.768,3
+userStrats.s180,#598,Mrln,bitForBat.py,TRUE,40,271.309,±0.257,64.292,93.935,13.248,0.49304,12,88.991,3
+userStrats.s284,#599,raytonlin1,r1checkrandom.py,TRUE,40,271.307,±0.211,73.24,78.846,38.184,0.84562,20,112.239,0
+userStrats.s383,#600,crayphor,predictor.py,TRUE,40,271.237,±0.079,57.838,86.618,29.173,1.36602,34,94.353,3
+userStrats.s765,#601,Teivel,eye4two.py,TRUE,40,271.233,±0.117,63.32,81.693,34.952,4.73603,11,95.215,1
+userStrats.s1062,#602,Adamkio,ultraAnalyserStrat.py,TRUE,40,271.217,±0.227,59.916,83.646,31.33,6.15126,35,142.682,2
+userStrats.s120,#603,ugly_robot,naive.py,TRUE,40,271.183,±0.192,61.263,89.691,20.104,0.20968,39,133.383,0
+userStrats.s581,#604,5Cents,5Cents.py,TRUE,40,271.143,±0.144,57.097,77.499,21.381,2.90841,42,103.369,3
+userStrats.s424,#605,MWIT30/8,titForTat_upgraded.py,TRUE,40,271.125,±0.111,70.181,89.64,22.955,1.74911,112,100.552,0
+userStrats.s199,#606,Myriatope,sxy.py,TRUE,40,271.084,±0.173,59.475,85.762,26.968,0.57477,13,250.741,2
+userStrats.s129,#607,Cubecow,2tatfortit.py,TRUE,40,271.056,±0.083,56.838,83.794,29.83,0.24903,5,88.453,0
+userStrats.s827,#608,EmeraldFalls,titForUmTat.py,TRUE,40,271.04,±0.076,56.941,83.79,29.867,5.06624,8,88.908,3
+userStrats.s629,#609,Chris,SuperCopyCat.py,TRUE,40,271.038,±0.064,56.882,83.787,29.841,3.55506,100,94.197,0
+userStrats.s630,#610,atrilliongames,AngrySabotager.py,TRUE,40,271.034,±0.104,64.73,80.874,36.237,3.55563,22,98.876,1
+userStrats.s1483,#611,KNights,theTurtle.py,TRUE,40,271.01,±0.071,56.925,83.771,29.857,7.01596,7,90.993,3
+userStrats.s1521,#612,Rasilu,gura.py,TRUE,40,271.004,±0.081,62.8,85.158,31.428,7.05003,56,327.562,0
+userStrats.s678,#613,CallumD651,consistentDetective.py,TRUE,40,270.991,±0.241,79.325,68.347,33.078,3.90618,63,2723.188,1
+userStrats.s1315,#614,Gattona Mao,GattonaMao.py,TRUE,40,270.916,±0.109,63.673,82.43,34.89,6.87685,21,217.541,0
+userStrats.s313,#615,Bone,deoptimizedtft.py,TRUE,40,270.89,±0.062,57.516,83.873,29.983,0.91787,5,93.674,3
+userStrats.s508,#616,Jonanonathan,best.py,TRUE,40,270.856,±0.092,61.025,88.216,25.926,2.32744,21,102.956,2
+userStrats.s1409,#617,QuantumCaffeine (or just Peter :),cynic.py,TRUE,40,270.767,±0.127,87.342,68.067,39.937,6.97847,113,150.538,2
+userStrats.s155,#618,YiNaN,recursive.py,TRUE,40,270.757,±0.090,59.186,87.482,29.417,0.37726,20,380.091,3
+userStrats.s519,#619,Oxalia,weightedTitForTat.py,TRUE,40,270.741,±0.085,60.081,83.81,32.677,2.45958,58,99.319,2
+userStrats.s1296,#620,Nick,lebowski.py,TRUE,40,270.706,±0.088,66.419,80.785,37.482,6.84296,58,104.905,3
+userStrats.s202,#621,MrTomato99,gradual.py,TRUE,40,270.696,±0.066,69.087,95.071,10.555,0.58287,32,91.514,3
+userStrats.s169,#622,Tak Ajnin,agentTakAjnin.py,TRUE,40,270.69,±0.120,60.763,89.433,20.392,0.44515,13,88.249,0
+userStrats.s1033,#623,Javi,patient.py,TRUE,40,270.633,±0.071,58.413,84.96,27.597,6.06238,14,90.834,0
+userStrats.s1573,#624,Ben_g_man (Benjamin),Expected_Value_Analysis.py,TRUE,40,270.612,±0.098,81.487,88.639,31.037,7.84162,41,337.802,2
+userStrats.s231,#625,choc,haech.py,TRUE,40,270.541,±0.115,80.789,75.418,41.653,0.6598,3,126.597,2
+userStrats.s489,#626,isaac,grudge.py,TRUE,40,270.486,±0.093,75.284,78.121,40.011,2.0819,77,109.277,1
+userStrats.s241,#627,Michael Zhang,michael.py,TRUE,40,270.446,±0.063,75.691,77.258,40.337,0.68353,29,87.456,3
+userStrats.s1423,#628,linger1109,MathMan.py,TRUE,40,270.444,±0.094,60.168,84.105,32.321,6.98745,20,211.719,2
+userStrats.s260,#629,icebox246,slightlyCrazy.py,TRUE,40,270.414,±0.085,68.848,94.353,12.033,0.76171,41,102.863,2
+userStrats.s602,#630,simon224,adaptiveGambler.py,TRUE,40,270.367,±0.150,60.581,85.458,28.698,3.06669,19,153.94,1
+userStrats.s710,#631,Zac,punishNaive.py,TRUE,40,270.325,±0.130,79.612,81.699,37.047,4.14595,38,103.586,3
+userStrats.s1253,#632,email,titfortat.py,TRUE,40,270.316,±0.056,60.031,86.111,28.167,6.7688,8,100.075,-1
+userStrats.s1406,#633,halcdev,caryKHMeToVictory.py,TRUE,40,270.296,±0.082,75.779,77.89,40.041,6.97625,82,136.793,1
+userStrats.s886,#634,Julian,orangeOwl.py,TRUE,40,270.259,±0.080,79.902,75.63,41.246,5.59441,38,106.078,2
+userStrats.s399,#635,Sahaquiel,observer.py,TRUE,40,270.037,±0.095,66.918,80.826,37.413,1.54887,15,100.079,3
+userStrats.s944,#636,turbo_girl,turbo_girl.py,TRUE,40,269.995,±0.101,79.803,74.127,41.804,5.822,48,229.913,2
+userStrats.s1579,#637,ThatXliner,lyners_cannon.py,TRUE,40,269.992,±0.077,73.964,82.603,34.101,7.88966,30,205.905,0
+userStrats.s360,#638,RoiEX,likelyCooperate.py,TRUE,40,269.885,±0.130,61.659,84.457,32.351,1.17887,49,185.464,3
+userStrats.s344,#639,Douglas,yepe.py,TRUE,40,269.859,±0.147,62.187,89.419,21.23,1.08252,8,100.76,3
+userStrats.s913,#640,Logan D.,myjudgedetection.py,TRUE,40,269.564,±0.112,71.815,79.199,38.502,5.72476,28,148.703,0
+userStrats.s475,#641,Tom Fryers,lmtft.py,TRUE,40,269.528,±0.116,80.468,74.614,41.859,2.01243,26,275.137,0
+userStrats.s1246,#642,Timm638,timm638..py,TRUE,40,269.526,±0.084,58.941,82.976,30.948,6.76049,9,99.591,3
+userStrats.s590,#643,ClemenPine,statistician.py,TRUE,40,269.502,±0.100,64.254,81.955,35.621,2.96872,21,104.714,0
+userStrats.s1454,#644,Ophiuchus,greed.py,TRUE,40,269.446,±0.110,73.765,85.924,21.607,7.00517,61,147.243,0
+userStrats.s1251,#645,Dylan,titfortat.py,TRUE,40,269.417,±0.070,60.053,84.184,29.41,6.76419,12,93.505,3
+userStrats.s1250,#646,email,tft(1).py,TRUE,40,269.397,±0.074,60.03,84.167,29.404,6.76316,12,90.661,-1
+userStrats.s433,#647,99cows99,tit3tat.py,TRUE,40,269.395,±0.112,62.187,83.776,33.037,1.77549,33,189.612,2
+userStrats.s1207,#648,Inbouto,unforgiving_statistician.py,TRUE,40,269.341,±0.080,67.627,76.982,37.686,6.67369,65,590.37,2
+userStrats.s1042,#649,Dice,im_learning.py,TRUE,40,269.249,±0.128,65.758,81.241,34.152,6.09382,12,144.912,3
+userStrats.s1444,#650,eriksx,forgiving_grudger.py,TRUE,40,269.222,±0.067,63.12,82.365,33.803,7.00036,13,98.01,3
+userStrats.s824,#651,JoshFish11,fishoPpm.py,TRUE,40,269.214,±0.095,60.533,85.287,30.74,5.06168,97,637.915,0
+userStrats.s133,#652,Blahsadfeguie (or just Blah),sigma.py,TRUE,40,269.101,±0.087,61.211,90.303,25.447,0.26528,16,85.777,0
+userStrats.s1194,#653,JonnyRobbie,jonnyRobbie.py,TRUE,40,269.068,±0.107,64.959,82.961,33.92,6.63899,22,95.542,2
+userStrats.s1507,#654,Bone,bestBoogaloo.py,TRUE,40,269.024,±0.100,72.819,80.087,34.708,7.02049,16,109.579,3
+userStrats.s1027,#655,José Sousa,yadjs.py,TRUE,40,269.018,±0.132,74.441,74.098,34.252,6.04285,317,207.695,3
+userStrats.s743,#656,Steb,fgt_steb.py,TRUE,40,269.009,±0.247,67.004,82.823,30.883,4.54571,17,98.061,2
+userStrats.s96,#657,Gregovin,lessForgivingTitForTat.py,TRUE,40,268.975,±0.087,67.371,80.229,37.22,0.17859,20,94.994,2
+userStrats.s1396,#658,Koen te Dorsthorst,suspicious (1).py,TRUE,40,268.941,±0.095,64.141,80.264,35.34,6.9702,30,94.026,3
+userStrats.s872,#659,jichanbachan,unforgivingTFTv4.py,TRUE,40,268.848,±0.081,73.344,78.125,38.566,5.45374,62,93.457,2
+userStrats.s1217,#660,lork6,new.py,TRUE,40,268.805,±0.145,72.45,87.333,30.964,6.69546,26,90.487,2
+userStrats.s1036,#661,ern,patternEV.py,TRUE,40,268.735,±0.088,64.467,81.043,35.914,6.07372,59,145.93,3
+userStrats.s584,#662,yabadabadoo,test.py,TRUE,40,268.718,±0.057,59.364,92.957,20.346,2.93444,16,94.448,3
+userStrats.s524,#663,ps4star,historian.py,TRUE,40,268.636,±0.115,77.72,78.494,39.68,2.51036,51,544.429,3
+userStrats.s1421,#664,gust,HistoryFinder4.py,TRUE,40,268.544,±0.078,66.133,80.634,36.651,6.98622,13,96.274,1
+userStrats.s1255,#665,Shazam,dumbAndDumber.py,TRUE,40,268.51,±0.088,72.215,80.073,37.421,6.77009,37,109.116,3
+userStrats.s40,#666,Houdini111,h111.py,TRUE,40,268.462,±0.217,66.632,80.963,35.834,0.08185,24,726.12,1
+userStrats.s768,#667,BigBrainDude,bigBrain.py,TRUE,40,268.446,±0.108,66.881,80.39,36.411,4.76556,17,107.842,3
+userStrats.s1424,#668,Danda,random_detector.py,TRUE,40,268.384,±0.100,68.629,80.004,38.087,6.98796,15,127.125,2
+userStrats.s866,#669,Sage,RagingCake.py,TRUE,40,268.358,±0.094,68.112,82.063,32.684,5.38706,25,90.522,2
+userStrats.s1231,#670,Our Lucky Winner,ReasonableBusinessmanStrategy.py,TRUE,40,268.332,±0.202,61.709,83.579,30.751,6.73609,10,272,0
+userStrats.s229,#671,QuantumDeveloper,triggeredTFT.py,TRUE,40,268.33,±0.107,69.151,79.627,38.476,0.65317,20,106.923,2
+userStrats.s1228,#672,Ich_73,Ich_73.py,TRUE,40,268.272,±0.206,61.76,83.572,30.775,6.73424,26,276.736,1
+userStrats.s210,#673,Sky,escalation.py,TRUE,40,268.249,±0.103,77.224,75.867,40.707,0.60193,16,93.895,0
+userStrats.s834,#674,Fug Nuggler (Hunter Thompson),StatisticalOffensive-TFT.py,TRUE,40,268.202,±0.127,78.51,74.196,38.154,5.10727,43,104.462,1
+userStrats.s187,#675,FrenchOniichan,theJudge.py,TRUE,40,268.119,±0.095,62.658,85.118,32.203,0.508,27,97.961,0
+userStrats.s381,#676,satyen,comparat0r.py,TRUE,40,268.086,±0.091,62.673,85.115,32.193,1.33682,25,159.14,2
+userStrats.s1558,#677,Magnús Á.,failsafe_majority.py,TRUE,40,268.065,±0.088,62.532,85.688,31.839,7.51052,24,161.232,0
+userStrats.s954,#678,eric,my_grimTrigger.py,TRUE,40,268.06,±0.095,76.517,76.097,40.858,5.8473,29,100.347,3
+userStrats.s882,#679,Dan Krupsky,smilingPinkElephant.py,TRUE,40,268.042,±0.119,74.827,75.067,37.409,5.55786,39,97.303,1
+userStrats.s1544,#680,Lazor,bettorDetector.py,TRUE,40,267.999,±0.075,68.078,79.709,37.417,7.17255,122,144.056,2
+userStrats.s150,#681,Jagaimo,toggleTrigger.py,TRUE,40,267.67,±0.072,77.968,83.928,22.822,0.33759,17,90.846,0
+userStrats.s562,#682,Smiley1000,Smiley1000s_actual_Strat.py,TRUE,40,267.636,±0.082,79.364,75.501,41.485,2.79326,46,109.877,0
+userStrats.s875,#683,Shantanu,goodboi2.py,TRUE,40,267.592,±0.091,66.302,81.247,35.471,5.48083,74,91.335,1
+userStrats.s672,#684,green60ninja,green60ninja_strat.py,TRUE,40,267.566,±0.099,70.034,87.402,23.205,3.87861,24,148.123,3
+userStrats.s1576,#685,Utkarsh,coOpProbability.py,TRUE,40,267.505,±0.274,64.011,83.588,33.543,7.85839,32,97.087,3
+userStrats.s172,#686,Cedestroyer,forgiveLess.py,TRUE,40,267.475,±0.076,77.259,76.54,40.836,0.45451,21,88.518,2
+userStrats.s147,#687,tristanishappy,Tristan_RandForTat.py,TRUE,40,267.464,±0.200,63.6,83.523,31.785,0.31233,30,99.115,2
+userStrats.s790,#688,Chris,hyper_param_submission_2_13_20_0.py,TRUE,40,267.304,±0.081,79.175,76.132,40.842,4.88116,79,115.241,0
+userStrats.s411,#689,Imperator,MultipleSimpleScripts.py,TRUE,40,267.287,±0.104,81.819,81.966,37.739,1.68441,15,88.952,3
+userStrats.s1106,#690,CursedFlames,strat.py,TRUE,40,267.222,±0.098,79.807,73.761,42.493,6.30784,26,98.359,2
+userStrats.s316,#691,niklasbo,niklasbostrategy.py,TRUE,40,267.175,±0.084,64.016,88.398,28.084,0.93126,24,98.703,3
+userStrats.s692,#692,Thomas Lynn,dummy.py,TRUE,40,267.041,±0.210,68.646,79.788,34.085,3.95597,30,183.13,1
+userStrats.s294,#693,LazyLiger,LazyStrat.py,TRUE,40,267.006,±0.078,63.657,84.36,32.894,0.86782,26,138.369,0
+userStrats.s924,#694,Frederic,FluffyGauss.py,TRUE,40,267.005,±0.106,79.855,75.638,39.287,5.76434,65,222.828,1
+userStrats.s1233,#695,Box  (or Niko!),buttchug.py,TRUE,40,266.953,±0.095,76.543,74.919,38.8,6.73841,16,97.23,3
+userStrats.s1098,#696,pizzapenguin,areYouFollowingMe.py,TRUE,40,266.909,±0.105,63.787,85.432,31.991,6.27571,28,397.86,1
+userStrats.s1379,#697,Holarctic,shouldntWin.py,TRUE,40,266.837,±0.240,65.375,82.342,33.422,6.94737,6,94.758,1
+userStrats.s618,#698,Sean,SKULLIMPALER9000000.py,TRUE,40,266.824,±0.085,70.278,79.012,38.939,3.4381,11,89.264,2
+userStrats.s115,#699,Kenji A.K.A. Knogo (Either one!),knogo-strat.py,TRUE,40,266.723,±0.391,75.677,76.318,40.185,0.2012,31,105.131,2
+userStrats.s318,#700,Chisato Sozo,nice_guy.py,TRUE,40,266.718,±0.109,69.135,78.8,38.068,0.93281,24,123.809,0
+userStrats.s1309,#701,chrismit3s,randChoiceLin.py,TRUE,40,266.705,±0.209,63.365,82.703,31.602,6.87,10,192.672,1
+userStrats.s1032,#702,Michael,lisenkov.py,TRUE,40,266.687,±0.086,83.664,73.475,42.449,6.0597,47,125.743,0
+userStrats.s76,#703,Mocha,mocha3.py,TRUE,40,266.682,±0.063,60.558,93.267,19.635,0.15515,7,86.237,0
+userStrats.s1519,#704,"Peter Chatain (pronounced ""shu-tain"")",peter_chatain.py,TRUE,40,266.617,±0.064,60.616,93.244,19.671,7.03865,8,92.641,0
+exampleStrats.ftft,#705,None,ftft,TRUE,40,266.574,±0.067,60.669,93.229,19.705,0,7,0,-1
+userStrats.s417,#706,Csoma (It's pronounced Choma),iSwearImInnocent.py,TRUE,40,266.541,±0.083,78.999,76.681,40.57,1.71394,30,120.883,0
+userStrats.s299,#707,Ben Turley,legend.py,TRUE,40,266.498,±0.121,73.116,81.981,36.219,0.88149,18,151.805,2
+userStrats.s719,#708,Aidan,Crusher8.py,TRUE,40,266.498,±0.114,69.035,79.935,38.413,4.20325,13,89.307,1
+userStrats.s798,#709,nzec,grdtftm.py,TRUE,40,266.479,±0.088,73.286,77.326,39.763,4.91324,13,91.043,2
+userStrats.s435,#710,aced7,contest entry.py,TRUE,40,266.389,±0.089,69.17,78.164,38.255,1.79692,12,90.602,1
+userStrats.s377,#711,Graham,grudge.py,TRUE,40,266.287,±0.118,74.617,76.604,40.505,1.31089,10,88.753,1
+userStrats.s1122,#712,Louis,2faces.py,TRUE,40,266.245,±0.098,75.454,78.092,39.201,6.38137,42,88.224,3
+userStrats.s1132,#713,James Rayman,surgeon.py,TRUE,40,266.172,±0.092,86.098,67.968,37.673,6.41794,175,160.108,1
+userStrats.s394,#714,ky.ba2,Ender_Wiggin.py,TRUE,40,266.168,±0.082,76.124,75.913,41.122,1.49293,41,89.75,2
+userStrats.s415,#715,Rai,AboveSeaLevel.py,TRUE,40,266.164,±0.102,67.639,79.814,37.433,1.70348,16,103.042,2
+userStrats.s1272,#716,Cas,gen_pnn-337.py,TRUE,40,266.147,±0.100,79.779,77.117,40.437,6.81332,24,127.791,3
+userStrats.s196,#717,Solar,oddsifyCorrelativeGrimTrigger.py,TRUE,40,266.143,±0.191,80.323,73.944,39.277,0.53865,16,304.131,1
+userStrats.s805,#718,Sebastian,myCuteRacoon.py,TRUE,40,266.126,±0.108,69.186,79.48,38.28,4.96162,52,98.08,2
+userStrats.s1330,#719,Edu,adjustingExtortion.py,TRUE,40,266.121,±0.210,68.992,78.289,34.542,6.89125,67,182.15,0
+userStrats.s371,#720,aimmmmmmmmm (pronounced aim),aimmmmmmmmm'sStrategy.py,TRUE,40,266.084,±0.367,63.211,80.749,32.316,1.26868,17,119.895,0
+userStrats.s893,#721,Steven,exponentialDistrust.py,TRUE,40,266.066,±0.109,76.785,76.03,40.994,5.6445,21,95.939,3
+userStrats.s200,#722,DevilXD,gtft.py,TRUE,40,266.062,±0.086,80.298,74.779,41.538,0.57878,30,90.9,3
+userStrats.s289,#723,Koyn,[]self.py,TRUE,40,266.006,±0.101,80.27,74.78,41.555,0.85729,9,95.614,3
+userStrats.s958,#724,Semni,tft_grim.py,TRUE,40,265.979,±0.083,80.28,74.784,41.54,5.86081,17,93.844,1
+userStrats.s226,#725,Valentin,tft_grim.py,TRUE,40,265.976,±0.088,80.635,74.647,41.721,0.64477,17,102.863,1
+userStrats.s312,#726,Sarp,defectiveTFT.py,TRUE,40,265.972,±0.107,80.324,74.767,41.558,0.91472,20,90.523,3
+userStrats.s387,#727,Qr,tft_spiteful.py,TRUE,40,265.953,±0.113,80.282,74.796,41.543,1.41696,15,90.535,1
+userStrats.s814,#728,Heliodex,forgivingGrimTrigger.py,TRUE,40,265.944,±0.086,80.298,74.772,41.554,5.01519,29,99.353,3
+userStrats.s1534,#729,Severus,4rules.py,TRUE,40,265.939,±0.095,79.605,74.85,41.383,7.14598,10,95.82,3
+userStrats.s240,#730,Peter (but don't say it online),foolMeTwice.py,TRUE,40,265.937,±0.097,80.297,74.766,41.555,0.67878,44,96.966,0
+userStrats.s1139,#731,Scrubz,empirical.py,TRUE,40,265.935,±0.137,87.389,84.655,29.295,6.43462,29,454.957,1
+userStrats.s946,#732,Rhyte (pronounced as 'right'),frustrated.py,TRUE,40,265.934,±0.089,80.327,74.749,41.57,5.82528,8,102.334,1
+userStrats.s378,#733,KINGGpatrick,Grim TitForTat.py,TRUE,40,265.853,±0.084,80.349,74.715,41.574,1.31471,15,86.163,1
+userStrats.s499,#734,mmdanggg2,trusting.py,TRUE,40,265.85,±0.244,68.566,79.249,37.475,2.20366,13,97.771,1
+userStrats.s1310,#735,David K,PerceptiveTFTnn. Q..py,TRUE,40,265.807,±0.121,80.167,75.647,41.21,6.87017,228,184.588,1
+userStrats.s1319,#736,Eike,ETR_FAL3_MEM2.py,TRUE,40,265.755,±0.065,61.976,92.189,21.69,6.87973,8,91.442,0
+userStrats.s680,#737,Asterion,howDareYou.py,TRUE,40,265.741,±0.227,69.06,78.586,38.177,3.90961,22,101.491,3
+userStrats.s1102,#738,Nathan777,tftoad.py,TRUE,40,265.734,±0.201,64.65,83.232,29.467,6.28873,38,196.502,0
+userStrats.s853,#739,Marcos,mdstrats.py,TRUE,40,265.677,±0.202,65.208,85.592,26.912,5.29101,22,159.179,1
+userStrats.s1002,#740,Thriple T (h is intended),analyseTheEnemy.py,TRUE,40,265.636,±0.087,64.41,86.593,30.685,5.96199,68,105.396,1
+userStrats.s1223,#741,arct,wrand.py,TRUE,40,265.629,±0.233,64.725,83.24,29.384,6.72807,11,140.47,3
+userStrats.s455,#742,Luke Atmey,zvarri.py,TRUE,40,265.594,±0.072,66.067,81.057,35.179,1.89372,50,104.813,1
+userStrats.s359,#743,SakuraTechnologies,stft.py,TRUE,40,265.546,±0.165,68.917,79.994,37.94,1.1787,59,112.858,2
+userStrats.s2,#744,Jonathan Li,evolvedFsmV2.py,TRUE,40,265.54,±0.088,85.156,75.65,36.736,-0.31987,68,108.943,1
+userStrats.s496,#745,Cameron,analyseAnalyseANALYSE.py,TRUE,40,265.527,±0.104,66.863,83.824,32.68,2.16512,162,94.112,1
+userStrats.s1169,#746,Mercutio,mercPavlov.py,TRUE,40,265.51,±0.099,85.655,72.337,43.565,6.53167,16,129.244,0
+userStrats.s828,#747,Alkolyte,Analyst.py,TRUE,40,265.449,±0.101,83.015,76.647,41.322,5.07086,63,95.06,1
+userStrats.s1430,#748,"Mobius, 404, or Mobius404 (Mobius preferred)",mobius404.py,TRUE,40,265.383,±0.175,69.809,77.682,38.014,6.9926,34,174.042,1
+userStrats.s1323,#749,Markus,defectProbability.py,TRUE,40,265.37,±0.150,67.551,88.209,26.539,6.88416,38,111.768,0
+userStrats.s1,#750,Jonathan Li,evolvedFsm.py,TRUE,40,265.351,±0.085,84.821,76.114,35.981,-0.37074,66,91.813,0
+userStrats.s861,#751,Repsej2003,Averagebutbad.py,TRUE,40,265.2,±0.239,65.07,82.653,30.286,5.35517,17,134.612,2
+userStrats.s779,#752,Remi,Omnidroid v.10.10 - Remington Vaughan.py,TRUE,40,265.184,±0.089,83.715,73.086,42.515,4.80488,62,109.646,3
+userStrats.s940,#753,DVDTSB,evolvedLookerUp222.py,TRUE,40,265.126,±0.131,85.25,80.311,32.712,5.81663,10,103.689,-1
+userStrats.s1289,#754,😳,Cheater.py,TRUE,40,265.089,±0.105,85.14,80.331,32.7,6.83546,82,112.667,0
+userStrats.s3,#755,Bottersnike,lookup.py,TRUE,40,265.064,±0.116,85.286,80.38,32.649,-0.3063,20,106.943,2
+userStrats.s1172,#756,Jon,evolvedLookerup.py,TRUE,40,265.055,±0.104,85.275,80.391,32.625,6.54819,92,136.538,2
+userStrats.s1209,#757,Will_Ko,randomMirror.py,TRUE,40,265.004,±0.175,65.508,83.442,29.362,6.6784,51,140.116,1
+userStrats.s1331,#758,Doron,LookupTable.py,TRUE,40,264.997,±0.098,85.241,80.351,32.646,6.89182,17,119.52,3
+userStrats.s1061,#759,Jost Salathé,AnxiousLittleMFer.py,TRUE,40,264.886,±0.221,69.952,78.646,37.136,6.14537,27,97.524,3
+userStrats.s1069,#760,Rory,fOppRandom.py,TRUE,40,264.882,±0.194,65.433,82.621,30.366,6.17985,17,93.568,2
+userStrats.s1468,#761,Forrest,FAM_strat.py,TRUE,40,264.84,±0.112,75.62,74.196,36.906,7.01049,30,88.151,3
+userStrats.s353,#762,Akira,normally-weight.py,TRUE,40,264.837,±0.076,66.094,82.28,34.541,1.12866,25,695.698,1
+userStrats.s1149,#763,FlavourFriend,pavlov.py,TRUE,40,264.742,±0.116,68.216,78.985,37.031,6.4667,27,94.557,2
+userStrats.s287,#764,[blank],adaptive.py,TRUE,40,264.646,±0.101,80.478,68.766,33.769,0.85543,51,97.301,1
+userStrats.s1012,#765,Robert,!seperatedProber1.py,TRUE,40,264.603,±0.149,72.664,75.496,26.17,5.98837,54,108.84,3
+userStrats.s563,#766,vb0t,vb0tStrat.py,TRUE,40,264.583,±0.089,72.621,77.607,40.019,2.797,20,175.496,2
+userStrats.s100,#767,d0rb,ProbabilisticCopycat.py,TRUE,40,264.577,±0.228,65.796,82.336,30.723,0.18248,22,157.07,0
+userStrats.s1109,#768,Endr,twitchingDice.py,TRUE,40,264.542,±0.203,65.976,82.299,30.824,6.33162,8,111.962,3
+userStrats.s28,#769,Noah,noah.py,TRUE,40,264.525,±0.095,66.605,82.53,34.763,0.05117,16,96.642,2
+userStrats.s808,#770,Sir Drowzee III,custom.py,TRUE,40,264.497,±0.219,65.838,82.286,30.775,4.98578,15,124.13,2
+userStrats.s135,#771,NotAName,bruceLee.py,TRUE,40,264.468,±0.186,65.915,82.299,30.603,0.27108,8,146.047,3
+userStrats.s632,#772,acee,my_strategy.py,TRUE,40,264.467,±0.209,65.957,82.285,30.807,3.57147,19,200.647,0
+userStrats.s1252,#773,Lhistoire,RandomRecall.py,TRUE,40,264.448,±0.180,65.915,82.267,30.793,6.76726,22,97.907,2
+userStrats.s45,#774,zelosos,calculatedDice.py,TRUE,40,264.442,±0.268,65.978,82.266,30.786,0.08375,23,117.872,0
+userStrats.s693,#775,R2bEEaton,trusting.py,TRUE,40,264.429,±0.189,65.981,82.261,30.82,3.96404,12,120.561,1
+userStrats.s422,#776,AerSlayer,randomChoice.py,TRUE,40,264.415,±0.199,65.974,82.27,30.804,1.7276,8,99.151,2
+userStrats.s716,#777,Jersey,jersey_random_other.py,TRUE,40,264.395,±0.219,65.938,82.267,30.784,4.1733,11,91.739,2
+userStrats.s930,#778,"joshf26 (""Josh"" is fine)",play_against.py,TRUE,40,264.392,±0.120,73.393,84.161,33.073,5.78884,75,105.004,2
+userStrats.s369,#779,SnarkElemental,chaoticNeutral.py,TRUE,40,264.378,±0.225,66.001,82.274,30.791,1.26649,38,93.156,3
+exampleStrats.detective,#780,None,detective,TRUE,40,264.374,±0.174,69.431,77.038,36.328,0,32,0,-1
+userStrats.s967,#781,Legendary Heart,statistician.py,TRUE,40,264.345,±0.190,66.006,82.24,30.82,5.87924,37,99.815,3
+userStrats.s426,#782,cucumbercat,ratio.py,TRUE,40,264.328,±0.190,66,82.242,30.819,1.75354,13,119.64,0
+userStrats.s1482,#783,bull313,thoughtfulStrat.py,TRUE,40,264.314,±0.102,82.418,76.727,40.802,7.01578,266,93.797,2
+userStrats.s1258,#784,gieddy,test.py,TRUE,40,264.295,±0.233,66.069,82.195,30.881,6.78843,13,147.047,1
+userStrats.s1045,#785,Meepcom,when cary is sus.py,TRUE,40,264.288,±0.104,69.244,78.762,33.287,6.10208,17,143.837,3
+userStrats.s889,#786,CuboManco,meanAsProbability.py,TRUE,40,264.279,±0.260,66.027,82.197,30.881,5.61896,10,132.136,1
+userStrats.s625,#787,Epants101,probabilistic_recent.py,TRUE,40,264.262,±0.093,68.38,80.931,35.915,3.51453,10,105.716,0
+userStrats.s997,#788,RomanCantu,roman.py,TRUE,40,264.253,±0.196,66.068,82.191,30.867,5.95492,9,201.727,0
+userStrats.s791,#789,Quintkat,averageTotalChanceQuintkat.py,TRUE,40,264.249,±0.221,66.164,82.196,30.904,4.89083,17,182.759,0
+userStrats.s1374,#790,NightTheMystic,night_strat.py,TRUE,40,264.249,±0.286,90.832,64.041,42.136,6.94078,246,110.272,0
+userStrats.s1110,#791,The_Juan_And_Only,mimic.py,TRUE,40,264.237,±0.219,66.165,82.191,30.895,6.33306,20,124.041,1
+userStrats.s92,#792,I_like_pi_,are_ya_winning_son. John.py,TRUE,40,264.231,±0.075,74.966,89.022,19.463,0.17564,18,88.029,2
+userStrats.s304,#793,Mabz,eyefori.py,TRUE,40,264.23,±0.215,66.171,81.889,31.075,0.89385,24,139.122,3
+userStrats.s1080,#794,omegabyte_03,catboy3BatsForgiving.py,TRUE,40,264.18,±0.064,83.954,71.596,43.723,6.21088,58,96.146,3
+userStrats.s1105,#795,Reed,forgivingTriggerTech.py,TRUE,40,264.088,±0.083,74.688,76.247,40.529,6.30627,42,96.744,1
+userStrats.s696,#796,Krzysztof,statBotTwelve.py,TRUE,40,263.986,±0.146,78.018,77.193,39.983,3.98479,41,298.654,2
+userStrats.s63,#797,ValleyDragon,forgivingGrimTrigger.py,TRUE,40,263.962,±0.091,84.353,72.53,43.324,0.12046,19,85.162,3
+userStrats.s164,#798,zm,btft.py,TRUE,40,263.894,±0.296,71.256,77.12,39.559,0.41187,15,94.375,1
+userStrats.s850,#799,Macneil Shonle,seeYa.py,TRUE,40,263.882,±0.278,67.437,84.471,28.026,5.28213,32,332.25,3
+userStrats.s497,#800,Zick,yeetyaw.py,TRUE,40,263.876,±0.144,95.687,92.085,22.407,2.17466,85,97.27,2
+userStrats.s801,#801,"War or Jojo, whichever you like best",brickByBrick.py,TRUE,40,263.867,±0.195,66.937,85.204,31.529,4.93655,18,96.409,2
+userStrats.s1234,#802,Marcel,punishingTitForTat.py,TRUE,40,263.822,±0.106,81.29,73.703,42.589,6.73895,25,98.277,1
+userStrats.s670,#803,Roman,fastBayesMatcher.py,TRUE,40,263.712,±0.108,68.234,83.5,34.658,3.8441,60,113.222,1
+userStrats.s560,#804,anderium,titForTatUnlessRandom.py,TRUE,40,263.686,±0.101,71.39,77.991,38.775,2.78816,34,139.13,1
+userStrats.s688,#805,Andi,gradual.py,TRUE,40,263.615,±0.113,77.384,75.112,41.659,3.94147,19,92.391,2
+userStrats.s248,#806,britboy3456,britboy2.py,TRUE,40,263.611,±0.088,77.36,75.098,41.646,0.71502,24,246.702,0
+userStrats.s265,#807,Possseidon,grimCooldown.py,TRUE,40,263.59,±0.110,77.387,75.092,41.654,0.76884,29,108.149,1
+userStrats.s68,#808,Harry Tsang,my_submission.py,TRUE,40,263.582,±0.104,84.735,73.846,41.391,0.13691,26,89.182,2
+userStrats.s727,#809,myl,counter.py,TRUE,40,263.565,±0.114,68.586,81.53,36.142,4.26939,12,93.461,0
+userStrats.s358,#810,Luke,titForWhack.py,TRUE,40,263.562,±0.098,77.417,75.054,41.683,1.16625,13,92.722,3
+userStrats.s840,#811,ThreadSnake,ThreadSnakeStrat.py,TRUE,40,263.536,±0.220,75.098,76.99,39.651,5.18631,32,179.891,0
+userStrats.s351,#812,hayden,clairvoyant.py,TRUE,40,263.366,±0.086,67.827,83.493,34.363,1.12561,18,125.744,2
+userStrats.s833,#813,Plum,looker_up_I_barely_know_her.py,TRUE,40,263.142,±0.121,87.382,80.059,32.975,5.10163,15,109.078,2
+userStrats.s742,#814,Xianthu Laman,smooth_brain-xianthu.py,TRUE,40,262.893,±0.105,80.822,73.252,42.368,4.5265,66,92.85,2
+userStrats.s634,#815,spomlol,spomlol.py,TRUE,40,262.875,±0.241,69.052,82.94,35.211,3.59667,22,1071.635,2
+userStrats.s47,#816,cobaltcore,the-vengeful-one.py,TRUE,40,262.805,±0.076,78.007,74.535,41.962,0.0841,32,265.471,1
+userStrats.s780,#817,klrst,tittatForTittat.py,TRUE,40,262.736,±0.104,68.237,83.02,34.677,4.81609,26,1177.164,0
+userStrats.s1452,#818,Milan,uninspired..py,TRUE,40,262.709,±0.269,70.306,83.631,28.014,7.00373,15,112.348,1
+userStrats.s1487,#819,BlueNexus,investigatorv2.py,TRUE,40,262.707,±0.184,73.58,80.087,33.31,7.01667,51,93.832,2
+userStrats.s809,#820,Luiz Wainstein,almostTFT.py,TRUE,40,262.672,±0.285,85.757,71.397,43.871,4.98888,14,92.811,0
+userStrats.s1501,#821,cynthi8,niceDetective_cynthi8.py,TRUE,40,262.536,±0.110,85.784,71.963,43.754,7.01993,57,89.079,2
+userStrats.s469,#822,Kika,tolerate80.py,TRUE,40,262.521,±0.099,76.741,75.309,41.685,1.97442,7,111.382,0
+userStrats.s1090,#823,RavTimLord (or Raven for easy naming),wizardPrisoner.py,TRUE,40,262.513,±0.078,85.475,71.864,43.071,6.24093,25,107.508,2
+userStrats.s1113,#824,JJJ (JohnsonJensonJason),predictiveHistoryAnalyzer.py,TRUE,40,262.475,±0.114,72.019,85.495,32.571,6.33801,30,93.083,2
+userStrats.s529,#825,Stuart,sherlock.py,TRUE,40,262.2,±0.113,85.122,62.784,34.252,2.55387,139,103.343,2
+userStrats.s622,#826,sctanf,applyResearch.py,TRUE,40,262.13,±0.123,80.227,74.277,38.277,3.48245,40,98.471,1
+userStrats.s110,#827,Professor_Pork,twoTitsForTat.py,TRUE,40,262.067,±0.098,73.189,76.224,39.838,0.19738,5,97.252,0
+userStrats.s1581,#828,Solitary_Knight,idealist.py,TRUE,40,262.019,±0.072,85.527,72.017,43.594,7.90634,1031,249.996,2
+userStrats.s412,#829,Rocket,ROCKET.py,TRUE,40,261.954,±0.083,73.766,75.031,39.995,1.69903,24,97.926,2
+userStrats.s541,#830,"Marijn (it's Dutch, it's better to check in google translate how to pronounce it)",iskotftwiaadwthiana.py,TRUE,40,261.9,±0.095,85.704,70.228,43.344,2.61427,49,152.973,3
+userStrats.s559,#831,tobidot,tobidot__anti-jamming.py,TRUE,40,261.827,±0.088,85.684,78.461,32.871,2.77793,32,95.592,1
+userStrats.s1294,#832,Carc,secondChance.py,TRUE,40,261.824,±0.095,86.945,71.146,44.143,6.83957,14,97.811,3
+userStrats.s148,#833,Fizzure,tft_spiteful.py,TRUE,40,261.819,±0.107,86.847,71.184,44.123,0.31248,17,88.766,3
+userStrats.s418,#834,PenguinMafia,fool_me_twice.py,TRUE,40,261.818,±0.089,86.935,71.135,44.142,1.71419,9,104.156,3
+userStrats.s279,#835,Rowan Woodell,evaluateIntent.py,TRUE,40,261.812,±0.127,76.258,75.61,41.516,0.82605,22,1166.678,2
+userStrats.s1035,#836,R0bit,moreptft.py,TRUE,40,261.8,±0.098,86.935,71.148,44.138,6.06848,13,89.173,1
+userStrats.s1532,#837,William F,less_intense_grimtrigger. Feng.py,TRUE,40,261.78,±0.092,86.96,71.117,44.148,7.13508,12,94.445,1
+userStrats.s427,#838,Tecno,Literally_Sherlock_Holmes.py,TRUE,40,261.766,±0.128,82.409,85.25,24.505,1.75422,122,143.455,0
+userStrats.s8,#839,Will,copycat.py,TRUE,40,261.752,±0.424,64.761,76.397,34.47,0.01197,10,88.839,1
+userStrats.s802,#840,CapDaniels,statistical_tft.py,TRUE,40,261.624,±0.167,84.867,67.434,41.25,4.94284,62,258.282,3
+userStrats.s1276,#841,Jdewi,Jdewi.py,TRUE,40,261.594,±0.098,86.143,71.893,44.029,6.81956,50,97.512,1
+userStrats.s587,#842,Pyronaut,betterForgivingDetective.py,TRUE,40,261.355,±0.120,72.516,79.394,33.737,2.96122,41,92.107,3
+userStrats.s1134,#843,Quaccanthrope,disciplinist.py,TRUE,40,261.324,±0.099,85.634,72.98,43.458,6.42052,48,92.81,3
+userStrats.s1051,#844,hewwo_owo1,tft_detect_random.py,TRUE,40,261.322,±0.090,75.618,74,41.397,6.11541,14,107.183,3
+userStrats.s37,#845,Bryson,like_insurance.py,TRUE,40,261.193,±0.204,70.176,77.606,35.792,0.07648,36,317.979,2
+userStrats.s223,#846,LOLrReD,titForTat3.py,TRUE,40,261.082,±0.092,69.107,82.818,34.708,0.62491,9,113.71,1
+userStrats.s1226,#847,Timothyjackman,theLastJudgement.py,TRUE,40,261.063,±0.105,69.153,82.784,34.728,6.72905,19,117.626,1
+userStrats.s832,#848,Zaphod,ZaphodStrat.py,TRUE,40,261.014,±0.086,85.257,72.387,43.233,5.09434,40,90.985,3
+userStrats.s841,#849,Eris,grimTriggerMutantByEris.py,TRUE,40,261.006,±0.136,85.586,72.109,41.83,5.19628,41,123.515,0
+exampleStrats.simpleton,#850,None,simpleton,TRUE,40,261.004,±0.106,82.241,87.41,22.287,0,17,0,-1
+userStrats.s1473,#851,B.T.,simpleton.py,TRUE,40,260.953,±0.102,82.291,87.409,22.274,7.01257,18,94.344,3
+userStrats.s888,#852,jimbo,winStayLoseShift.py,TRUE,40,260.852,±0.106,82.38,87.406,22.274,5.60179,6,95.948,2
+userStrats.s391,#853,leviathan_xxvi,trustingTrader.py,TRUE,40,260.748,±0.100,76.196,75.678,41.448,1.45657,25,101.387,1
+userStrats.s62,#854,10Nates / Nateo,10NatesStrat.py,TRUE,40,260.686,±0.117,82.703,72.196,43.214,0.11816,17,198.388,2
+userStrats.s450,#855,Jakub,goodDetective.py,TRUE,40,260.655,±0.156,86.767,77.479,38.558,1.87648,65,90.481,2
+userStrats.s830,#856,Elias,CandiceWin.py,TRUE,40,260.582,±0.081,69.836,85.458,31.828,5.07227,57,600.821,2
+userStrats.s408,#857,JEF,StatisticsProf.py,TRUE,40,260.554,±0.098,69.881,82.849,34.906,1.65308,6,133.327,0
+userStrats.s103,#858,Lesar,probability.py,TRUE,40,260.545,±0.091,70.853,80.714,36.913,0.18787,14,157.303,2
+userStrats.s1346,#859,SierraThunder,altTFT.py,TRUE,40,260.543,±0.262,69.535,81.268,33.969,6.91677,16,99.493,2
+userStrats.s1443,#860,Matin,GeneticML30.py,TRUE,40,260.477,±0.121,86.784,71.916,43.988,6.9998,92,199.703,1
+userStrats.s770,#861,Marty,DP_more.py,TRUE,40,260.341,±0.112,89.873,63.88,43.047,4.76922,67,8356.397,2
+userStrats.s862,#862,The Big Mayo,randomprooftitfortat.py,TRUE,40,260.272,±0.136,75.855,70.85,38.608,5.35751,23,107.258,0
+userStrats.s295,#863,raketenben,goodButNotDumb.py,TRUE,40,260.255,±0.101,73.198,78.039,39.612,0.87177,35,130.593,3
+userStrats.s631,#864,Xiom,GetEvenEventually.py,TRUE,40,260.14,±0.229,83.515,71.12,42.482,3.5628,53,94.561,0
+userStrats.s1123,#865,Cheesiator,nugget.py,TRUE,40,260.082,±0.120,73.836,77.021,39.712,6.38161,37,99.428,1
+userStrats.s1131,#866,Danmaku,DelayedProbabilisticTFT.py,TRUE,40,260.072,±0.191,79.235,87.223,21.846,6.40623,18,96.168,1
+userStrats.s1344,#867,Gaspard,statistictft.py,TRUE,40,260.071,±0.108,71.529,80.58,37.166,6.91402,16,216.601,3
+userStrats.s51,#868,Heandog,foolmetwice.py,TRUE,40,260.046,±0.087,84.618,72.954,43.058,0.09664,7,90.911,2
+userStrats.s920,#869,Chris_P_Lettuce,averagetotal.py,TRUE,40,260.044,±0.117,71.574,80.597,37.152,5.75065,20,94.538,1
+userStrats.s198,#870,simplyTonyds,notation.py,TRUE,40,260.04,±0.122,71.562,80.566,37.175,0.57446,16,130.07,0
+userStrats.s739,#871,Adrian B.,mean.py,TRUE,40,260.036,±0.110,71.544,80.565,37.173,4.47918,21,167.073,0
+userStrats.s1479,#872,CohSahToa,average.py,TRUE,40,259.997,±0.093,71.598,80.552,37.197,7.01485,10,142.308,3
+userStrats.s343,#873,computerdores,countin.py,TRUE,40,259.979,±0.100,71.631,80.597,37.161,1.07602,19,98.726,2
+userStrats.s170,#874,lausek,lauseksStrategy.py,TRUE,40,259.978,±0.102,71.631,80.576,37.173,0.44532,50,128.212,1
+userStrats.s462,#875,Shayshoon,titForAvgTat.py,TRUE,40,259.965,±0.117,71.631,80.56,37.196,1.92543,9,124.741,3
+userStrats.s608,#876,Dubu,mineFirstGood.py,TRUE,40,259.925,±0.114,71.652,80.546,37.208,3.21934,14,200.7,1
+userStrats.s1167,#877,Szab,sebsstrat.py,TRUE,40,259.884,±0.069,88.278,69.427,44.754,6.52539,10,195.398,3
+userStrats.s228,#878,ToasterB,simplepavlovA_jdar.py,TRUE,40,259.862,±0.097,75.501,75.359,40.82,0.65028,54,97.538,3
+userStrats.s1004,#879,Gilson,banker.py,TRUE,40,259.858,±0.097,86.042,71.171,44.051,5.96735,15,99.675,0
+userStrats.s1085,#880,Jasper,humum.py,TRUE,40,259.846,±0.117,73.032,79.902,37.637,6.22031,25,98.597,0
+userStrats.s772,#881,"Owen or ""Ohead"" is fine",threeStrikes.py,TRUE,40,259.828,±0.054,86.572,70.515,44.062,4.78192,20,96.48,2
+userStrats.s980,#882,Robert,Backstabbing.py,TRUE,40,259.815,±0.140,81.742,70.64,38.14,5.91639,68,91.14,3
+userStrats.s1096,#883,Panadero,baseball.py,TRUE,40,259.804,±0.057,86.507,70.535,44.06,6.2714,16,90.58,3
+userStrats.s1124,#884,Andrew,BerlekampMassey.py,TRUE,40,259.799,±0.088,70.054,80.798,31.742,6.38707,33,117.598,0
+userStrats.s1047,#885,Peter Ruette,PeterStrat.py,TRUE,40,259.794,±0.065,86.539,70.51,44.067,6.10918,7,112.666,0
+userStrats.s1582,#886,caffeine,onethirdunprovoked.py,TRUE,40,259.756,±0.094,85.035,72.352,43.642,7.91928,30,110.904,2
+userStrats.s1137,#887,PartyMagier,PartyMagier.py,TRUE,40,259.609,±0.103,90.762,99.501,0.888,6.43086,24,101.832,3
+userStrats.s1578,#888,Timkador,Copycat-detector.py,TRUE,40,259.585,±0.084,87.894,69.518,44.553,7.87475,22,229.476,-1
+userStrats.s140,#889,Saboo,magic_number.py,TRUE,40,259.583,±0.098,74.159,77.319,40.259,0.29262,11,87.359,3
+userStrats.s322,#890,Gerben,henkDeAI.py,TRUE,40,259.583,±0.128,74.196,77.308,40.272,0.95804,18,96.672,3
+userStrats.s314,#891,Fasrelo,Fas_bot.py,TRUE,40,259.525,±0.516,75.798,75.355,39.639,0.92701,18,87.894,0
+userStrats.s1388,#892,RandomCoughdrop,best_bot_v5.py,TRUE,40,259.373,±0.181,83.516,72.66,39.164,6.95722,49,230.652,3
+userStrats.s472,#893,JNCressey,EWMA_TitForTat.py,TRUE,40,259.353,±0.127,72.008,80.851,32.739,1.98403,44,103.248,3
+userStrats.s507,#894,Woowoo,susStatistician.py,TRUE,40,259.347,±0.110,84.844,73.164,43.394,2.2969,12,95.183,0
+userStrats.s1022,#895,Nick Mezentsev,NickMTrustConcept.py,TRUE,40,259.347,±0.150,84.032,71.082,43.784,6.01655,23,108.836,2
+userStrats.s1181,#896,Tomas Pavlik,niceProb.py,TRUE,40,259.339,±0.086,87.11,72.484,43.243,6.59626,127,771.982,2
+userStrats.s1029,#897,mark zuckerburg,scuffedDetective.py,TRUE,40,259.335,±0.104,89.608,61.532,39.728,6.05448,123,113.599,3
+userStrats.s1200,#898,Sylvian,Unity_is_strength.py,TRUE,40,259.191,±0.217,80.986,83.925,22.891,6.64888,34,103.075,1
+userStrats.s474,#899,Emmash,AngryT4T.py,TRUE,40,259.18,±0.108,88.299,70.029,44.695,1.9922,26,93.76,0
+userStrats.s442,#900,Ghoulean,submission.py,TRUE,40,259.165,±0.066,78.289,73.649,42.162,1.84157,17,126.346,2
+userStrats.s1440,#901,Snokgard,SnoksGrudge.py,TRUE,40,259.099,±0.074,88.045,69.592,44.556,6.99845,13,93.455,1
+userStrats.s414,#902,kvartez,friendly_if_not_attacked.py,TRUE,40,258.965,±0.116,73.96,78.264,39.578,1.7,25,99.385,1
+userStrats.s523,#903,Jakab Martin,WinState.py,TRUE,40,258.901,±0.099,72.195,81.807,35.616,2.492,17,95.113,2
+userStrats.s566,#904,Bèdram Ezzat,tft_pd.py,TRUE,40,258.866,±0.075,82.288,72.136,43.259,2.81293,34,134.105,3
+userStrats.s694,#905,gaboversta or Andressing,04riskCalculator000994..py,TRUE,40,258.854,±0.195,83.882,76.387,41.11,3.96437,46,100.622,2
+userStrats.s941,#906,slavniy_pupsik,slavniy_pupsik.py,TRUE,40,258.844,±0.057,83.922,73.688,41.177,5.8176,8,147.001,1
+userStrats.s782,#907,HopperElec (hop rel ec),averageTitForTat.py,TRUE,40,258.748,±0.118,73.035,79.465,38.418,4.83946,10,181.942,3
+userStrats.s503,#908,Jared,clumsyTrigger.py,TRUE,40,258.647,±0.200,81.14,74.304,36.528,2.23244,26,93.598,3
+userStrats.s986,#909,0Shark,LyingSherlock.py,TRUE,40,258.584,±0.325,82.566,69.528,40.2,5.92339,168,103.082,1
+userStrats.s778,#910,Magic fTail,custom.py,TRUE,40,258.574,±0.085,73.417,80.251,37.928,4.80425,31,105.813,3
+userStrats.s1265,#911,d-k-bo,climbingPrisoner..py,TRUE,40,258.514,±0.084,83.795,75.82,41.115,6.80502,52,360.982,1
+userStrats.s109,#912,Jason,Keldagrim.py,TRUE,40,258.497,±0.108,84.453,69.963,41.59,0.19667,24,95.644,3
+userStrats.s1159,#913,L4Vo5,dumbNeutralizer.py,TRUE,40,258.429,±0.175,84.013,65.904,34.828,6.50015,457,175.083,2
+userStrats.s821,#914,Derek,omegaPlus.py,TRUE,40,258.302,±0.146,87.38,65.847,41.555,5.05128,68,90.506,1
+userStrats.s1026,#915,Maqo,forgetfulGrudge2.py,TRUE,40,258.301,±0.086,72.316,82.394,35.741,6.04223,23,106.972,2
+userStrats.s137,#916,Max,elephant.py,TRUE,40,258.263,±0.081,72.309,82.402,35.739,0.28235,14,88.073,1
+userStrats.s574,#917,allesman,1allesmansAddition.py,TRUE,40,258.213,±0.115,88.914,69.028,45.006,2.85811,22,92.983,3
+userStrats.s691,#918,dev42,DoomOfFtfts.py,TRUE,40,258.187,±0.166,82.168,68.511,40.638,3.95454,34,100.126,0
+userStrats.s1399,#919,fireguy187,strat.py,TRUE,40,258.077,±0.069,84.228,75.525,41.208,6.97311,10,90.863,2
+userStrats.s220,#920,Damian,damoProbability.py,TRUE,40,258.068,±0.119,72.67,75.335,38.474,0.62223,17,119.744,1
+userStrats.s113,#921,Spatbee,karma.py,TRUE,40,257.913,±0.103,70.545,80.316,36.778,0.1986,14,88.459,2
+userStrats.s141,#922,JinchO,jinbobRequiem.py,TRUE,40,257.88,±0.079,89.347,69.076,45.049,0.29576,26,93.101,2
+userStrats.s990,#923,ben9583,politeGrudge.py,TRUE,40,257.857,±0.070,89.428,69.032,45.059,5.9355,9,91.561,1
+userStrats.s239,#924,v1337,v1337_no_mercy.py,TRUE,40,257.838,±0.069,89.434,69.03,45.061,0.67603,8,112.182,3
+userStrats.s1145,#925,is_it_thursday,trust.py,TRUE,40,257.795,±0.063,89.447,69.011,45.068,6.45245,40,96.829,2
+userStrats.s1599,#926,InevitableH,willFerrelsMegaMind.py,TRUE,40,257.795,±0.145,86.871,63.978,42.687,8.1606,62,95.079,1
+userStrats.s114,#927,21ack,tit for taverage.py,TRUE,40,257.777,±0.105,75.701,76.362,40.963,0.20115,19,120.379,3
+userStrats.s869,#928,Stefan,aa.py,TRUE,40,257.629,±0.125,93.118,90.312,25.734,5.43679,28,106.379,3
+userStrats.s203,#929,Tekla,dumpy.py,TRUE,40,257.623,±0.100,77.35,74.494,41.877,0.58427,38,137.9,1
+userStrats.s965,#930,João Thibes,scoreKeeper.py,TRUE,40,257.342,±0.093,77.262,75.061,41.818,5.87551,12,98.255,0
+userStrats.s570,#931,addie,ratio2.py,TRUE,40,257.339,±0.097,77.217,75.082,41.809,2.83176,15,154.377,2
+userStrats.s974,#932,nagygeri97,myStrategy.py,TRUE,40,257.327,±0.105,77.118,74.578,41.722,5.89728,20,93.635,0
+userStrats.s459,#933,Willow,typical.py,TRUE,40,257.306,±0.098,76.11,76.262,41.074,1.91781,16,549.228,1
+userStrats.s1343,#934,Dirion,Adapter.py,TRUE,40,257.301,±0.102,86.703,75.422,41.663,6.91204,13,97.59,0
+userStrats.s480,#935,Kevin,42069.py,TRUE,40,257.3,±0.068,77.673,74.511,41.999,2.02326,29,113.673,2
+userStrats.s1280,#936,NemoPearwall,maat'sFeather.py,TRUE,40,257.298,±0.105,77.206,75.079,41.815,6.82671,11,100.814,1
+userStrats.s962,#937,Edipo,biasedJudge.py,TRUE,40,257.106,±0.103,78.095,74.244,42.286,5.8667,15,97.09,0
+userStrats.s1266,#938,Razaziel,randomTrigger50_950.py,TRUE,40,257.096,±0.132,87.025,69.489,43.354,6.80652,22,93.422,2
+userStrats.s355,#939,Ryzon,brilliantRatio.py,TRUE,40,257.092,±0.100,76.879,75.523,41.581,1.15387,20,114.153,1
+userStrats.s1439,#940,redstone.steve199,forgetfull_grudger.py,TRUE,40,257.09,±0.166,89.165,68.979,44.965,6.99808,14,90.904,0
+userStrats.s731,#941,Pony,PonyStrat.py,TRUE,40,257.038,±0.117,77.061,75.258,41.69,4.38674,24,117.383,0
+userStrats.s797,#942,Bluesillybeard,OpposingPrediction.py,TRUE,40,257.033,±0.108,77.056,75.337,41.701,4.90954,30,92.534,2
+userStrats.s390,#943,NMAC427,x_avg_tft.py,TRUE,40,257.016,±0.084,76.722,75.69,41.482,1.44632,19,92.193,1
+userStrats.s356,#944,sanja2659,newbie.py,TRUE,40,256.989,±0.089,77.107,75.294,41.726,1.15744,15,113.37,2
+userStrats.s49,#945,minecire,averageStratDBias015.py,TRUE,40,256.982,±0.095,77.097,75.319,41.702,0.09089,8,92.411,0
+userStrats.s347,#946,JacobB,meanTitForTat.py,TRUE,40,256.977,±0.110,77.12,75.314,41.717,1.09403,10,155.775,1
+userStrats.s1434,#947,Oxel40,lazy_grudger.py,TRUE,40,256.905,±0.082,90.022,68.036,45.411,6.99411,13,92.951,1
+userStrats.s238,#948,DigitalDuck,veryEasilyJaded.py,TRUE,40,256.889,±0.155,89.993,68.1,45.325,0.67105,20,112.213,2
+userStrats.s182,#949,Machinething,machineThing.py,TRUE,40,256.861,±0.092,78.639,73.072,42.51,0.49564,16,86.192,3
+userStrats.s1138,#950,Nathaniel Strub,trustThreshold.py,TRUE,40,256.808,±0.091,76.495,75.98,41.27,6.43123,10,122.639,1
+userStrats.s637,#951,"Lars is my name, which you are free use, or ""haselkern"" for klout.",the_historian.py,TRUE,40,256.806,±0.105,76.752,74.807,41.44,3.60525,30,122.452,3
+userStrats.s571,#952,Nathan,AverageCooperation.py,TRUE,40,256.792,±0.104,76.493,75.968,41.284,2.83383,24,108.778,1
+userStrats.s282,#953,kray2410,dachi.py,TRUE,40,256.771,±0.074,77.795,75.007,41.274,0.84072,19,103.168,3
+userStrats.s724,#954,bravech,grim_cc.py,TRUE,40,256.737,±0.093,90.65,67.998,45.413,4.2642,18,87.638,1
+userStrats.s1286,#955,Noah,weightedRollingMean.py,TRUE,40,256.488,±0.102,94.761,88.957,29.315,6.83293,33,132.285,3
+userStrats.s266,#956,NicolasFlamel42,amalgamation.py,TRUE,40,256.294,±0.198,68.742,74.358,26.545,0.77395,32,103.634,0
+userStrats.s1413,#957,El,magicalmysticaladventure.py,TRUE,40,256.189,±0.148,77.144,75.099,34.94,6.9811,248,95.835,0
+userStrats.s1091,#958,Blue,(CAUTION!) Fragile Friendship.py,TRUE,40,256.132,±0.130,82.892,74.896,39.841,6.24609,48,101.341,3
+userStrats.s740,#959,Ironie,trustingAndMischevious.py,TRUE,40,256.097,±0.253,74.159,60.598,31.389,4.50956,47,112.206,2
+userStrats.s494,#960,nicholas,percent26.py,TRUE,40,256.089,±0.092,79.348,73.439,42.799,2.14904,11,93.531,1
+userStrats.s1162,#961,Fugi,myMasterPlan.py,TRUE,40,256.085,±0.078,90.638,75.111,41.737,6.51184,40,138.418,2
+userStrats.s252,#962,carrot,evil_titForTat.py,TRUE,40,256.035,±0.152,59.855,57.982,16.759,0.736,17,92.855,2
+userStrats.s151,#963,Cypher (Cypher Tault),metaDetective..py,TRUE,40,255.983,±0.107,79.318,73.471,42.776,0.36047,70,157.171,3
+userStrats.s86,#964,SeaXine (It's pronounced like C Sign),seaxine.py,TRUE,40,255.834,±0.083,89.444,70.131,44.892,0.16461,15,111.472,1
+userStrats.s681,#965,Wasabi / Wasabi Thumbs,predictive.py,TRUE,40,255.753,±0.383,71.462,71.669,38.922,3.91065,67,279.37,0
+userStrats.s81,#966,RP0,sumdiff_average_with_conceding.py,TRUE,40,255.233,±0.105,96.968,83.983,28.378,0.16034,20,406.44,0
+userStrats.s871,#967,alhobj,alhobj.py,TRUE,40,255.174,±0.101,79.447,73.399,42.898,5.44576,32,90.825,1
+userStrats.s300,#968,KonkyDong,red.py,TRUE,40,254.903,±0.074,90.897,67.872,45.627,0.88578,10,103.471,0
+userStrats.s255,#969,PauMB,ezBot.py,TRUE,40,254.9,±0.089,90.867,67.883,45.621,0.74038,11,93.74,3
+userStrats.s1013,#970,lcgreiser,binaryBlackBox.py,TRUE,40,254.9,±0.093,90.884,67.887,45.619,5.99038,13,105.149,0
+userStrats.s996,#971,Fingon,Junco.py,TRUE,40,254.897,±0.100,90.91,67.857,45.626,5.95218,13,96.488,3
+userStrats.s977,#972,Bea,angry.py,TRUE,40,254.887,±0.079,90.825,67.905,45.611,5.90463,13,90.982,3
+userStrats.s978,#973,Eddie Avril,Eddie.py,TRUE,40,254.854,±0.069,90.829,67.874,45.612,5.90677,13,94.019,2
+userStrats.s984,#974,Rosa,Rosa.py,TRUE,40,254.854,±0.091,90.896,67.866,45.622,5.92235,13,95.137,2
+exampleStrats.grimTrigger,#975,None,grimTrigger,TRUE,40,254.841,±0.079,90.924,67.862,45.622,0,20,0,-1
+userStrats.s1018,#976,rodycat,00forgivingTrigger.py,TRUE,40,254.788,±0.086,90.944,67.834,45.639,5.9965,39,101.45,0
+userStrats.s1312,#977,Max,fa.py,TRUE,40,254.692,±0.111,93.395,58.747,41.393,6.87374,351,124.873,1
+userStrats.s554,#978,hmmmmniek,AAAAAAAAAAAA.py,TRUE,40,254.604,±0.146,87.528,72.382,36.5,2.76157,107,93.472,0
+userStrats.s1375,#979,JaCrispy,simply73.py,TRUE,40,254.557,±0.106,80.582,72.512,43.352,6.94199,9,127.42,2
+userStrats.s1324,#980,Ryoma,simply71.py,TRUE,40,254.481,±0.096,80.146,72.828,43.171,6.88668,9,127.275,1
+userStrats.s1079,#981,aapedro,i_hope_i_win.py,TRUE,40,254.476,±0.168,86.088,70.183,41.182,6.21057,106,96.377,3
+userStrats.s557,#982,yit,ratio3.py,TRUE,40,254.285,±0.112,80.97,72.32,43.484,2.77465,15,152.966,0
+userStrats.s452,#983,AustrianCrow,ac_karma_exploitation.py,TRUE,40,254.246,±0.110,76.49,71.977,37.867,1.87941,16,126.467,2
+userStrats.s512,#984,BZW77,defectPercentage.py,TRUE,40,253.605,±0.117,84.971,70.199,44.512,2.38471,17,129.358,3
+userStrats.s1595,#985,kevxtroy,istrolid.py,TRUE,40,253.382,±0.156,91.234,65.262,43.049,8.03451,82,94.794,2
+userStrats.s852,#986,mcluck3,LoserStrategy.py,TRUE,40,253.353,±0.133,82.658,67.796,41.232,5.28426,92,95.546,1
+userStrats.s276,#987,LoudEcho,fgtTen.py,TRUE,40,252.734,±0.088,84.326,69.871,44.399,0.81213,15,90.352,0
+userStrats.s224,#988,BoostCookie,titForTat25.py,TRUE,40,252.452,±0.083,85.916,69.162,44.754,0.63251,6,102.436,1
+userStrats.s1305,#989,Robotic-Brain,simpleHeuristics.py,TRUE,40,252.014,±0.161,92.553,61.332,45.293,6.86525,40,96.147,0
+userStrats.s1367,#990,Saska,strategicTitForTat.py,TRUE,40,251.882,±0.107,84.715,68.232,38.57,6.93772,23,108.399,0
+userStrats.s1552,#991,"flame is my online name, but you've got the email address already so I guess you know my name's David",detectiveTitForTat.py,TRUE,40,251.843,±0.142,80.632,73.216,37.232,7.31277,67,99.198,0
+userStrats.s1407,#992,Ratcoder,sneaky.py,TRUE,40,251.633,±0.244,90.627,68.877,36.37,6.97825,55,96.707,1
+userStrats.s1118,#993,hyperstone9,manipulator.py,TRUE,40,251.522,±0.155,92.979,72.225,41.289,6.35125,38,311.623,3
+userStrats.s340,#994,PeopleOfPalay but Marc is fine :),bigBrainTime.py,TRUE,40,251.32,±0.129,88.105,57.188,34.883,1.05641,242,266.327,2
+userStrats.s374,#995,Evan,titForRecentTrend.py,TRUE,40,251.149,±0.089,99.657,99.719,0.537,1.28944,13,96.097,3
+userStrats.s845,#996,milo,averager II.py,TRUE,40,250.761,±0.135,82.687,70.068,43.374,5.23666,29,158.25,0
+userStrats.s397,#997,Inertia,diogenes.py,TRUE,40,250.671,±0.166,90.778,69,43.211,1.52801,98,114.615,2
+userStrats.s1613,#998,Blue,Planner.py,TRUE,40,250.219,±0.102,74.317,72.35,37.396,9.02622,48,103.303,1
+userStrats.s714,#999,Dragyn0,aggressiveFtft.py,TRUE,40,250.206,±0.113,82.575,72.386,38.222,4.16836,25,96.278,1
+userStrats.s118,#1000,Cayman,caymans_algo.py,TRUE,40,249.968,±0.232,65.414,71.156,30.272,0.20814,44,94.687,2
+userStrats.s481,#1001,Crazykid080,ck080stratv1.py,TRUE,40,249.684,±0.145,97.978,91.176,25.514,2.02713,71,92.631,1
+userStrats.s777,#1002,Reep,longerDetective.py,TRUE,40,249.496,±0.103,79.014,69.176,39.511,4.80219,25,96.85,2
+userStrats.s177,#1003,Toby,__customDetective.py,TRUE,40,249.472,±0.139,79.078,69.164,39.519,0.47714,65,89.046,0
+userStrats.s754,#1004,Isaac Clayton,pris.py,TRUE,40,249.27,±0.290,86.862,59.413,31.651,4.65047,547,357.081,2
+userStrats.s1533,#1005,William,meta2.py,TRUE,40,249.258,±0.122,83.358,69.886,42.845,7.13814,48,105.537,2
+userStrats.s1146,#1006,Jar,JarPD.py,TRUE,40,249.155,±0.307,83.147,63.55,32.646,6.45985,91,115.523,0
+userStrats.s530,#1007,AJ from appricot,LastJ4.py,TRUE,40,249.044,±0.136,76.169,64.74,36.317,2.55848,10,122.082,1
+userStrats.s194,#1008,BigHorse420,Tit4TatWithMemory.py,TRUE,40,248.885,±0.127,75.74,72.345,38.334,0.53389,12,90.814,0
+userStrats.s1590,#1009,Ottsco,a_ultimate-learning-joss-double-fixed.py,TRUE,40,248.608,±0.270,82.232,61.436,29.522,8.01544,186,111.664,2
+userStrats.s895,#1010,Epicarious,stardewBot.py,TRUE,40,248.432,±0.136,83.321,72.264,37.831,5.64917,35,93.698,0
+userStrats.s1389,#1011,BenMan95,myStrategy.py,TRUE,40,247.704,±0.286,93.161,64.29,41.64,6.95931,48,101.898,0
+userStrats.s887,#1012,Oli,wishmeluck.py,TRUE,40,247.577,±0.142,78.273,61.612,36.323,5.59749,34,101.515,1
+userStrats.s1356,#1013,DwarvenCoder,exploiter.py,TRUE,40,247.447,±0.140,87.484,65.181,43.89,6.93067,100,95.75,0
+userStrats.s95,#1014,Wecoc,worstEver.py,TRUE,40,247.153,±0.099,96.534,77.071,40.304,0.17824,30,91.436,1
+userStrats.s515,#1015,Logiphile,detectiveGrudgeXpltr.py,TRUE,40,247.114,±0.145,94.063,57.681,42.069,2.41777,96,97.395,1
+userStrats.s653,#1016,C0DERP1GLET,TrueDetective.py,TRUE,40,247.087,±0.118,96.281,59.22,46.106,3.74654,114,175.293,2
+userStrats.s1115,#1017,Thelizerd24,Mana.py,TRUE,40,247.041,±0.150,77.84,71.476,40.649,6.34684,15,93.706,-1
+userStrats.s700,#1018,Jai,myStrat.py,TRUE,40,247.035,±0.168,94.142,61.878,46.183,4.02131,41,97.748,2
+userStrats.s1097,#1019,Astronavigator,moriarty.py,TRUE,40,246.972,±0.170,90.13,62.732,45.079,6.27314,52,90.172,3
+userStrats.s1039,#1020,Kauê,kaue.py,TRUE,40,246.555,±0.388,99.57,98.028,2.107,6.08446,52,98.461,1
+userStrats.s973,#1021,Niki1A,smartDetective.py,TRUE,40,246.146,±0.163,95.368,61.519,44.22,5.89351,110,96.928,3
+userStrats.s329,#1022,THJSmith,t_custom.py,TRUE,40,245.456,±0.112,82.231,67.57,40.545,0.99304,24,102.177,0
+userStrats.s204,#1023,Zsemle,PokeAndSorry.py,TRUE,40,245.339,±0.152,84.373,65.694,41.442,0.58513,48,92.27,0
+userStrats.s406,#1024,Jack,jack.py,TRUE,40,245.049,±0.190,100.989,57.94,43.484,1.64749,96,122.135,1
+userStrats.s535,#1025,LuciferLuther,BigBiranDetective.py,TRUE,40,244.76,±0.139,83.449,66.694,41.174,2.57914,23,99.673,-1
+userStrats.s1034,#1026,kirinokirino,detective2.py,TRUE,40,244.744,±0.142,83.521,66.674,41.216,6.0624,33,88.694,1
+userStrats.s1224,#1027,luminescent,atft.py,TRUE,40,244.691,±0.144,83.572,65.793,40.299,6.7281,11,100.679,1
+userStrats.s1056,#1028,Jacobmpp,AAJacob1.py,TRUE,40,244.514,±0.172,84.565,69.171,40.418,6.1219,32,470.373,0
+userStrats.s159,#1029,DeclanH,advancedDetectiveDex.py,TRUE,40,244.412,±0.150,85.67,71.134,39.66,0.39913,72,122.495,3
+userStrats.s726,#1030,Lasermancer,Handsome programmer is looking for a smart and pretty girl to date call me 248 434 5508.py,TRUE,40,244.256,±0.154,95.827,50.976,39.357,4.26723,414,164.162,2
+userStrats.s335,#1031,EnGulSax,peopleNeverChange.py,TRUE,40,243.691,±0.138,79.724,73.604,41.032,1.01279,14,116.313,2
+userStrats.s624,#1032,Not-a-Number,Not_a_Number.py,TRUE,40,243.689,±0.170,95.404,62.139,45.879,3.50498,38,98.155,1
+userStrats.s1594,#1033,Demian,5rb0WfGD0s.py,TRUE,40,243.687,±0.146,91.145,61.231,38.872,8.03272,64,93.484,1
+userStrats.s1477,#1034,sunfl0w,metaStrategy.py,TRUE,40,242.618,±0.221,98.053,71.623,31.314,7.01456,54,98.874,0
+userStrats.s208,#1035,TheoDlmz,riskyGoldfish.py,TRUE,40,242.599,±0.405,98.341,56.515,43.761,0.59508,62,133.082,1
+userStrats.s891,#1036,Robbie Muir,myStrat.py,TRUE,40,242.541,±0.145,90.122,53.135,40.008,5.63192,70,112.71,2
+userStrats.s701,#1037,kazoo kid or crazy kazoo or Yoav (whatever you prefer),strategiesus.py,TRUE,40,242.323,±0.129,81.049,67.621,38.351,4.02705,40,95.127,3
+userStrats.s1385,#1038,Lucas,analyst.py,TRUE,40,242.136,±0.139,95.825,57.251,43.778,6.95356,83,98.921,3
+userStrats.s922,#1039,Jakob Scharf,sociopath_detective.py,TRUE,40,241.855,±0.115,85.566,69.466,38.052,5.76162,42,85.501,3
+userStrats.s817,#1040,Kolosso,Kolosso.py,TRUE,40,241.81,±0.198,92.663,73.598,39.191,5.03147,113,275.453,0
+userStrats.s1538,#1041,MimicOfCopy,biggerBrain.py,TRUE,40,241.55,±0.174,100.424,50.856,43.64,7.1548,67,98.63,1
+userStrats.s981,#1042,Matthew,mattUtilitarian.py,TRUE,40,241.449,±0.150,97.892,58.575,41.825,5.91676,152,435.45,3
+userStrats.s39,#1043,xlirate,slowGrimTrigger.py,TRUE,40,241.395,±0.087,108.967,99.856,0.297,0.07975,3,113.293,1
+userStrats.s401,#1044,Dwhyz,TruthSilentTitTat.py,TRUE,40,241.125,±0.110,73.532,63.298,37.474,1.57456,11,89.34,3
+userStrats.s443,#1045,Tefek,josh.py,TRUE,40,241.112,±0.118,91.023,71.636,36.454,1.8428,177,96.266,3
+userStrats.s209,#1046,drummersbrother,lw_o.py,TRUE,40,241.013,±0.248,99.08,77.656,39.405,0.6002,41,235.598,2
+userStrats.s586,#1047,Lulink,adaptator.py,TRUE,40,240.969,±0.187,92.47,62.438,45.21,2.94933,56,228.237,-1
+userStrats.s57,#1048,Tokeyo,iAmLaw.py,TRUE,40,240.653,±0.104,98.795,58.443,45.99,0.1088,24,91.539,0
+userStrats.s1539,#1049,frog,josh.py,TRUE,40,240.517,±0.220,79.089,53.311,33.622,7.15572,12,99.406,-1
+userStrats.s667,#1050,cyberwarrior34,cyberwarrior34.py,TRUE,40,240.443,±0.180,88.184,60.904,42.624,3.83803,51,93.706,3
+userStrats.s999,#1051,bowsska,trustTreshold.py,TRUE,40,239.795,±0.113,88.887,64.753,44.943,5.95741,21,139.076,3
+userStrats.s429,#1052,Puncake,tatForTit.py,TRUE,40,239.682,±0.116,74.888,62.669,38,1.75793,8,90.6,2
+userStrats.s674,#1053,Deboog,detectiveConan.py,TRUE,40,239.515,±0.164,100.105,56.233,43.299,3.88786,41,100.235,0
+userStrats.s565,#1054,File O Phile,EvilTitForTat.py,TRUE,40,239.494,±0.139,74.995,62.584,38.04,2.80568,5,94.278,3
+userStrats.s1543,#1055,Frostrich(Patrick),Amaan.py,TRUE,40,239.424,±0.128,110.866,96.283,13.348,7.17041,25,174.624,3
+userStrats.s1597,#1056,Rasilu,criminal_peko.py,TRUE,40,239.409,±0.128,87.622,63.101,41.664,8.10477,124,389.043,3
+userStrats.s66,#1057,bookhead,tit6Tat.py,TRUE,40,239.203,±0.119,81.821,73.285,40.642,0.12942,11,92.847,1
+userStrats.s826,#1058,Ascense,roughlyBayesian.py,TRUE,40,239.006,±0.164,98.61,56.169,46.735,5.06297,86,104.398,2
+userStrats.s34,#1059,BitRapture,illHaveUhhhhhhhhhhh.py,TRUE,40,238.983,±0.355,80.487,66.799,42.502,0.0667,14,91.912,1
+userStrats.s56,#1060,Lyxilion,aggressiveDetectiveThenWeirdForgivingTitForTat.py,TRUE,40,238.922,±0.112,86.081,69.252,40.628,0.10626,24,85.337,3
+userStrats.s703,#1061,Gabriel,LonhusStrats.py,TRUE,40,238.823,±0.160,98.982,58.637,41.879,4.05447,47,97.232,1
+userStrats.s1561,#1062,Yhsanave,YHdetective.py,TRUE,40,238.741,±0.150,92.732,66.608,40.706,7.64171,82,90.339,1
+userStrats.s101,#1063,Melonhead,TheToleranceTaker.py,TRUE,40,238.737,±0.111,105.29,44.22,38.929,0.18439,109,2420.201,2
+userStrats.s1564,#1064,BanForFun,detectiveNprtt.py,TRUE,40,238.343,±0.191,90.891,64.83,40.8,7.70953,32,108.511,2
+userStrats.s1225,#1065,Barigamb Dev,OmegaJoss.py,TRUE,40,237.938,±0.138,87.427,35.022,20.458,6.72838,41,101.498,2
+userStrats.s741,#1066,Stijn,smartBotV2.py,TRUE,40,237.878,±0.152,91.959,56.552,43.646,4.52478,199,3233.879,0
+userStrats.s744,#1067,pimaster,pimasterAttemptedPlay.py,TRUE,40,237.878,±0.163,98.427,65.078,39.578,4.55263,136,95.102,2
+userStrats.s683,#1068,xilefrelleum,aBitOfEverything.py,TRUE,40,237.518,±0.101,91.094,53.027,35.784,3.91722,69,118.299,2
+userStrats.s1378,#1069,Henry,henry_detective.py,TRUE,40,237.415,±0.200,96.493,71.894,43.063,6.94529,40,180.002,2
+userStrats.s664,#1070,Dave,bettterDetective.py,TRUE,40,237.355,±0.128,92.689,61.344,44.185,3.83251,49,93.709,2
+userStrats.s898,#1071,Leo,subscribe_to_carykh.py,TRUE,40,237.27,±0.110,93.764,66.201,34.674,5.6594,23,111.057,1
+userStrats.s1376,#1072,gastisalgado,pacifistStrats.py,TRUE,40,237.26,±0.659,80.709,64.263,39.844,6.94234,35,93.95,2
+userStrats.s1295,#1073,Jason,JasonHK.py,TRUE,40,237.199,±0.198,97.966,56.732,45.508,6.8417,104,127.03,1
+userStrats.s158,#1074,fab,detective exploit.py,TRUE,40,237.055,±0.121,81.559,65.339,40.938,0.39867,21,104.026,3
+userStrats.s544,#1075,chatdoox,prisonnierChatdoox.py,TRUE,40,237.052,±0.167,100.467,51.942,47.251,2.65699,31,90.362,3
+userStrats.s1383,#1076,Ferre,Ferre.py,TRUE,40,236.98,±0.138,86.134,62.774,40.602,6.95297,33,924.929,2
+userStrats.s1066,#1077,Avi,Expected Gains cprob.py,TRUE,40,236.611,±0.134,98.389,56.349,41.797,6.17209,82,993.479,2
+userStrats.s372,#1078,Tom Knowles,brownian.py,TRUE,40,236.599,±0.404,89.011,77.134,34.573,1.28368,53,107.861,2
+userStrats.s1218,#1079,Mathman05,dective.py,TRUE,40,236.134,±0.155,96.904,55.815,45.996,6.70458,123,131.162,3
+userStrats.s556,#1080,Yentulmanno,EvilTitForTat.py,TRUE,40,236.02,±0.159,86.66,66.415,43.446,2.77421,15,125.281,2
+userStrats.s666,#1081,oyekamal,kamal_method.py,TRUE,40,235.989,±0.157,86.7,66.438,43.44,3.83318,35,214.948,2
+userStrats.s1075,#1082,Ḃ̸̜̥͕̓͛̾̈́̈̿͒͑͐͒̉̐͜͝ė̸̡͉͈̰͉̠̹͇̜n̷͖͙̻͍̻̠͐̉͌̆̔͌̈́̍͠,movePredictor.py,TRUE,40,235.861,±0.148,94.542,55.946,41.468,6.19343,51,421.132,0
+userStrats.s205,#1083,oykamal,kamal_detective.py,TRUE,40,235.792,±0.163,87.043,66.784,43.119,0.58546,26,151.403,-1
+userStrats.s1257,#1084,Used_Brain (<- gamertag; can call me michael),Used_Brain.py,TRUE,40,235.69,±0.429,100.816,51.478,44.823,6.78741,117,1116.852,0
+userStrats.s1329,#1085,Spencer Nickels,_cases.py,TRUE,40,235.69,±0.114,97.681,59.01,44.884,6.89073,46,114.297,0
+userStrats.s1308,#1086,Cristian,strategyPredictorStrategy.py,TRUE,40,235.686,±0.124,101.679,47.629,39.314,6.8689,71,113.457,3
+userStrats.s758,#1087,Venki,agentVenki.py,TRUE,40,235.676,±0.197,99.005,55.708,44.781,4.67981,120,192.251,3
+userStrats.s725,#1088,moomoofrogguy,magicPrimes.py,TRUE,40,235.107,±0.091,81.714,57.244,30.43,4.26714,45,98.321,1
+userStrats.s651,#1089,Nicolò,statistician.py,TRUE,40,234.971,±0.127,91.015,56.983,36.583,3.71889,22,123.265,1
+userStrats.s60,#1090,"Harrison (2nd submission, if we're only allowed 1 please delete my 1st as it wouldn't let me edit my response to reupload the file)",investigator2.R.J. Harris.py,TRUE,40,234.804,±0.221,87.891,62.991,42.121,0.11361,166,90.085,2
+userStrats.s1078,#1091,Flethan,flethan.py,TRUE,40,234.718,±0.146,99.541,56.802,46.685,6.20322,74,95.293,3
+userStrats.s885,#1092,Chris,foolMeTwiceJittery.py,TRUE,40,234.59,±0.195,90.664,67.339,44.317,5.59378,19,139.631,2
+userStrats.s851,#1093,Dustin,dustin.py,TRUE,40,234.578,±0.127,90.782,68.824,36.429,5.28365,46,93.665,1
+userStrats.s925,#1094,Gregory365,excalibur.py,TRUE,40,234.564,±0.151,98.869,53.522,44.142,5.76632,50,235.423,2
+userStrats.s1447,#1095,Blu,BluFoxStrat.py,TRUE,40,234.226,±0.145,103.62,54.439,47.339,7.00131,106,4244.274,1
+userStrats.s1204,#1096,olicompsci,olicompsci.py,TRUE,40,234.105,±0.133,99.398,56,45.243,6.66289,26,104.676,1
+userStrats.s1448,#1097,Levi or 6502,Final.py,TRUE,40,234.059,±0.146,93.303,58.958,43.015,7.0015,109,184.66,3
+userStrats.s1025,#1098,Wesley,negotiator.py,TRUE,40,233.881,±0.157,93.805,58.72,47.067,6.03745,76,91.275,0
+userStrats.s910,#1099,tumultimatum or tumu for short,diplomaticVariableVillain.py,TRUE,40,233.558,±0.398,90.049,69.554,36.97,5.70954,80,417.475,1
+userStrats.s470,#1100,Daimee MacIsaac,Sherlock.py,TRUE,40,233.462,±0.244,91.308,68.261,36.094,1.98053,93,99.705,3
+userStrats.s823,#1101,kevinta,expectationHorizon.py,TRUE,40,233.372,±0.111,101.71,51.632,43.032,5.05932,81,2202.258,3
+userStrats.s890,#1102,AlarickRS,DescisionTree.py,TRUE,40,233.28,±0.151,91.82,50.593,33.625,5.62437,109,6483.536,0
+userStrats.s597,#1103,Cg,cgDarwin.py,TRUE,40,233.101,±0.110,90.076,51.337,39.9,2.99105,46,95.833,0
+userStrats.s1287,#1104,Kenny,runningAverageTitForTat.py,TRUE,40,233.084,±0.134,81.848,49.612,26.359,6.83362,18,116.931,2
+userStrats.s1318,#1105,reimuns,predict_and_search.py,TRUE,40,233.066,±0.524,100.808,51.977,44.713,6.87926,117,255.926,2
+userStrats.s842,#1106,MalbaCato,myStrat55.py,TRUE,40,232.901,±0.253,78.746,67.122,32.749,5.20116,24,90.988,2
+userStrats.s732,#1107,derInformatiker,analyser.py,TRUE,40,232.878,±0.182,110.528,75.273,42.149,4.40469,25,101.306,1
+userStrats.s1347,#1108,Wout12345,probabilisticDetective.py,TRUE,40,232.819,±0.589,109.059,88.368,23.877,6.91773,219,2731.888,0
+userStrats.s712,#1109,OK13 or Dylan,detectiveV2.py,TRUE,40,232.693,±0.190,88.56,68.141,41.503,4.151,45,86.735,1
+userStrats.s267,#1110,Pattu,generalDetectivev2.py,TRUE,40,232.636,±0.130,101.052,55.339,44.545,0.77631,77,302.547,3
+userStrats.s1048,#1111,Reed,detectivePivotchu.py,TRUE,40,232.518,±0.262,87.904,67.572,37.876,6.11078,38,100.827,0
+userStrats.s346,#1112,Jack,beNice.py,TRUE,40,232.393,±0.150,114.347,87.389,32.628,1.09289,21,107.119,2
+userStrats.s892,#1113,CakeWithSteak,statisticianStacey.py,TRUE,40,232.248,±0.136,101.355,52.664,46.33,5.63341,83,146.314,2
+userStrats.s707,#1114,Savan Doshi (like seven),variancetitfortat.py,TRUE,40,232.228,±0.499,81.295,60.857,40.85,4.09586,18,91.385,1
+userStrats.s1192,#1115,Dave,Dave. David Dugan.py,TRUE,40,231.897,±0.085,86.777,37.837,22.245,6.63609,55,116.809,3
+userStrats.s1547,#1116,Daniel Bamm,myStrategy.py,TRUE,40,231.287,±0.116,94.246,61.855,37.495,7.21712,9,127.181,2
+userStrats.s327,#1117,Yanni_X,myDetective.py,TRUE,40,231.006,±0.139,94.149,58.968,42.485,0.97894,27,122.835,3
+userStrats.s1537,#1118,Sep,Punk_C.py,TRUE,40,230.221,±0.241,99.711,54.433,45.816,7.15372,143,111.591,1
+userStrats.s873,#1119,Vaibhav,theProfitMaximizer.zip,TRUE,40,230.138,±0.209,104.709,53.737,46.39,5.45516,109,96.456,3
+userStrats.s476,#1120,Landon,theAdjudicator.py,TRUE,40,230.038,±0.212,97.375,55.858,44.074,2.02041,74,94.441,1
+userStrats.s800,#1121,Palestinian,PalestinianStrategy.py,TRUE,40,229.711,±0.186,96.744,56.913,42.227,4.92786,49,89.814,1
+userStrats.s775,#1122,JanF,janf.py,TRUE,40,229.684,±0.106,94.689,53.823,40.592,4.79751,94,775.815,0
+userStrats.s937,#1123,VCT,vct.py,TRUE,40,229.616,±0.120,103.695,49.101,46.971,5.80859,71,101.769,1
+userStrats.s705,#1124,Cocacolagua,consigliere.py,TRUE,40,229.462,±0.131,90.843,62.675,38.18,4.08076,65,94.891,-1
+userStrats.s787,#1125,"Brandon/Pap/Roxol, any will do",PappyPythonDS8.py,TRUE,40,229.369,±0.111,97.595,58.528,40.404,4.86292,27,226.346,2
+userStrats.s302,#1126,Makru,lookBack2.py,TRUE,40,229.351,±0.118,96.32,55.862,42.187,0.88787,132,300.683,2
+userStrats.s333,#1127,Henry,agileDetective.py,TRUE,40,229.252,±0.234,88.656,57.009,29.665,1.0103,37,101.15,1
+userStrats.s1394,#1128,Sebi,SuperAnalyzer2000.py,TRUE,40,229.08,±0.152,102.074,51.948,46.673,6.9666,67,910.491,1
+userStrats.s857,#1129,Filup,back_and_forth.py,TRUE,40,228.832,±0.090,83.969,44.212,30.191,5.32604,35,99.536,2
+userStrats.s33,#1130,Rentorock,moriarty99..py,TRUE,40,228.282,±0.113,69.82,41.276,9.792,0.06576,26,93.634,1
+userStrats.s146,#1131,Double Negative,branchPredictor.py,TRUE,40,227.765,±0.209,96.669,56.079,45.54,0.31177,124,893.885,2
+userStrats.s1006,#1132,Gp_Jedy,ratkoenBoMealSaturdays.py,TRUE,40,227.691,±0.124,109.496,40.832,43.194,5.9692,38,111.701,2
+userStrats.s1465,#1133,tofi,ModifiedTFT.py,TRUE,40,226.869,±0.128,82.676,54.276,39.239,7.00933,13,100.192,3
+userStrats.s1438,#1134,Don,TitForTatDetection.py,TRUE,40,226.794,±0.164,82.658,54.255,39.24,6.99723,14,101.504,-1
+userStrats.s1316,#1135,JakobFO,memoryWheel.py,TRUE,40,226.609,±0.098,96.028,52.475,39.661,6.87698,159,120.882,1
+userStrats.s1529,#1136,rodaye,Darwinator.py,TRUE,40,226.595,±0.171,105.089,46.434,44.993,7.10716,58,92.84,3
+userStrats.s699,#1137,Björn Kerman,predict-o-tron.py,TRUE,40,226.487,±0.113,100.035,50.911,45.457,4.01315,39,118.021,0
+userStrats.s1351,#1138,Hexameron,dynamic_joss.py,TRUE,40,226.464,±0.377,82.742,41.816,25.327,6.92446,20,102.466,1
+userStrats.s139,#1139,PkmnQ,who.py,TRUE,40,225.707,±0.191,102.476,49.797,48.163,0.28959,33,87.586,2
+userStrats.s1144,#1140,BruhMomento,Last2Rounds.py,TRUE,40,225.102,±0.124,92.728,62.159,43.032,6.44876,15,93.184,2
+userStrats.s793,#1141,FuchsMussteSeinNichHase,betterme.py,TRUE,40,225.08,±0.143,104.61,47.164,47.874,4.90284,19,226.984,2
+userStrats.s880,#1142,Adam O.,villefort.py,TRUE,40,225.058,±0.288,94.824,52.397,30.575,5.54036,79,97.542,1
+userStrats.s774,#1143,Wilson,WilsonianDetective.py,TRUE,40,224.924,±0.155,91.014,57.719,41.126,4.78694,135,96.211,0
+userStrats.s487,#1144,RENBOWDESH,triggerFingerDF.py,TRUE,40,224.532,±0.214,102.069,53.777,43.046,2.07751,47,94.107,1
+userStrats.s348,#1145,Anton,Anton-strat.py,TRUE,40,224.527,±0.192,103.263,52.038,47.738,1.10894,41,98.06,1
+userStrats.s785,#1146,Kubak_cz,chooseTheBest.py,TRUE,40,224.324,±0.137,95.28,51.947,40.908,4.85168,76,100.546,0
+userStrats.s992,#1147,Van0k,pythia.py,TRUE,40,224.104,±0.141,97.315,49.255,40.885,5.93715,101,119.845,1
+userStrats.s1293,#1148,flopy bouncer,FlopyBouncer.py,TRUE,40,224.048,±0.327,108.974,72.623,33.229,6.83949,33,124.818,2
+userStrats.s402,#1149,ThreeD,GrudgeKitty.py,TRUE,40,223.993,±0.144,104.995,44.946,47.019,1.57985,55,91.73,2
+userStrats.s1028,#1150,P P,psychopath.py,TRUE,40,223.758,±0.130,92.421,43.737,34.769,6.05063,53,105.21,2
+userStrats.s576,#1151,PyExplained,myStrategy.py,TRUE,40,223.739,±0.101,105.383,44.186,44.551,2.87541,20,139.287,-1
+userStrats.s1141,#1152,Lars,jenkins2.py,TRUE,40,223.695,±0.305,89.256,69.889,23.028,6.43708,131,244.952,2
+userStrats.s722,#1153,Dmra2130,agentStartCooperateThreeRewardTwoPunish.py,TRUE,40,223.418,±0.107,92.15,40.738,30.038,4.21728,36,94.28,1
+userStrats.s652,#1154,Cookie04,averager.py,TRUE,40,223.383,±0.133,119.148,87.492,22.441,3.7262,11,132.302,3
+userStrats.s751,#1155,TomZw,KindButNotTooKind.py,TRUE,40,223.357,±0.134,116.7,94.567,8.704,4.62814,39,132.259,1
+userStrats.s865,#1156,fizmat,grumpySlowDetective.py,TRUE,40,223.257,±0.193,102.403,43.311,45.312,5.38179,57,92.88,1
+userStrats.s5,#1157,Adam,wintersStrategy.py,TRUE,40,223.242,±0.184,104.178,67.34,41.454,-0.28024,63,92.096,3
+userStrats.s1180,#1158,Otto,crystalBall.py,TRUE,40,223.23,±0.169,105.348,46.172,38.937,6.59459,106,2492.109,2
+userStrats.s1550,#1159,RyanCheddar,richard.py,TRUE,40,223.196,±0.169,121.108,96.463,15.227,7.26718,108,102.954,0
+userStrats.s156,#1160,Ol' Stevo,Hello World!.py,TRUE,40,223.097,±0.077,122.91,100,0,0.38593,5,105.067,3
+userStrats.s1494,#1161,Apolo512,ETFT_i.py,TRUE,40,223.088,±0.061,122.896,100,0,7.01912,3,90.29,1
+userStrats.s175,#1162,Keristero,GreatestAnimeBetrayalsOfAllTime.py,TRUE,40,223.086,±0.146,105.808,59.016,35.24,0.4699,76,109.262,2
+userStrats.s1387,#1163,Onno,Strategy.py,TRUE,40,223.071,±0.070,122.943,100,0,6.95471,23,91.285,0
+userStrats.s315,#1164,Binary state machine,state-machine.py,TRUE,40,223.056,±0.079,122.92,100,0,0.93052,19,85.113,3
+userStrats.s144,#1165,Jeremy,mine.py,TRUE,40,223.052,±0.076,122.945,100,0,0.30525,15,96.292,3
+userStrats.s132,#1166,They call me Penguin,realPrisonerStrategy.py,TRUE,40,223.045,±0.075,122.908,100,0,0.26317,51,85.264,1
+userStrats.s603,#1167,John Doe,xX_lit-strategy69_Xx.py,TRUE,40,223.045,±0.075,122.942,100,0,3.08847,1,92.289,1
+exampleStrats.alwaysCooperate,#1168,None,alwaysCooperate,TRUE,40,223.037,±0.071,122.92,100,0,0,2,0,-1
+userStrats.s1549,#1169,Jayson,forFun.py,TRUE,40,222.983,±0.068,122.953,100,0,7.2662,2,86.676,2
+userStrats.s917,#1170,Maximal20,MaxiStrat.py,TRUE,40,222.552,±0.139,104.46,46.696,47.558,5.7409,81,107.165,2
+userStrats.s70,#1171,Gamerstan,detectiveS.py,TRUE,40,222.484,±0.180,92.694,58.297,41.975,0.1403,37,90.874,0
+userStrats.s227,#1172,Alex,hyperDetective.py,TRUE,40,222.16,±0.373,104.212,43.693,40.175,0.64958,126,874.291,0
+userStrats.s1584,#1173,Samuel,myStrat-Samuel.py,TRUE,40,221.815,±0.133,103.036,47.583,48.167,7.97707,35,95.015,0
+userStrats.s1256,#1174,KatzenTatzenTanz,Katstrat.py,TRUE,40,221.783,±0.342,113.952,96.527,1.296,6.77446,111,1194.886,0
+userStrats.s578,#1175,Lawlzee,RandomWeights_Gen_6630000.py,TRUE,40,221.435,±0.190,119.964,73.824,42.858,2.87956,18,107.09,1
+userStrats.s829,#1176,Navras,imprisoned.py,TRUE,40,221.337,±0.157,93.716,47.492,41.127,5.07088,11,100.219,0
+userStrats.s1598,#1177,_newUser,scientist.py,TRUE,40,221.057,±0.195,100.633,47.173,39.836,8.15685,108,103.995,1
+userStrats.s69,#1178,Harrison,defectorSupreme.py,TRUE,40,220.44,±0.174,94.436,58.39,41.835,0.13877,40,87.372,3
+userStrats.s1161,#1179,mafaldo,custom.py,TRUE,40,220.381,±0.375,91.386,51.304,30.404,6.50855,38,150.979,2
+userStrats.s804,#1180,Vakrim,doc.py,TRUE,40,219.944,±0.156,94.009,56.809,46.725,4.95266,68,89.839,0
+userStrats.s1327,#1181,NightGlyde,exploiter3.py,TRUE,40,219.836,±0.082,89.459,31.214,20.958,6.89008,9,109.657,3
+userStrats.s1304,#1182,Martin,strategyDetection.py,TRUE,40,219.725,±0.094,97.114,51.094,41.217,6.86192,102,6814.258,1
+userStrats.s1222,#1183,OyBer,tableSalt.py,TRUE,40,219.231,±0.134,104.469,48.612,48.168,6.72486,34,138.426,2
+userStrats.s1345,#1184,Swordeevee,ManipulativeFTFT.py,TRUE,40,219.088,±0.133,95.75,36.178,28.762,6.91575,34,100.518,2
+userStrats.s1551,#1185,Buddermon,epic.py,TRUE,40,218.299,±0.134,83.315,53.085,43.024,7.27116,4,122.737,3
+userStrats.s960,#1186,Okenekab,Cobbler.py,TRUE,40,218.184,±0.136,121.44,92.287,24.791,5.86403,62,97.349,1
+userStrats.s1410,#1187,Satvik,MemoriousLogician_SD.py,TRUE,40,218.052,±0.148,102.319,52.509,45.011,6.97941,57,1022.098,2
+userStrats.s1453,#1188,DerDunkelhut,friendlyLearner.py,TRUE,40,217.972,±0.215,107.479,65.249,46.009,7.00465,128,181.947,1
+userStrats.s1567,#1189,Rasilu,war_criminal.py,TRUE,40,217.852,±0.166,105.963,64.216,42.814,7.73574,115,509.917,2
+userStrats.s104,#1190,Fupi,therapist.py,TRUE,40,217.811,±0.149,105.118,45.779,48.208,0.18963,47,84.597,3
+userStrats.s919,#1191,Cattingslan,catlanAlgorithm.py,TRUE,40,217.707,±0.107,100.55,46.222,46.326,5.74848,99,100.172,2
+userStrats.s756,#1192,Teo,simpleOverengineeredDetective.py,TRUE,40,217.621,±0.122,106.07,46.531,37.823,4.65434,40,91.141,3
+userStrats.s119,#1193,Kees,2ftftb2.py,TRUE,40,217.583,±0.120,98.53,44.219,40.428,0.20846,43,94.241,2
+userStrats.s330,#1194,Aras,enhancedDetective.py,TRUE,40,217.209,±0.207,105.793,57.984,39.724,1.00576,51,165.344,0
+userStrats.s303,#1195,Pudding,iHopeThisWorks.py,TRUE,40,217.163,±0.100,93.238,44.992,36.127,0.88881,8,129.613,3
+userStrats.s976,#1196,VESUVIUS,detectiveSmart.py,TRUE,40,217.114,±0.126,98.968,43.981,38.785,5.90086,34,92.51,2
+userStrats.s650,#1197,Nauynix,my.py,TRUE,40,216.788,±0.122,103.082,42.944,43.106,3.70459,56,92.721,1
+userStrats.s74,#1198,Lordszynencja,fluffySaiStrategy.py,TRUE,40,216.607,±0.165,103.496,45.971,41.223,0.14777,104,115.717,3
+userStrats.s323,#1199,saku,amelia.py,TRUE,40,216.452,±0.156,95.417,59.213,46.776,0.96226,25,121.144,1
+userStrats.s1405,#1200,dk949,DKsStrategy.py,TRUE,40,215.94,±0.097,95.163,38.964,14.474,6.97623,14,113.379,3
+userStrats.s1397,#1201,Marchio,testing_grim. M..py,TRUE,40,215.761,±0.148,106.971,41.94,48.019,6.97179,12,94.824,0
+userStrats.s1229,#1202,Shogun,cleverDetective.py,TRUE,40,215.626,±0.225,100.568,60.382,43.029,6.73539,51,95.275,3
+userStrats.s1520,#1203,Vlaxchen,chanco.py,TRUE,40,215.399,±0.169,90.011,58.035,46.817,7.03917,25,214.655,0
+userStrats.s874,#1204,Wang Chen,the mathematician.py,TRUE,40,215.312,±0.445,87.559,52.15,29.135,5.45699,30,134.26,1
+userStrats.s1348,#1205,Some guy from Russia,unfinished_batman.py,TRUE,40,215.062,±0.120,89.835,43.837,33.441,6.91875,50,262.151,2
+userStrats.s769,#1206,"vypxl (pronounced /vaɪˈpɪks(ə)l/ ""vai pixel"")",vypxl.py,TRUE,40,214.975,±0.222,99.334,47.386,40.235,4.76692,121,109.796,2
+userStrats.s1568,#1207,Psyql,TFTbutATFT.py,TRUE,40,214.923,±0.365,90.462,34.613,25.899,7.73787,21,96.153,1
+userStrats.s185,#1208,Thien,markov_search3.py,TRUE,40,214.356,±0.113,114.31,56.378,28.797,0.50295,148,9271.942,2
+userStrats.s93,#1209,Abhijeet,targeted.py,TRUE,40,213.516,±0.210,107.494,54.606,44.559,0.17619,52,88.006,1
+userStrats.s1530,#1210,MasterGrandWhis,grimKamikaze.py,TRUE,40,213.148,±0.346,92.743,35.924,31.789,7.11019,16,99.507,0
+userStrats.s258,#1211,DooNuts,DooNuts_Negotiations.py,TRUE,40,213.103,±0.140,103.886,41.939,43.374,0.75954,65,93.307,0
+userStrats.s746,#1212,Sai,onetwo3.py,TRUE,40,213.043,±0.111,92.955,27.52,22.109,4.59711,8,99.643,2
+userStrats.s75,#1213,Evan,superMegaIncredibleCleverDetectiveThatWillOneHundredPercentWinThisContestForSureObviously.py,TRUE,40,212.636,±0.158,100.411,32.298,35.825,0.15299,38,89.017,3
+userStrats.s1412,#1214,Moddl,NEAT.py,TRUE,40,211.424,±0.118,91.538,58.916,8.004,6.98075,108,707.094,2
+userStrats.s163,#1215,i know i will lose,kagura.py,TRUE,40,210.64,±0.383,91.794,33.534,26.742,0.40987,60,172.418,2
+userStrats.s1401,#1216,Cahid,strategyBreaker.py,TRUE,40,209.409,±0.146,118.19,61.845,42.506,6.97381,37,99.02,2
+userStrats.s761,#1217,master2500,exploitForgiversPunishCheaters.py,TRUE,40,209.26,±0.130,105.814,39.287,46.057,4.70726,31,99.713,2
+userStrats.s165,#1218,Jack Lewis,test_player_lots.py,TRUE,40,209.168,±0.308,91.378,38.84,33.486,0.41705,30,104.243,3
+userStrats.s441,#1219,Yewolf,analyser2.py,TRUE,40,209.124,±0.114,89.498,53.394,31.558,1.83586,42,331.852,2
+userStrats.s1493,#1220,KoliFly,Fortuneteller.py,TRUE,40,208.763,±0.114,89.138,37.485,26.538,7.01904,180,8341.543,0
+userStrats.s561,#1221,vTri,vtri.py,TRUE,40,208.756,±0.099,102.222,49.121,34.643,2.79321,42,153.766,3
+userStrats.s755,#1222,StampDanFan,StampDanFan.py,TRUE,40,208.697,±0.134,106.256,40.422,46.461,4.65089,37,92.664,1
+userStrats.s482,#1223,Kartoffelsaft,ksb.py,TRUE,40,208.653,±0.111,103.78,43.591,34.748,2.03868,37,247.021,3
+exampleStrats.joss,#1224,None,joss,TRUE,40,208.603,±0.325,85.425,41.784,34.368,0,9,0,-1
+userStrats.s1417,#1225,Sir Legna,SirL_PH-76.py,TRUE,40,208.504,±0.112,90.479,42.603,34.846,6.98306,34,117.648,2
+userStrats.s1100,#1226,kshammer,cool.py,TRUE,40,208.336,±0.351,85.375,41.657,34.327,6.28372,10,100.776,2
+userStrats.s1148,#1227,Sam,detective2_0.py,TRUE,40,208.285,±0.185,113.134,52.729,47.064,6.46531,20,93.159,0
+userStrats.s468,#1228,Mason Choi (just Mason is fine),code_reader.py,TRUE,40,208.242,±0.168,110.766,51.88,48.681,1.97413,24,92.309,0
+userStrats.s1336,#1229,Justin,predict.py,TRUE,40,208.005,±0.144,98.256,37.086,39.56,6.90183,40,317.407,0
+userStrats.s271,#1230,Nitin Patel,erraticExploiter.py,TRUE,40,207.557,±0.083,88.842,32.483,21.668,0.79552,19,119.908,3
+userStrats.s1127,#1231,Romelian,Alter__1010.py,TRUE,40,207.454,±0.085,87.777,31.422,21.54,6.39733,7,100.562,1
+userStrats.s212,#1232,Paul0110,recent_history.py,TRUE,40,207.31,±0.440,108.798,55.195,49.318,0.6075,7,142.364,2
+userStrats.s1088,#1233,Alex or Aitch,abuse_reactive.py,TRUE,40,207.28,±0.130,101.928,38.771,40.052,6.23582,156,103.459,2
+userStrats.s1463,#1234,Dino0040 (daino double o forty or just daino),singularitys_brother.py,TRUE,40,207.253,±0.129,100.455,41.253,44.815,7.00858,21,114.662,3
+userStrats.s573,#1235,jp,jpulup.py,TRUE,40,206.809,±0.123,94.201,28.249,22.759,2.84578,24,128.097,0
+userStrats.s44,#1236,TheSmallBlue,privateIndecisive.py,TRUE,40,206.484,±0.101,92.484,27.188,23.222,0.08343,21,95.019,2
+userStrats.s621,#1237,Christos Karapapas,karapapas.py,TRUE,40,205.946,±0.083,93.265,25.642,22.422,3.47797,29,121.962,2
+userStrats.s599,#1238,hamyield,Hamyields_ASS.py,TRUE,40,205.815,±0.147,99.271,31.667,30.865,3.01069,74,149.198,3
+userStrats.s942,#1239,greamy,GrantsDetective0422.py,TRUE,40,205.372,±0.258,84.753,49.967,23.712,5.81968,58,94.984,1
+userStrats.s36,#1240,MoonParamour,whatsUpPartyPeople.py,TRUE,40,205.301,±0.096,82.434,37.311,10.095,0.07481,12,90.953,2
+userStrats.s1368,#1241,Golden Wither,thinker.py,TRUE,40,205.169,±0.351,93.609,43.048,28.019,6.93912,31,171.349,0
+userStrats.s533,#1242,Hannes,greedyAltruist.py,TRUE,40,205.09,±0.193,98.158,35.527,39.741,2.57369,17,96.45,1
+userStrats.s1484,#1243,dunkyl 🔣🔣,98tft.py,TRUE,40,204.606,±0.322,125.954,98.653,1.09,7.01657,4,101.562,1
+userStrats.s991,#1244,Cocas_Origin,DiscoverThenExploit.py,TRUE,40,204.524,±0.238,106.61,62.02,34.207,5.9356,80,96.062,2
+userStrats.s1008,#1245,lolknabe,fibonacciDefector.py,TRUE,40,203.588,±0.089,122.714,95.987,0.399,5.97264,20,89.587,3
+userStrats.s1009,#1246,cheasy,fibonacciDefector.py,TRUE,40,203.542,±0.085,122.723,95.986,0.398,5.97565,20,88.472,0
+userStrats.s1011,#1247,Dulli,deterministic.py,TRUE,40,203.518,±0.088,122.715,95.986,0.4,5.9853,16,92.108,1
+userStrats.s416,#1248,Reimar,counter.py,TRUE,40,202.978,±0.144,94.347,23.452,23.288,1.70785,24,104.429,0
+userStrats.s918,#1249,RadioactiveMoth,ambidex.py,TRUE,40,202.771,±0.168,99.515,36.59,38.61,5.74571,55,243.235,2
+userStrats.s771,#1250,Galo,DTerminator.py,TRUE,40,202.691,±0.100,87.683,29.148,21.77,4.77959,25,101.459,0
+userStrats.s321,#1251,SaintJuniper,we_really_out_here.py,TRUE,40,202.663,±0.100,100.105,22.436,23.566,0.95358,22,103.589,2
+userStrats.s235,#1252,LiquidInv,zickzackSmort.py,TRUE,40,202.661,±0.105,87.733,29.124,21.774,0.66497,10,126.711,0
+userStrats.s1458,#1253,Tal,detectiveIiitttsssV3p.py,TRUE,40,202.332,±0.450,89.324,39.343,30.556,7.00696,41,150.406,0
+userStrats.s1015,#1254,Aram A,examiner.py,TRUE,40,202.279,±0.129,99.921,37.217,32.716,5.99141,96,93.124,0
+userStrats.s1247,#1255,Kyle,startrekstrat.py,TRUE,40,202.087,±0.089,133.921,94.741,14.387,6.76089,16,102.227,3
+userStrats.s1245,#1256,lekker,tft.py,TRUE,40,202.072,±0.084,133.89,94.741,14.387,6.75955,16,100.613,-1
+userStrats.s1244,#1257,elle,tft.py,TRUE,40,202.06,±0.088,133.933,94.736,14.403,6.75826,16,101.135,-1
+userStrats.s1168,#1258,Jeanna,boomstrategy.py,TRUE,40,202.032,±0.094,133.949,94.74,14.391,6.52936,16,104.746,3
+userStrats.s1014,#1259,Lucas,cautiousAnalyst.py,TRUE,40,201.715,±0.143,104.77,36.405,45.985,5.99124,90,92.208,3
+userStrats.s280,#1260,samunemeth,recognizer.py,TRUE,40,201.219,±0.161,106.763,35.931,45.142,0.82909,91,110.072,1
+userStrats.s1202,#1261,Delfad0r,Freud.py,TRUE,40,201.203,±0.184,98.748,31.021,29.676,6.6547,23,379.723,2
+userStrats.s1135,#1262,arifin,ConditionalUnconditional.py,TRUE,40,201.005,±0.083,133.591,94.331,14.343,6.4216,16,99.391,3
+userStrats.s1166,#1263,Crystal,simpleunconditional.py,TRUE,40,200.996,±0.112,133.607,94.327,14.344,6.52525,16,101.172,3
+userStrats.s788,#1264,Patrolin,UCB.py,TRUE,40,200.984,±0.241,95.477,34.4,27.792,4.87012,113,105.282,2
+userStrats.s1038,#1265,JustIdentity,trustPoint.py,TRUE,40,200.449,±0.102,93.687,30.85,32.879,6.08274,62,91.906,1
+userStrats.s551,#1266,Ivruix,mcs.py,TRUE,40,200.272,±0.389,98.518,35.856,37.7,2.73477,67,235.435,1
+userStrats.s971,#1267,Paypite,PaypiteStrat.py,TRUE,40,200.184,±0.139,92.498,43.53,42.711,5.88571,27,101.493,3
+userStrats.s1528,#1268,Pew,weightedMajority.py,TRUE,40,199.612,±0.155,87.244,45.431,45.907,7.10433,8,130.121,1
+userStrats.s540,#1269,Stuckwork,BuzzLightyear.py,TRUE,40,199.409,±0.238,101.039,45.101,24.695,2.6022,70,428.575,2
+userStrats.s1057,#1270,Jost Salathé,UlfTheWulf.py,TRUE,40,199.275,±0.246,102.095,31.04,39.586,6.13016,49,228.074,2
+userStrats.s1455,#1271,thatchedroof,antiforgivingtitfortatalsohowlongcanthesenamesbeiwillmakethisnameverylonginfactwowhowcanyoustillreadthiseventhoughiamputtingnospaceslatinusedtohavenospacesitwascalledscriptocontinuaohnothedeadlineiscomingaaaaaaaaaaaaaaa.py,TRUE,40,199.107,±0.085,115.051,66.526,0.118,7.00602,5,95.254,0
+userStrats.s1001,#1272,Zortru,meanDetective.py,TRUE,40,198.869,±0.122,92.213,37.217,34.479,5.96156,33,96.819,0
+userStrats.s1271,#1273,ProgrammerMathematic,dataAnalysis.py,TRUE,40,198.445,±0.401,105.483,48.949,41.995,6.81087,38,103.595,1
+userStrats.s598,#1274,Cheesy Hfj,tftwaldots.py,TRUE,40,198.169,±0.105,89.748,24.548,20.894,3.00097,21,96.332,0
+userStrats.s1273,#1275,tbhmens (tbh-mens),tbhmens.py,TRUE,40,196.888,±0.360,94.406,32.978,37.317,6.81406,8,107.719,1
+userStrats.s1178,#1276,"BashirKad for GitHub | YaDunGoofed for Discord, I have no real preference",informedJoss.py,TRUE,40,196.703,±0.372,89.276,39.506,24.471,6.58708,107,143.602,2
+userStrats.s577,#1277,Marx,My boost strategy.py,TRUE,40,196.587,±0.094,113.185,64.319,11.335,2.87613,35,87.814,0
+userStrats.s1023,#1278,Martín,martinsLaplaceUpgraded.py,TRUE,40,196.207,±0.310,96.257,33.479,33.237,6.01749,234,766.044,3
+userStrats.s635,#1279,The Limiter,HistoryHack.py,TRUE,40,196.019,±0.081,95.045,42.941,32.845,3.59902,28,120.449,3
+userStrats.s1420,#1280,Thomas,thomas20..py,TRUE,40,195.553,±0.398,95.193,39.49,19.818,6.98618,1052,115.067,3
+userStrats.s1044,#1281,spaghetsie,spaghetsieDidntHaveEnoughTimeFme.py,TRUE,40,194.956,±0.225,107.697,49.341,42.718,6.102,53,97.056,1
+userStrats.s1262,#1282,Jasper,Jasper's Detective.py,TRUE,40,194.82,±0.211,108.513,50.312,2.457,6.80096,92,94.939,2
+userStrats.s600,#1283,PotatoK,MegaDetective_1488a39bc99e.py,TRUE,40,194.669,±0.158,98.16,37.848,41.553,3.01664,29,94.518,0
+userStrats.s747,#1284,Mason is fine,super_clever_detective.py,TRUE,40,194.637,±0.198,110.003,38.12,46.807,4.60109,24,91.112,0
+userStrats.s567,#1285,vrojak,betterDetective.py,TRUE,40,194.514,±0.121,105.545,41.269,32.899,2.81459,95,97.15,1
+userStrats.s1560,#1286,Ă̴̞͕̦l̵̝͂̋̒á̵̡̨͍ń̸̖̣̳͈̽̍̀͜͝,NaiveTitForTatCounter.py,TRUE,40,194.255,±0.097,108.546,50.105,0.108,7.61571,6,87.76,3
+userStrats.s328,#1287,jack,switcheroo.py,TRUE,40,194.203,±0.080,108.508,50.105,0.108,0.98962,16,99.992,2
+userStrats.s251,#1288,ilyakuk,predictOpponent.py,TRUE,40,194.197,±0.088,108.544,50.105,0.108,0.72799,15,95.93,0
+userStrats.s286,#1289,sam,highCompliance.py,TRUE,40,193.513,±0.365,109.467,68.981,3.018,0.84896,5,91.416,-1
+userStrats.s1087,#1290,Userminusone,umoConsequenceDetector.py,TRUE,40,193.444,±0.107,110.969,47.703,33.485,6.2355,65,99.353,3
+userStrats.s457,#1291,Noel,theSmartGenius.py,TRUE,40,193.006,±0.161,91.975,25.271,23.157,1.91674,25,155.977,0
+userStrats.s308,#1292,Tom Burns,BurnsBiasedRandom.py,TRUE,40,192.701,±0.153,104.463,32.264,40.62,0.90868,202,89.334,3
+userStrats.s745,#1293,Fred the bot,Fred_the_bot.py,TRUE,40,192.377,±0.085,88.463,25.173,21.718,4.59079,17,96.763,1
+userStrats.s951,#1294,erik,Q_learning.py,TRUE,40,192.171,±0.243,98.143,25.491,21.834,5.83958,69,160.212,1
+userStrats.s881,#1295,NopSled,badCop.py,TRUE,40,190.54,±0.094,98.044,26.445,34.734,5.5508,24,90.357,1
+userStrats.s43,#1296,"GlerG (Pronounced Glerg, not Gler G)",randomWeighted.py,TRUE,40,189.214,±0.197,88.368,36.993,30.142,0.08338,13,100.409,1
+userStrats.s679,#1297,sijisu,sijisuStrategy.py,TRUE,40,189.004,±0.298,106.89,50.106,0.434,3.90714,11,101.911,0
+userStrats.s856,#1298,Lucky Potato,eScout.py,TRUE,40,188.355,±0.110,96.947,30.281,24.747,5.32578,150,95.479,0
+userStrats.s90,#1299,1e1001,weighted.py,TRUE,40,187.831,±0.461,82.132,29.016,26.027,0.17059,112,95.658,3
+userStrats.s61,#1300,TheTplayerJ,TheTDetectiveJ.py,TRUE,40,187.659,±0.069,101.144,31.789,25.308,0.11494,28,92.781,0
+userStrats.s1142,#1301,KryptiK,Last2RoundsParity.py,TRUE,40,187.304,±0.097,88.347,28.186,26.984,6.43988,21,97.998,2
+userStrats.s1170,#1302,abcblahblah,LogicalPrisoner.py,TRUE,40,186.858,±0.329,89.827,32.805,28.284,6.5328,25,131.265,0
+userStrats.s1230,#1303,Tryn,Moriarty.py,TRUE,40,186.572,±0.222,98.067,26.172,16.511,6.73603,119,462.608,0
+userStrats.s521,#1304,AK2457,2-in-a-row Swap.py,TRUE,40,186.189,±0.109,84.885,33.523,30.095,2.48559,16,98.993,-1
+userStrats.s595,#1305,PhoenixSmaug,my.py,TRUE,40,186.187,±0.099,108.895,49.895,0.108,2.98747,5,94.206,0
+userStrats.s1514,#1306,Guetzy,nate_the_great.py,TRUE,40,186.181,±0.226,85.462,37.443,38.237,7.031,116,115.795,0
+userStrats.s0,#1307,overlisted,overpowered.py,TRUE,40,186.1,±0.100,108.92,49.894,0.108,-0.39238,7,85.743,3
+userStrats.s686,#1308,voidcrab,chance10.py,TRUE,40,185.388,±0.120,88.441,25.383,25.318,3.93875,22,125.025,0
+userStrats.s1355,#1309,Affenmilchmann,hse.py,TRUE,40,185.231,±0.106,104.148,24.163,22.62,6.92851,96,535.819,1
+userStrats.s419,#1310,HoshiJames,titForTatXtra.py,TRUE,40,185.097,±0.417,96,51.653,8.21,1.71455,11,115.997,0
+userStrats.s143,#1311,RoundSquare,DefectiveTitforTat.py,TRUE,40,184.911,±0.123,88.451,20.354,21.096,0.30302,11,90.949,3
+userStrats.s1474,#1312,Jaguar314,AIngel.py,TRUE,40,183.638,±0.464,97.047,33.37,35.678,7.01318,413,105.242,0
+userStrats.s82,#1313,tch1001,tchsubmissioncarykhbot.py,TRUE,40,183.464,±0.319,86.171,26.164,27.993,0.16181,8,87.577,1
+userStrats.s183,#1314,Tjthegamerking,exploiter.py,TRUE,40,183.458,±0.117,83.098,24.961,21.287,0.50148,52,89.339,0
+userStrats.s1372,#1315,MFDuskink,MassiveFortuneDreamer.py,TRUE,40,183.456,±0.413,85.346,39.774,15.723,6.94031,21,103.237,2
+userStrats.s552,#1316,Chimi Changa,MAMAMIA.py,TRUE,40,183.365,±0.236,87.649,28.188,24.286,2.74912,27,123.585,2
+userStrats.s1408,#1317,Batman,WEARENUMBERONE.py,TRUE,40,182.403,±0.084,106.458,57.537,0.521,6.97847,9,94.927,0
+userStrats.s607,#1318,velaachlorine,detectiveEX.py,TRUE,40,181.348,±0.376,88.246,31.533,23.153,3.16251,24,120.006,2
+userStrats.s262,#1319,cakes jay,triplet.py,TRUE,40,181.097,±0.106,88.149,28.83,21.688,0.76249,32,90.969,2
+userStrats.s1070,#1320,Ethan Kinnear,rickrollEverybody.py,TRUE,40,181.087,±0.094,105.239,59.41,0.866,6.18171,55,92.87,3
+userStrats.s1156,#1321,rockman7perez,Whatshouldinameit.py,TRUE,40,180.904,±0.082,83.621,25.881,21.773,6.48321,22,92.31,3
+userStrats.s71,#1322,Driver2900,theMagicNumber.py,TRUE,40,179.588,±0.100,81.566,18.001,14.929,0.14272,27,87.422,0
+userStrats.s846,#1323,Jay,this_is_bait.py,TRUE,40,179.025,±0.158,92.486,21.894,12.832,5.24477,32,87.939,1
+userStrats.s1016,#1324,eltenedor,restart_estimate_bernoulli.py,TRUE,40,178.275,±0.129,109.554,61.152,21.984,5.99182,25,108.267,1
+userStrats.s1208,#1325,r49behind,myStrategy.py,TRUE,40,177.007,±0.107,96.035,30.675,41.79,6.67612,19,96.389,2
+userStrats.s1600,#1326,Jeremy E,learning.py,TRUE,40,176.252,±0.276,94.889,34.532,12.483,8.25442,305,4487.405,1
+userStrats.s903,#1327,Kaan,germanHackerBoi --Made by Kaan--.py,TRUE,40,175.521,±0.137,92.249,35.696,25.004,5.69058,28,169.429,2
+userStrats.s243,#1328,Zhen,z.py,TRUE,40,175.408,±0.109,81.243,21.459,27.837,0.69106,2,108.516,0
+userStrats.s213,#1329,404dcd,404dcd-bizarre.py,TRUE,40,175.039,±0.111,112.51,48.909,5.611,0.60823,7,99.013,3
+userStrats.s818,#1330,Arrow,urgh.py,TRUE,40,174.728,±0.192,89.685,34.582,10.31,5.03236,17,99.849,1
+userStrats.s1073,#1331,Greatbrick,betterdetective.py,TRUE,40,174.38,±0.189,108.062,52.59,44.429,6.18936,74,102.317,2
+userStrats.s484,#1332,juanchi,nealCaffrey.py,TRUE,40,173.97,±0.083,88.088,14.971,15.343,2.04279,9,93.826,3
+userStrats.s1516,#1333,light,boomer69.py,TRUE,40,173.878,±0.192,102.193,48.004,28.42,7.03625,49,165.921,0
+userStrats.s247,#1334,"Worlapim (or Kuba, if you want to be more personal)",poet.py,TRUE,40,173.717,±0.094,103.951,51.145,0.328,0.71435,58,110.275,0
+userStrats.s1518,#1335,Cutie,absolutelydestroyingeveryone.py,TRUE,40,173.657,±0.167,103.008,30.082,35.395,7.03793,77,481.618,0
+userStrats.s585,#1336,James,aaWikiStratTrials10thresh-023vary20.py,TRUE,40,173.111,±0.129,97.35,25.74,18.769,2.94541,87,88.766,0
+userStrats.s24,#1337,Batterie Faible,alternate.py,TRUE,40,173.053,±0.056,88.08,14.735,15.356,0.04318,9,88.681,3
+userStrats.s1517,#1338,machonga,test.py,TRUE,40,172.996,±0.059,87.999,14.718,15.35,7.03722,13,98.447,0
+userStrats.s407,#1339,Jonas B.,"history[0,0][1,0]2..py",TRUE,40,172.98,±0.071,88.002,14.721,15.351,1.64981,17,99.953,3
+userStrats.s1152,#1340,Keszas or IF-dev,idk.py,TRUE,40,172.189,±0.106,98.432,29.797,12.554,6.47719,54,102.754,-1
+userStrats.s301,#1341,The_Zombie,SagumeKishin.py,TRUE,40,171.254,±0.075,82.353,15.518,15.714,0.88642,12,105.951,3
+userStrats.s916,#1342,mkhoi,srtft.py,TRUE,40,171.216,±0.061,82.426,15.504,15.708,5.74046,14,88.291,2
+userStrats.s764,#1343,Nyveon,thueMorse.py,TRUE,40,171.137,±0.099,100.219,50.001,0.151,4.73341,13,97.748,2
+userStrats.s84,#1344,Ethan Clark,fairShare.py,TRUE,40,171.062,±0.070,100.204,50,0.152,0.1628,19,101.573,1
+userStrats.s947,#1345,Kris,analytical.py,TRUE,40,170.778,±0.309,92.48,11.358,13.945,5.8283,70,344.378,1
+userStrats.s645,#1346,Alif,Funny_Strat.py,TRUE,40,170.701,±0.234,98.93,53.088,3.26,3.6797,28,96.123,2
+userStrats.s718,#1347,Dawn ScLim,PhasingResearcher.py,TRUE,40,170.457,±0.077,86.509,17.332,21.718,4.19284,19,91.886,2
+userStrats.s649,#1348,Tom,kyeakata.py,TRUE,40,169.443,±0.089,86.55,17.09,17.813,3.70043,63,132.398,2
+userStrats.s884,#1349,[No online name] (Václav Trpišovský),SYMBIONT.py,TRUE,40,168.095,±0.079,98.801,49.829,0.313,5.57337,91,91.102,0
+userStrats.s558,#1350,Ian.Vos (or just Ian),actuary.py,TRUE,40,167.312,±0.105,83.487,23.476,27.845,2.77508,44,93.961,3
+userStrats.s748,#1351,DerRKDCB,derrkdcb..py,TRUE,40,167.066,±0.087,84.972,17.155,24.084,4.60569,30,230.129,0
+userStrats.s365,#1352,Hades948 (or just Tyler),counterDetective.py,TRUE,40,166.418,±0.078,94.21,7.658,2.089,1.23843,37,87.964,2
+userStrats.s1067,#1353,Dheatly,dividingCounter.py,TRUE,40,166.37,±0.093,91.47,15.652,30.553,6.17227,82,94.084,0
+userStrats.s106,#1354,Patrick Emery,youCanCallMeAl.py,TRUE,40,166.103,±0.141,128.193,80.479,23.36,0.19081,16,135.924,0
+userStrats.s799,#1355,EZK,nonzeroChance.py,TRUE,40,165.68,±0.319,95.23,50.022,3.254,4.91324,3,95.198,2
+userStrats.s400,#1356,Please don't do that.,comedyGenius.py,TRUE,40,165.588,±0.332,95.174,49.991,3.263,1.5737,10,103.163,0
+userStrats.s217,#1357,Tom,hail_mary. Quinnell.py,TRUE,40,165.57,±0.339,95.309,49.993,3.265,0.61792,7,108.62,2
+userStrats.s1121,#1358,Ryan,IHadAPlanButThenFinalsHitAndIDidntHaveTimeToCodeIt.py,TRUE,40,165.501,±0.339,95.227,50.018,3.271,6.38093,14,95.522,3
+userStrats.s1068,#1359,Deca,childsplay.py,TRUE,40,165.467,±0.336,95.239,50.003,3.265,6.17616,59,573.637,-1
+exampleStrats.randomStrategy,#1360,None,randomStrategy,TRUE,40,165.396,±0.337,95.018,49.971,3.258,0,3,0,-1
+userStrats.s136,#1361,PrinceofJ,randomguess.py,TRUE,40,165.383,±0.399,95.274,49.986,3.271,0.28071,8,90.698,3
+userStrats.s290,#1362,Will,Mod3.py,TRUE,40,164.918,±0.080,93.973,33.474,0.118,0.85756,17,100.34,3
+userStrats.s1554,#1363,mathwiz,customStrategy.py,TRUE,40,164.689,±0.101,106.712,37.47,21.242,7.34905,60,203.574,1
+userStrats.s388,#1364,Sergey,bait_and_switch.py,TRUE,40,164.503,±0.059,86.778,9.605,10.425,1.42516,14,91.695,0
+userStrats.s1535,#1365,niko,idegaf.py,TRUE,40,164.128,±0.105,93.055,50.014,0.471,7.1461,14,95.642,3
+userStrats.s1506,#1366,Josh,geneticAlgorithimThingy.py,TRUE,40,164.06,±0.155,103.543,48.578,17.102,7.02049,11,91.19,0
+userStrats.s317,#1367,Oliii,fibonacci.py,TRUE,40,162.691,±0.192,86.348,50.044,7.938,0.93161,25,99.323,2
+userStrats.s257,#1368,Montugar,piOddDefect.py,TRUE,40,162.675,±0.061,95.494,53.41,0.549,0.75587,18,146.112,1
+userStrats.s94,#1369,sheep,trickyTermite.py,TRUE,40,160.89,±0.299,104.811,43.528,12.58,0.17694,23,120.085,3
+userStrats.s904,#1370,Sniper or Creeper,super judgy.py,TRUE,40,158.227,±0.219,86.525,35.49,3.589,5.69059,103,119.397,0
+userStrats.s1213,#1371,Dino,worseDetecRand.py,TRUE,40,158.167,±0.121,83.228,23.508,13.65,6.68153,6,99.955,2
+userStrats.s1155,#1372,sluisburger,AMOGUS.py,TRUE,40,157.99,±0.089,95.639,47.331,0.371,6.48181,4,93.216,1
+userStrats.s1442,#1373,hejsan.bajs111,grumpy_grudger.py,TRUE,40,157.842,±0.130,94.539,12.048,31.053,6.99884,18,92.441,1
+userStrats.s1436,#1374,phantomeniasll,129c.py,TRUE,40,156.779,±0.073,108.272,41.607,11.729,6.9959,20,104.335,1
+userStrats.s1040,#1375,Athecubebot,biasRandomATCB.py,TRUE,40,156.435,±0.282,91.218,10.681,21.941,6.08697,47,249.29,0
+userStrats.s592,#1376,Tom,stratFinder.py,TRUE,40,155.745,±5.371,82.074,11.094,9.572,2.96992,54,100.168,2
+userStrats.s1427,#1377,farmingcowr,cayotic_grudger.py,TRUE,40,155.679,±0.340,93.03,6.458,15.517,6.98979,14,96.602,0
+userStrats.s342,#1378,Pasemi,expectedvalue.py,TRUE,40,155.674,±0.248,85.061,12.055,10.865,1.06957,39,99.112,3
+userStrats.s1350,#1379,Iggymojungle (please don't reveal my email or real name),timebomb.py,TRUE,40,155.601,±0.135,80.863,18.758,2.033,6.92106,30,98.484,3
+userStrats.s1548,#1380,Backback12,ConnorsNotSoGoodTitForTat.py,TRUE,40,155.518,±0.219,111.188,63.806,20.731,7.22726,17,91.853,2
+userStrats.s685,#1381,Glivs,method3.py,TRUE,40,155.254,±0.199,79.986,22.812,39.916,3.9378,23,112.857,1
+userStrats.s734,#1382,Daniel W,Biased Random.py,TRUE,40,154.832,±0.273,84.759,33.319,3.085,4.44017,7,97.09,3
+userStrats.s1601,#1383,RedstoneTim,timarkov2.py,TRUE,40,153.737,±0.285,82.78,30.616,7.972,8.41024,49,221.569,3
+userStrats.s292,#1384,Ripplesplash,rollingRand.py,TRUE,40,153.688,±0.212,87.433,18.488,11.075,0.86194,31,115.377,3
+userStrats.s436,#1385,greamy,Grandom.py,TRUE,40,153.672,±0.175,83.07,29.988,2.998,1.82108,8,86.045,1
+userStrats.s48,#1386,Okx,betterDetective.py,TRUE,40,152.32,±0.140,95.484,10.231,26.9,0.08443,27,93.786,1
+userStrats.s112,#1387,jh,jhsubmissioncarykhbot.py,TRUE,40,151.917,±0.320,76.509,10.63,15.907,0.1978,8,89.906,1
+userStrats.s331,#1388,Enlightened,EnlightenedTitTatv2.py,TRUE,40,151.881,±0.121,117.405,66.339,25.095,1.00602,6,99.55,2
+userStrats.s1183,#1389,JumbleTheCircle!,InvertedTFT.py,TRUE,40,151.861,±0.135,117.439,66.343,25.101,6.6134,7,100.904,2
+userStrats.s1335,#1390,BarbarousDuke1,tc_strategy.py,TRUE,40,151.827,±0.119,117.438,66.351,25.099,6.90082,5,102.488,1
+userStrats.s596,#1391,Primake ['pɹ̠ɑi.meɪk],strat.py,TRUE,40,151.825,±0.136,117.402,66.351,25.092,2.99081,7,88.486,1
+userStrats.s9,#1392,BasaranAC,antiTitForTat.py,TRUE,40,151.809,±0.117,117.39,66.354,25.092,0.0125,5,91.451,1
+userStrats.s1163,#1393,alex,invert.py,TRUE,40,151.802,±0.121,117.414,66.356,25.095,6.51709,6,94.279,0
+userStrats.s89,#1394,Pythia,trustBreaker.py,TRUE,40,151.785,±0.118,117.465,66.362,25.104,0.16838,6,89.691,0
+userStrats.s1398,#1395,WebMafia,mirrorStrat.py,TRUE,40,151.763,±0.102,117.408,66.364,25.097,6.97279,8,93.692,3
+userStrats.s437,#1396,Benudi,OppositeMan.py,TRUE,40,151.747,±0.138,117.372,66.368,25.09,1.8216,6,93.341,1
+userStrats.s1311,#1397,NIKOS,mhdas.py,TRUE,40,151.742,±0.124,117.376,66.369,25.091,6.87366,5,106.652,-1
+userStrats.s22,#1398,Scralex,tatForTit.py,TRUE,40,151.74,±0.107,117.389,66.369,25.093,0.04287,5,91.287,3
+userStrats.s1545,#1399,Neko,FlipFlop.py,TRUE,40,151.71,±0.099,117.294,66.373,25.076,7.20368,9,99.371,2
+userStrats.s526,#1400,Charlie,historian.py,TRUE,40,151.562,±0.110,94.787,8.14,25.643,2.52339,15,207.56,1
+userStrats.s1130,#1401,ethan,SelfishTitForTat.py,TRUE,40,151.273,±0.086,89.652,17.26,33.15,6.4011,23,92.058,3
+userStrats.s1614,#1402,Egg(Do not say my email I don't like it),Think..py,TRUE,40,151.219,±0.084,94.249,2.95,5.732,9.0263,35,97.549,3
+userStrats.s1365,#1403,StandardizedWstermelon,weightedRandom.py,TRUE,40,150.516,±0.292,111.255,64.812,21.595,6.93655,10,109.116,3
+userStrats.s1114,#1404,jason.l,smart_defector.py,TRUE,40,150.104,±0.080,91.47,5.501,16.548,6.34522,12,98.659,0
+userStrats.s1515,#1405,"AstroTsiga (should be pronounced how Google Translate says ""aastrochiga"")",AstroTsiga.py,TRUE,40,149.979,±0.152,86.947,10.371,18.087,7.03556,35,100.447,0
+userStrats.s505,#1406,Zeroph,contrarian.py,TRUE,40,149.961,±0.236,117.162,66.906,25.08,2.24883,12,97.631,3
+userStrats.s673,#1407,Stephen Worsley,galaxyBrainedContrarian.py,TRUE,40,148.981,±0.298,81.459,11.489,23.432,3.87985,82,99.838,3
+userStrats.s1349,#1408,anonymous,contrarian.py,TRUE,40,148.449,±0.096,117.247,67.399,25.112,6.92032,7,102.687,0
+userStrats.s901,#1409,Bajoras,bajoras.py,TRUE,40,145.12,±0.126,91.94,2.221,10.802,5.67824,74,130.894,3
+userStrats.s527,#1410,Ayman,Ayman_weigthed_random.py,TRUE,40,145.102,±0.258,86.218,4.366,8.823,2.52867,29,100.622,0
+userStrats.s162,#1411,Draco Dinkleberg,RandomRewarder.py,TRUE,40,144.916,±0.101,83.908,15.557,26.119,0.40685,48,150.266,3
+userStrats.s1391,#1412,HalfQuark,pow2Random.py,TRUE,40,143.965,±0.270,117.714,68.403,25.089,6.96053,19,257.987,2
+userStrats.s386,#1413,Garth,tanner.py,TRUE,40,142.471,±0.163,102.6,43.37,48.743,1.41586,35,98.036,2
+userStrats.s324,#1414,Eltech (but you can call me Triss),predictiveMeta.py,TRUE,40,142.347,±0.141,105.108,35.99,31.07,0.9644,456,2428.034,0
+userStrats.s1101,#1415,koolsid,genetic_FSM.py,TRUE,40,142.167,±0.078,88.873,2.359,12.772,6.28479,237,202.425,3
+userStrats.s395,#1416,ash15khng,guess_opp.py,TRUE,40,141.982,±0.229,88.35,1.181,0.583,1.50182,35,100.756,3
+userStrats.s575,#1417,Wolfy21_,winnerwinnerchickendinner.py,TRUE,40,141.699,±0.042,88.882,0.992,0.311,2.86073,34,134.783,1
+userStrats.s538,#1418,Skip,Peasant.py,TRUE,40,141.167,±0.071,87.878,0.935,2.701,2.58972,27,108.162,2
+userStrats.s532,#1419,Skip,Servant.py,TRUE,40,141.162,±0.066,87.901,0.936,2.735,2.57109,27,110.675,2
+userStrats.s796,#1420,Beau,bluesclues.py,TRUE,40,139.438,±0.055,88.309,0.427,0.058,4.90806,28,175.113,1
+userStrats.s361,#1421,StarshipTrooper0589,onceScornLove.py,TRUE,40,139.427,±0.037,88.285,0.427,0.058,1.198,10,91.702,3
+userStrats.s41,#1422,nine,bubbles-go-pop.py,TRUE,40,136.114,±0.161,86.292,0.157,0.229,0.08227,31,84.656,1
+userStrats.s668,#1423,Sam Jackson or Sam from Cadott,lukedavidbell.py,TRUE,40,135.289,±0.145,85.452,0.1,0.195,3.84247,27,101.986,3
+exampleStrats.alwaysDefect,#1424,None,alwaysDefect,TRUE,40,134.029,±0.047,84.708,0,0,0,2,0,-1
+userStrats.s1277,#1425,MrExquisite,veryNicePrisoner.py,TRUE,40,134.026,±0.045,84.753,0,0,6.82094,5,98.632,2
+userStrats.s25,#1426,POLAND_CAN_INTO_SPACE,superCleverDetective.py,TRUE,40,134.006,±0.040,84.664,0,0,0.0466,2,85.175,0
+userStrats.s195,#1427,CONOR,mostStable.py,TRUE,40,134.002,±0.055,84.686,0,0,0.53696,6,88.605,1
+userStrats.s959,#1428,SpirantSum2,reallyBadStrat.py,TRUE,40,133.992,±0.046,84.685,0,0,5.86119,5,95.044,0
+userStrats.s463,#1429,Quix,carychal.py,TRUE,40,133.956,±0.044,84.644,0,0,1.93345,6,87.537,3
+userStrats.s545,#1430,simonator,jollyTrigger.py,TRUE,40,130.158,±0.090,83.505,4.856,20.377,2.65919,13,96.422,3
+userStrats.s1125,#1431,Kelly Tan,SelfishTitForTat.py,TRUE,40,129.328,±0.065,67.241,2.454,13.679,6.38993,23,93.706,-1
+userStrats.s843,#1432,Garry,trying2comelast.py,TRUE,40,129.215,±0.159,74.662,21.783,40.364,5.20969,5,96.575,0
+userStrats.s1052,#1433,2x2 Piano,AntiDetective.py,TRUE,40,119.549,±0.102,89.498,22.07,38.989,6.11546,17,92.086,2
+userStrats.s4,#1434,"Bottersnike  --  Yes, this is my second submission. If only one is allowed per user, please use my other one (it's very slightly worse, but more consistent)",hmm.py,FALSE (duplicate from same author),0,-1,-1,-1,-1,-1,-0.30451,34,175.737,2
+userStrats.s6,#1435,Cop Oswald,6D97C39E-B142-446F-8D7E-48AB2852F3B7.jpeg,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.00988,0,3600000,-1
+userStrats.s7,#1436,Roman Bear,7B694416-F054-4DD5-B562-17E2FDC40214.png,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.00991,0,3600000,-1
+userStrats.s10,#1437,Four from bfb,Whats The oldest Contry in the world.py.py - Canon ÄžÅŸw.docx,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.01505,0,3600000,-1
+userStrats.s11,#1438,SubscribeToMegaMath,win.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.0162,4,3600000,1
+userStrats.s12,#1439,Gavgoesboom,2020-08-28 06-22-30.mkv,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.01625,0,3600000,-1
+userStrats.s13,#1440,someoneyouknow123,cary coding tournament.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.01751,3,3600000,2
+userStrats.s15,#1441,just call me caleb i dont care,2021_05_19_0u0_Kleki.png,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.02216,0,3600000,1
+userStrats.s17,#1442,On_Beyond_HKevin139,Outdia.png,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.03714,0,3600000,3
+userStrats.s18,#1443,IHCPC,E0FE24AC-0211-42AA-9D8F-C1366C7C9123.png,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.03749,0,3600000,-1
+userStrats.s19,#1444,"i couldn't replace my broken py file, just delete this response plz",takeadvantageifican.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.03775,11,3600000,-1
+userStrats.s20,#1445,DuckyDude,TFT3.txt,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.03956,7,3600000,0
+userStrats.s21,#1446,Soaps and Shirts,Sorry.jpg,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.04248,0,3600000,1
+userStrats.s23,#1447,Tulin Legal,Tpotnewcontestants4im.png,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.04317,0,3600000,-1
+userStrats.s27,#1448,Charlie,Passive_Agressive_Tit4Tat.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.05069,23,3600000,1
+userStrats.s35,#1449,E-Bruh,caryhksus.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.06911,2,3600000,2
+userStrats.s54,#1450,Azurade,everyfourth.py,FALSE ( array out of bounds (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,0.1012,15,89.639,1
+userStrats.s58,#1451,Harrison,investigator.py,FALSE (duplicate from same author),0,-1,-1,-1,-1,-1,0.11083,144,305.542,2
+userStrats.s59,#1452,Shenanigans,fortuneTeller.py,"FALSE ( called ""random.seed()"" (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,0.11241,93,200.553,3
+userStrats.s64,#1453,Tess,learner.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.1228,34,3600000,2
+userStrats.s77,#1454,NINJAQKk,AmongUsStrategy.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.15547,18,3600000,1
+userStrats.s83,#1455,Red Savior Animations,Screenshot 2021-05-19 9.22.52 PM.22.52 PM - Red Savior Animations.png,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.16204,0,3600000,3
+userStrats.s85,#1456,Mrpixelz,D.mp4,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.16447,0,3600000,1
+userStrats.s87,#1457,Groxar,NeaterTatForTit.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.16618,8,3600000,2
+userStrats.s97,#1458,Chiff,probablyDoesntWork.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.18138,11,3600000,1
+userStrats.s123,#1459,Shakkar23,rand.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.23078,13,3600000,2
+userStrats.s125,#1460,A Person,Good Strategy.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.23138,6,3600000,0
+userStrats.s145,#1461,Dragonsflame (or Ross if you want a real one),prisoner.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.30729,42,3600000,1
+userStrats.s154,#1462,Esven,titForTatButLucky.py,"FALSE ( called ""random.seed()"" (placed 5th with this trickery) (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,0.37215,22,121.213,3
+userStrats.s157,#1463,Disregard This Submission -- changing file,advancedDetectiveDex.py,FALSE (duplicate from same author),0,-1,-1,-1,-1,-1,0.39591,71,106.485,-1
+userStrats.s166,#1464,Travis,StupidCleverDetective.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.42472,2,3600000,-1
+userStrats.s188,#1465,frodododo,historian.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.5088,13,3600000,2
+userStrats.s191,#1466,Xissel,analysTrust.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.51741,16,3600000,3
+userStrats.s206,#1467,prof_mori,prof_mori_average.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.58983,32,3600000,0
+userStrats.s207,#1468,TheoDlmz,elephant.py,FALSE (duplicate from same author),0,-1,-1,-1,-1,-1,0.59069,185,488.61,1
+userStrats.s211,#1469,enikon,delayed.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.60334,86,26049.708,1
+userStrats.s215,#1470,MoistPyro,wisePrisoner.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.61226,21,3600000,0
+userStrats.s216,#1471,04tmoody,ben.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.61375,26,3600000,3
+userStrats.s222,#1472,Zyonji,ForgetfulTitForTat.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.62433,18,3600000,1
+userStrats.s242,#1473,Vextrove,Strategy.txt.txt - Vextrove.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.68552,5,3600000,2
+userStrats.s245,#1474,Connor,clumsySimpleton.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.70388,23,3600000,0
+userStrats.s250,#1475,Ocean,seedsOfHistory.py,"FALSE ( called ""random.seed()"" (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,0.72329,10,179.775,0
+userStrats.s253,#1476,PattuX,generalDetective.py,FALSE (duplicate from same author),0,-1,-1,-1,-1,-1,0.73624,79,286.465,3
+userStrats.s259,#1477,Octochoron,angeringTitForTat.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.75964,16,3600000,3
+userStrats.s261,#1478,Jack,beNice.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.76213,21,3600000,2
+userStrats.s268,#1479,jucomx (just say joe i have a name that's hard to pronounce in englisch),averagecopy.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.7769,22,3600000,1
+userStrats.s275,#1480,imanoob128,prisonersdilema.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.81124,2,3600000,0
+userStrats.s277,#1481,zoboso,cracker.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.81419,28,3600000,1
+userStrats.s281,#1482,Dan,DBapproach.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,0.83707,33,3600000,3
+userStrats.s283,#1483,John,trojan.py,"FALSE ( Implemented the code ""1011000001011"" in some way or another (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,0.84542,13,102.407,1
+userStrats.s288,#1484,Pawel,magicSeedNumber.py,"FALSE ( called ""random.seed()"" (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,0.85544,13,118.166,2
+userStrats.s306,#1485,Stinky,submission.py,"FALSE ( Implemented the code ""1011000001011"" in some way or another (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,0.9017,16,97.121,1
+userStrats.s319,#1486,Mark James,zzz-psychic.py,"FALSE ( Tampering with random (not technically a crash) AND called ""_getframe"" (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,0.95109,22,100.451,1
+userStrats.s341,#1487,michael_DN,michael-n0813.py,FALSE (duplicate from same author),0,-1,-1,-1,-1,-1,1.06318,47,160.769,3
+userStrats.s366,#1488,Hello,Screenshot 2021-05-20 22.12.33.12.33 - Cat Cubing and Gaming.png,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,1.23948,0,3600000,1
+userStrats.s370,#1489,Nerdico36,Scientist.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,1.26816,80,3600000,1
+userStrats.s389,#1490,Peter,mtft.py,FALSE ( random.random had no parentheses (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,1.4345,10,86.657,3
+userStrats.s392,#1491,Bill Owen,!BillOwen!.py,FALSE ( Tampering with random seed. (Setting it to 0) (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,1.45719,31,409.295,3
+userStrats.s403,#1492,HellLight,TatForTit.py,FALSE ( array out of bounds (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,1.59382,9,87.021,3
+userStrats.s434,#1493,Yewolf,analyser.py,FALSE ( Duplicate of s441.py submitted the same person (Yewolf) (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,1.78481,42,309.628,3
+userStrats.s444,#1494,Matt9n,ForgivingDetective.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,1.85382,40,3600000,0
+userStrats.s446,#1495,Josselin,josselin algorithm tournament.py.py - Josselin BULOT.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,1.86021,23,3600000,1
+userStrats.s447,#1496,NoNeed4Speed,coconut.py,FALSE ( from termios import CRPRNT (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,1.86156,16,114.462,1
+userStrats.s448,#1497,WeeWolfG,PrisonersDilemmaCarykhTournament.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,1.86433,55,3600000,1
+userStrats.s453,#1498,MJ99,Strategy.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,1.87981,6,3600000,-1
+userStrats.s458,#1499,Portavle,stepper.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,1.9169,43,3600000,3
+userStrats.s464,#1500,vtsman,brainwash.py,FALSE ( Imported sys (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,1.94056,16,904.839,2
+userStrats.s466,#1501,WolfeC0,prisonersDilemma.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,1.95009,115,3600000,1
+userStrats.s471,#1502,Jmac00,chickenDinner-1.py,"FALSE ( Implemented the code ""1011000001011"" in some way or another (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,1.98141,13,91.99,1
+userStrats.s477,#1503,PissKid,conditionalGrudge.py,"FALSE ( Implemented the code ""1011000001011"" in some way or another (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,2.0205,14,89.14,3
+userStrats.s488,#1504,Kalyen,ShortTermMemory.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,2.07804,14,3600000,3
+userStrats.s492,#1505,Louis,starage but i dont have one.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,2.10677,3,3600000,3
+userStrats.s501,#1506,Jared,elephant.py,FALSE (duplicate from same author),0,-1,-1,-1,-1,-1,2.22222,17,102.94,1
+userStrats.s506,#1507,Quillan Squires,I probably won’t win idk.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,2.28431,2,3600000,0
+userStrats.s509,#1508,Michael,godfather.py,FALSE (duplicate from same author),0,-1,-1,-1,-1,-1,2.36638,56,95.857,1
+userStrats.s510,#1509,Michael,minion.py,"FALSE ( Minion of the ""minion"" group (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,2.36942,71,92.688,1
+userStrats.s514,#1510,D.B.E. Evolution,titForTat_stab.B.E. Evolution.py,FALSE ( Line 25: TypeError: unsupported operand type(s) for -: 'int' and 'NoneType' (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,2.41703,36,185.519,3
+userStrats.s518,#1511,JetstarRadio,minion.py,"FALSE ( Minion of the ""minion"" group (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,2.45252,71,97.807,3
+userStrats.s522,#1512,Crash The Gaming Master,GUEST_e1b25504-9ec1-4f6e-82b1-1829de2813e5.jpeg,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,2.49,0,3600000,3
+userStrats.s531,#1513,Skip,KingStrat.py,FALSE (duplicate from same author),0,-1,-1,-1,-1,-1,2.56712,29,112.005,2
+userStrats.s534,#1514,Skip,Mason.py,FALSE (duplicate from same author),0,-1,-1,-1,-1,-1,2.57742,27,111.814,2
+userStrats.s553,#1515,rossrkk,hmm.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,2.76117,138,19303.14,2
+userStrats.s588,#1516,Dahdee,validation.py,"FALSE ( Implemented the code ""1011000001011"" in some way or another (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,2.96631,13,90.456,2
+userStrats.s589,#1517,Juan Meleiro,forgiveButDontForget.py,FALSE (duplicate from same author),0,-1,-1,-1,-1,-1,2.96703,7,93.977,2
+userStrats.s594,#1518,Fededot,conditionCheck.py,"FALSE ( Implemented the code ""1011000001011"" in some way or another (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,2.97773,13,89.726,-1
+userStrats.s604,#1519,Amita,t4tPistola.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,3.09203,13,3600000,0
+userStrats.s606,#1520,Zach,!!!!!clockwork_soul.py,FALSE ( Tampering with random (not technically a crash) (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,3.11969,9,132.575,3
+userStrats.s610,#1521,Sebb,observer.py,"FALSE ( Implemented the code ""1011000001011"" in some way or another (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,3.23383,13,89.594,-1
+userStrats.s611,#1522,Amy,observer.py,"FALSE ( Implemented the code ""1011000001011"" in some way or another (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,3.23638,13,90.541,-1
+userStrats.s633,#1523,Internet user,Egoman.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,3.59468,38,3600000,1
+userStrats.s654,#1524,Friday,titForTatbutFriday.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,3.74742,10,3600000,3
+userStrats.s657,#1525,CaryKH,permanentChoice.py,"FALSE ( Implemented the code ""1011000001011"" in some way or another (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,3.77769,10,89.531,2
+userStrats.s659,#1526,Crusty,alternateGrim.py,"FALSE ( Implemented the code ""1011000001011"" in some way or another (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,3.7792,13,88.198,1
+userStrats.s669,#1527,Ben,bayesianDetective.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,3.84263,279,14093.232,3
+userStrats.s689,#1528,DankMemepoop,differentGrudge.py,"FALSE ( Implemented the code ""1011000001011"" in some way or another (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,3.94303,17,90.422,3
+userStrats.s697,#1529,Brendan,puppetmaster.py,FALSE ( Line 20: IndexError: index 10 is out of bounds for axis 1 with size 10 (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,3.99466,23,126.07,3
+userStrats.s698,#1530,uri.zoarets,.zoarets.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,4.01038,2,3600000,3
+userStrats.s702,#1531,FlattestGuitar,jazzed.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,4.04397,12,3600000,2
+userStrats.s708,#1532,Joe,main.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,4.13355,2,3600000,1
+userStrats.s715,#1533,Zyzzyxis (zizz-ix-iss),forgiveThenStab.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,4.16869,12,3600000,1
+userStrats.s717,#1534,Ignore this because i cant delete this,Name _ Phasing-WPS Office.docx,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,4.18353,0,3600000,-1
+userStrats.s750,#1535,acrossingshop,crazy_fan_anne.py,"FALSE ( Minion of the ""crazy-fan"" group (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,4.62528,25,96.312,3
+userStrats.s752,#1536,Soulspar,crazy_fan_soulspar.py,"FALSE ( Minion of the ""crazy-fan"" group (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,4.63509,25,97.85,2
+userStrats.s753,#1537,bippyboppy,minion.py,"FALSE ( Minion of the ""minion"" group (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,4.63995,71,92.86,3
+userStrats.s759,#1538,Hal,Tsundere.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,4.69273,39,3600000,0
+userStrats.s760,#1539,Thiske,abuserAI.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,4.69737,181,14188.815,2
+userStrats.s781,#1540,max,maxus.py,FALSE ( array out of bounds (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,4.82453,25,107.523,2
+userStrats.s795,#1541,Dom the Bomb,superCoolStrategy.py,FALSE (duplicate from same author),0,-1,-1,-1,-1,-1,4.90762,38,107.53,2
+userStrats.s812,#1542,AJM,crazy_fan_adam.py,"FALSE ( Minion of the ""crazy-fan"" group (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,4.99513,25,95.393,2
+userStrats.s835,#1543,Gono3,hello_carykh.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,5.10753,27,3600000,-1
+userStrats.s837,#1544,Nyther (Nai-durr),rickTfT.py,"FALSE ( called ""random.seed()"" (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,5.14866,15,124.563,2
+userStrats.s839,#1545,"Nou skrinketh rose ant lylie-flour That whilen ber that suete savour    In somer, that suete tyde; Ne is no quene so stark ne stour, Ne no levedy so bryht in bour,    That ded ne shal byglyde. Whose wol fleysh lust forgon    Ant hevene blis abyde, On Jesu be is thoht anon,    That therled was ys side.  From Petresbourh in o morewenyng, As Y me wende o my pleyyyng,    On mi folie Y thohte; Menen Y gon my mournyng To hire that ber the hevene kyng,    Of merci hire bysohte: “Ledy, preye thi sone for ous,    That us duere bohte, Ant shild us from the lothe hous    That to the Fend is wrohte!”  Myn herte of dedes wes fordred Of synne that Y have my fleish fed,    Ant folewed al my tyme, That Y not whider I shal be led When Y lygge on dethes bed,    In joie ore into pyne. On o Ledy myn hope is,    Moder ant virgyne; Whe shulen into hevene blis    Thurh hire medicine.  Betere is hire medycyn Then eny mede or eny wyn;    Hire erbes smulleth suete! From Catenas into Dyvelyn, Nis ther no leche so fyn    Oure serewes to bete. Mon that feleth eni sor    Ant his folie wol lete, Withoute gold other eny tresor    He mai be sound ant sete.  Of penaunce is his plastre al. Ant ever serven hire Y shal,    Nou ant al my lyve; Nou is fre that er wes thral, Al thourh that Levedy gent ant smal:         Heried be hyr joies fyve! Wherso eny sek ys,    Thider hye blyve! Thurh hire beoth ybroht to blis,    Bo mayden ant wyve.  For he that dude is body on tre Of oure sunnes have piete,    That weldes heovene boures! Wymmon, with thi jolyfte, Thah thou be whyt ant bryth on ble,    Thou thench on Godes shoures!    Falewen shule thy floures. Jesu, have merci of us,    That al this world honoures.       Amen.",norway.png,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,5.1744,0,3600000,0
+userStrats.s858,#1546,Thecoder3281f,blackjack.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,5.34037,65,3600000,3
+userStrats.s867,#1547,Sultan,KAW_analysis.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,5.41812,31,3600000,2
+userStrats.s883,#1548,Saiv46,Speedwagon.py,FALSE (  (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,5.5639,43,91.728,-1
+userStrats.s923,#1549,dechair3 ( the chair 3),gradual.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,5.76333,15,3600000,3
+userStrats.s934,#1550,Hunter,perry.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,5.80164,4111,22512.371,2
+userStrats.s938,#1551,Harry,crazy_fan_goose.py,"FALSE ( Minion of the ""crazy-fan"" group (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,5.81112,25,99.945,3
+userStrats.s952,#1552,Lost Robot,listenToCardiacs.py,FALSE ( division by zero (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,5.83959,132,95.11,2
+userStrats.s957,#1553,Zekrim,good_enough_i_guess.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,5.85815,86,3600000,3
+userStrats.s964,#1554,jingleCat,tftSmallRandom.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,5.87345,8,3600000,2
+userStrats.s1000,#1555,CaptainCroix,mostlyDefector.py,"FALSE ( Implemented the code ""1011000001011"" in some way or another (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,5.95941,13,94.386,2
+userStrats.s1005,#1556,bee33,eddfd.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,5.9688,57,60000,3
+userStrats.s1021,#1557,StepSwitcher,niceguy.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.01176,21,3600000,2
+userStrats.s1046,#1558,flame,titfortot.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.10598,13,3600000,0
+userStrats.s1050,#1559,Otto Slade,Dilemma.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.11334,9,3600000,0
+userStrats.s1055,#1560,Turtles,prisoners.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.12183,22,3600000,2
+userStrats.s1059,#1561,Sidewinder7,ProfessorX.py,FALSE ( TIME-TRAVELLING MANIAC (getState called with encrypted code in disguise) (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,6.13773,592,1298.19,3
+userStrats.s1060,#1562,Dead Meme Walking,Strawman.py,"FALSE ( called ""_getframe"" (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,6.14491,16,90.741,0
+userStrats.s1065,#1563,Luke Janikowski,angryMomma.py,"FALSE ( Implemented the code ""1011000001011"" in some way or another (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,6.16834,13,93.239,3
+userStrats.s1077,#1564,Meep,prisonersDilemma.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.20025,114,3600000,3
+userStrats.s1120,#1565,dixon,forgetfortat.py,FALSE ( num = random.randit(0 (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,6.3677,13,89.821,-1
+userStrats.s1129,#1566,Silas,i_sigh_less.py,"FALSE ( called ""random.seed()"" (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,6.39881,10,114.514,2
+userStrats.s1136,#1567,Munanochupapi,eviltft.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.42505,18,3600000,-1
+userStrats.s1140,#1568,FlavourFriend,pavlov.py,FALSE (duplicate from same author),0,-1,-1,-1,-1,-1,6.43528,27,97.884,2
+userStrats.s1143,#1569,blob,stupid.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.44594,6,3600000,2
+userStrats.s1147,#1570,Mr. N,DumbDectective.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.4615,76,3600000,1
+userStrats.s1151,#1571,77777771,strategy.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.46968,12,3600000,3
+userStrats.s1164,#1572,Octahedron,mystrat.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.51922,14,3600000,0
+userStrats.s1175,#1573,Joris,WCD_AI,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.5514,1,3600000,-1
+userStrats.s1190,#1574,Jon Greene,YouNeverSaidWeCouldntUpload1Files.py,"FALSE ( Minion of s1437.py in ""bestleecher"" group (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,6.63191,29,98.359,-1
+userStrats.s1191,#1575,Desiree Wolfe,YouNeverSaidWeCouldntUpload2Files.py,"FALSE ( Minion of s1437.py in ""bestleecher"" group (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,6.6351,29,94.239,-1
+userStrats.s1197,#1576,Nikos Plugachev,benevolentElephant.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.64176,95,16404.675,3
+userStrats.s1201,#1577,MothPickShow,PD.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.6525,126,3600000,1
+userStrats.s1210,#1578,Blackhole,genomicOptimizeEvaluate.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.67878,152,60000,3
+userStrats.s1212,#1579,Sergio,bee_movie.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.67968,138,12615.133,2
+userStrats.s1214,#1580,Gregory Campbell,betterJoss.py,"FALSE ( Uses handshaking code: ""0100111"" (7s removed) (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,6.68617,23,99.013,-1
+userStrats.s1215,#1581,Sergio Fernandez,amanda.py,"FALSE ( Uses handshaking code: ""0100111"" (9s removed) (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,6.6953,24,91.403,-1
+userStrats.s1216,#1582,jakobscharf,professionalGrim.py,FALSE ( Obfuscated version of s1219.py (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,6.69535,15,91.961,3
+userStrats.s1219,#1583,Manu,minimalistGrudger.py,FALSE ( Obfuscated version of s1216.py (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,6.71248,13,98.494,2
+userStrats.s1232,#1584,MangoPanacota,unforgivingtitfortat.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.7383,18,3600000,3
+userStrats.s1235,#1585,Nefleheim,notforgivingtft.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.74233,17,3600000,3
+userStrats.s1236,#1586,tony,notforgivingtft.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.74389,17,3600000,-1
+userStrats.s1238,#1587,Greg,AAAAntiRandDAntiJossAntiDetecFTF.py,"FALSE ( Duplicate of 1284.py submitted the same person (Greg's ""AAAAntiRandDAntiJossAntiDetecFTF.py"") (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,6.7475,130,1242.346,2
+userStrats.s1243,#1588,Camille Wagner,module.py,"FALSE ( Uses handshaking code: ""0100111"" (5s removed) (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,6.75649,25,94.777,-1
+userStrats.s1260,#1589,Branchguy,BotChen.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.79037,441,133697.74,1
+userStrats.s1261,#1590,piggie,crazy_fan_loro.py,"FALSE ( Minion of the ""crazy-fan"" group (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,6.79828,25,100.552,0
+userStrats.s1278,#1591,michaelshumshum or my real name Michael Shum,awfulPattern&BehaviourAnalysis.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.8261,151,15676.541,2
+userStrats.s1283,#1592,Branchguy,BotChen.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.83161,469,145106.004,1
+userStrats.s1292,#1593,Grube,stallion.py,"FALSE ( I believe this is the kingmaker that benefits from the ""1011000001011"" code. (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,6.83841,79,130.599,1
+userStrats.s1313,#1594,Hercik (you can call eric for easy spelling),vendetta.py,FALSE (duplicate from same author),0,-1,-1,-1,-1,-1,6.87442,35,96.143,2
+userStrats.s1314,#1595,AngryEndUser,pfusch.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.87447,86,42488.026,2
+userStrats.s1322,#1596,ShaharJ,thereIsNoWayThisStrategyWins.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.88309,14,3600000,1
+userStrats.s1359,#1597,Eiri,titForTatSupremacy.py,FALSE (duplicate from same author),0,-1,-1,-1,-1,-1,6.93279,10,100.307,3
+userStrats.s1364,#1598,Sam,clairvoyance.py,FALSE ( KeyError: 'moduleB' (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,6.93608,75,471.69,3
+userStrats.s1370,#1599,max300000,InQuotesAI.py,FALSE ( line 19:KeyError: '[[1 1 1 1 1 1 0 1] (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,6.93949,603,295.676,0
+userStrats.s1377,#1600,Hamster,crazy_fan_hammy.py,"FALSE ( Minion of the ""crazy-fan"" group (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,6.94443,25,103.371,2
+userStrats.s1384,#1601,Linus Brendel,lookupAndAdjust.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.95351,70,3600000,3
+userStrats.s1431,#1602,Periapsis,Periapsis.py,FALSE (duplicate from same author),0,-1,-1,-1,-1,-1,6.9933,99,127.261,2
+userStrats.s1435,#1603,Nikos,CrimsonB.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.99458,90,29785.244,1
+userStrats.s1437,#1604,Nateguana,bestLeecher.py,FALSE ( bestleecher.py is a kingmaker strategy with minions (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,6.99624,41,90.819,0
+userStrats.s1441,#1605,Cyanime,SherlockHolmes.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,6.99875,154,60000,2
+userStrats.s1446,#1606,Ascpixel (asc for short),tem.py,FALSE (duplicate from same author),0,-1,-1,-1,-1,-1,7.00056,233,271.527,2
+userStrats.s1460,#1607,1-UP Nuke,ragequit.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,7.00803,1,3600000,3
+userStrats.s1461,#1608,2025jiji,8t64pt.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,7.00832,12,3600000,2
+userStrats.s1464,#1609,/// Tici,defectingCooperator.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,7.00919,10,3600000,2
+userStrats.s1490,#1610,2025jiji,8t64pt.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,7.01722,12,3600000,2
+userStrats.s1499,#1611,Davi and Vinny Pagano (other email: vpagano@princeton.edu),strategy.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,7.01962,326,3600000,-1
+userStrats.s1500,#1612,kikones34,superMegaCoolStratUltraNoRubyOnlyKingAndKiko.py,FALSE (  (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,7.01978,135,381.937,0
+userStrats.s1504,#1613,Frederico Messa (a.k.a. PlixMax),patternExploiter.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,7.02031,108,33206.529,0
+userStrats.s1505,#1614,Demian,1rb0WfGD0s.py,FALSE ( Line 20: IndexError: list index out of range (Crashed during full-matrix run)),0,-1,-1,-1,-1,-1,7.02049,57,107.909,1
+userStrats.s1512,#1615,Phyremaster,investigator.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,7.02711,158,3600000,3
+userStrats.s1525,#1616,Ghost256,Prisoner256.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,7.08671,11,3600000,0
+userStrats.s1531,#1617,IANco,Prisoner's_Dilemma.. - EN Kreag.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,7.11275,1023,60000,3
+userStrats.s1540,#1618,Andrew K.,mob_boss.py,"FALSE ( mob-boss.py is a kingmaker strategy of the ""mob-boss"" group - self-proclaimed ""Gangster"" (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,7.15882,56,93.051,1
+userStrats.s1542,#1619,Sarah,Racketeer.py,"FALSE ( Minion of the ""mob-boss"" group (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,7.17016,31,92.654,0
+userStrats.s1553,#1620,AlgebraIsTooFun101,main.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,7.32766,163,3600000,1
+userStrats.s1557,#1621,Timkador,Copycat-detector.py,FALSE (crashed/froze during sanity check),0,-1,-1,-1,-1,-1,7.4673,86,3600000,2
+userStrats.s1577,#1622,Alexa,Gangster.py,"FALSE ( Minion of the ""mob-boss"" group (Crashed during full-matrix run))",0,-1,-1,-1,-1,-1,7.87362,29,98.862,1
+userStrats.s1585,#1623,Roman,quartz.py,FALSE (duplicate from same author),0,-1,-1,-1,-1,-1,7.98627,69,94.116,2
+userStrats.s1592,#1624,Maildropfolder (pronounced just like the three words),statsWhale.py,FALSE (duplicate from same author),0,-1,-1,-1,-1,-1,8.0205,75,88.454,0
